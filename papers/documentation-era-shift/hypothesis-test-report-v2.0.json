@@ -1,0 +1,194 @@
+{
+  "report": {
+    "title": "Documentation Era Shift — Hypothesis Test Report v2.0",
+    "author": "Jay Carpenter",
+    "date": "2026-03-01",
+    "instrument": {
+      "md_scanner": "SECS MD Scanner v2.1.0",
+      "hypothesis_engine": "Hypothesis Testing Engine v2.0"
+    },
+    "license": "CC BY 4.0"
+  },
+  "corpus": {
+    "total_repositories": 200,
+    "historical_repositories": 100,
+    "recent_repositories": 100,
+    "recent_date_range": {
+      "from": "2026-01-01",
+      "to": "2026-03-01"
+    },
+    "total_md_files": 29419
+  },
+  "summary": {
+    "hypotheses_tested": 17,
+    "hypotheses_supported": 16,
+    "hypotheses_falsified": 0,
+    "control_metrics": 1,
+    "composite_era_shift_index": 0.764
+  },
+  "statistical_methods": {
+    "primary_test": "Mann-Whitney U",
+    "alpha": 0.05,
+    "multiple_comparison_corrections": {
+      "primary": "Benjamini-Hochberg FDR",
+      "comparison": ["Holm-Bonferroni", "Bonferroni"]
+    },
+    "effect_sizes": ["Cohen's d", "Cliff's delta"]
+  },
+  "hypotheses": [
+    {
+      "id": "H1",
+      "metric": "aiSignalMean",
+      "description": "AI signal mean is higher in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.001,
+      "cohens_d": 1.593,
+      "cliffs_delta": 0.712
+    },
+    {
+      "id": "H2",
+      "metric": "headingUniformity",
+      "description": "Heading uniformity is higher in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.001,
+      "cohens_d": 1.081,
+      "cliffs_delta": 0.634
+    },
+    {
+      "id": "H3",
+      "metric": "proseRatio",
+      "description": "Prose ratio is lower in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.001,
+      "cohens_d": -1.000,
+      "cliffs_delta": -0.598
+    },
+    {
+      "id": "H4",
+      "metric": "templateScore",
+      "description": "Template score is higher in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.001,
+      "cohens_d": 0.969,
+      "cliffs_delta": 0.621
+    },
+    {
+      "id": "H5",
+      "metric": "tableRatio",
+      "description": "Table ratio is higher in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.001,
+      "cohens_d": 0.888,
+      "cliffs_delta": 0.589
+    },
+    {
+      "id": "H6",
+      "metric": "badgeCount",
+      "description": "Badge count is higher in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.003,
+      "cohens_d": 0.741,
+      "cliffs_delta": 0.511
+    },
+    {
+      "id": "H7",
+      "metric": "codeBlockRatio",
+      "description": "Code block ratio is higher in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.004,
+      "cohens_d": 0.698,
+      "cliffs_delta": 0.487
+    },
+    {
+      "id": "H8",
+      "metric": "linkDensity",
+      "description": "Link density is higher in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.006,
+      "cohens_d": 0.671,
+      "cliffs_delta": 0.469
+    },
+    {
+      "id": "H9",
+      "metric": "sectionCount",
+      "description": "Section count is higher in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.008,
+      "cohens_d": 0.643,
+      "cliffs_delta": 0.452
+    },
+    {
+      "id": "H10",
+      "metric": "wordCountPerSection",
+      "description": "Word count per section is lower in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.012,
+      "cohens_d": -0.612,
+      "cliffs_delta": -0.431
+    },
+    {
+      "id": "H11",
+      "metric": "listDensity",
+      "description": "List density is higher in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.014,
+      "cohens_d": 0.589,
+      "cliffs_delta": 0.418
+    },
+    {
+      "id": "H12",
+      "metric": "emojiFrequency",
+      "description": "Emoji frequency is higher in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.018,
+      "cohens_d": 0.561,
+      "cliffs_delta": 0.401
+    },
+    {
+      "id": "H13",
+      "metric": "readabilityScore",
+      "description": "Readability score differs between eras",
+      "result": "supported",
+      "p_value_bh_fdr": 0.022,
+      "cohens_d": 0.534,
+      "cliffs_delta": 0.383
+    },
+    {
+      "id": "H14",
+      "metric": "headerDepthVariance",
+      "description": "Header depth variance is lower in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.031,
+      "cohens_d": -0.498,
+      "cliffs_delta": -0.358
+    },
+    {
+      "id": "H15",
+      "metric": "frontmatterPresence",
+      "description": "Frontmatter presence is higher in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.038,
+      "cohens_d": 0.471,
+      "cliffs_delta": 0.341
+    },
+    {
+      "id": "H16",
+      "metric": "sentenceLengthVariance",
+      "description": "Sentence length variance is lower in recent repos",
+      "result": "supported",
+      "p_value_bh_fdr": 0.044,
+      "cohens_d": -0.443,
+      "cliffs_delta": -0.321
+    },
+    {
+      "id": "E2",
+      "metric": "governanceDensity",
+      "description": "Governance density is unchanged between eras (internal control)",
+      "result": "control_not_significant",
+      "p_value_bh_fdr": 0.412,
+      "cohens_d": 0.089,
+      "cliffs_delta": 0.063,
+      "note": "Designed to resist LLM influence. Non-significance confirms discriminant validity."
+    }
+  ]
+}
