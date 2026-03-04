@@ -1,32 +1,26 @@
 # Maternal Triggers of the Placental Anti-Angiogenic Cascade: An Exhaustive Literature Synthesis
 
-## Post-Publication Extension to the Gestational Oxygen-Timing Alignment Model
+## Preprint — Not Yet Peer-Reviewed
+
+**Author:** Jay Andrew Carpenter  
+Independent Researcher, Sydney, Australia  
+jay.andrew.carpenter@gmail.com
+
+**Date:** 2026-03-05  
+**License:** CC-BY 4.0 International  
+**Status:** Preprint — submitted for open review
 
 ---
 
-**Jay Carpenter**
+## Abstract
 
-Independent Researcher, Sydney, Australia
+The gestational oxygen-timing alignment model establishes that the timing of placental oxygen disruption determines which fetal organ systems sustain latent injury. That model treats the placental insult as a given — preeclampsia occurs, sFlt-1 rises, PlGF falls, placental blood flow is compromised. This extension asks the upstream question: what fires the placental anti-angiogenic cascade in the first place? This exhaustive literature synthesis identifies every documented maternal trigger of sFlt-1 elevation, PlGF suppression, and uteroplacental vasoconstriction, mapping each trigger to its molecular mechanism, evidence quality, and gestational timing vulnerability. The core hypothesis under investigation is that the placental anti-angiogenic cascade (sFlt-1 elevation, PlGF suppression, endothelin-1 release, uteroplacental vasoconstriction) is not a binary pathological switch but a graded, triggerable physiological response contained within the maternal system. Everyday maternal events — sleep position, nutritional deficits, cortisol spikes, infections, exertion, circadian desaturation — can activate the same molecular cascade that, when sustained or stacked, produces placental insufficiency and fetal hypoxia. Over 120 primary sources were evaluated across trigger categories including sleep position and inferior vena cava compression, maternal nutrition and iron deficiency, psychological stress and cortisol, infection and inflammation, physical exertion, environmental exposures, and circadian oxygen variation. If correct, this reframes preeclampsia not as a disease that either occurs or does not, but as a spectrum of placental anti-angiogenic activation that all pregnancies experience to varying degrees, with clinical preeclampsia representing the tail of a distribution. This has immediate implications for preventive strategies targeting modifiable maternal triggers during identified vulnerability windows.
 
-**Date:** 2026-03-04
-
-**Document Type:** Structured literature synthesis (post-publication extension)
-
-**Parent Document:** Gestational Oxygen-Timing Alignment: A Unifying Hypothesis Linking Placental Insufficiency, HIF-1α Counter-Regulation, and Latent Multi-Organ Developmental Injury
+**Keywords:** sFlt-1, PlGF, placental anti-angiogenic cascade, preeclampsia, maternal triggers, uteroplacental perfusion, sleep position, iron deficiency, cortisol, gestational hypoxia
 
 ---
 
-## PURPOSE
-
-The parent model establishes that the *timing* of placental oxygen disruption determines which fetal organ systems sustain latent injury. That model treats the placental insult as a given — preeclampsia occurs, sFlt-1 rises, PlGF falls, placental blood flow is compromised. This extension asks the upstream question: **what fires the cascade in the first place?**
-
-The core hypothesis under investigation: the placental anti-angiogenic cascade (sFlt-1 elevation, PlGF suppression, endothelin-1 release, uteroplacental vasoconstriction) is not a binary pathological switch but a **graded, triggerable physiological response** contained within the maternal system. Everyday maternal events — sleep position, nutritional deficits, cortisol spikes, infections, exertion, circadian desaturation — can activate the same molecular cascade that, when sustained or stacked, produces placental insufficiency and fetal hypoxia.
-
-If correct, this reframes preeclampsia not as a disease that either occurs or does not, but as a spectrum of placental anti-angiogenic activation that all pregnancies experience to varying degrees, with clinical preeclampsia representing the tail of a distribution.
-
----
-
-## METHODOLOGY
+## Methodology
 
 Literature was identified through PubMed, Google Scholar, Cochrane Library, and reference-chain searching. Search terms included combinations of: sFlt-1, soluble fms-like tyrosine kinase, PlGF, placental growth factor, anti-angiogenic, placental insufficiency, uteroplacental blood flow, uterine artery, spiral artery remodelling, and each specific trigger category. Over 120 primary sources were evaluated; 68 are cited below. Evidence quality is graded for each study.
 
