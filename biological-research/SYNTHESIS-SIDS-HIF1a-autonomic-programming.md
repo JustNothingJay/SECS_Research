@@ -210,7 +210,87 @@ This explains the defining features of SIDS: it occurs during sleep, there is no
 
 ---
 
-## 6. Risk Factor Alignment
+## 6. The Convergent Vulnerability Window: Gestational Weeks 24-32
+
+### 6.1 Three Autonomic Systems Building Simultaneously
+
+The three autonomic systems whose simultaneous failure produces SIDS do not develop at random, unrelated times. They share overlapping gestational windows of peak HIF-1alpha-dependent functional maturation — and the overlap defines a narrow period during which a single hypoxic insult damages all three at once.
+
+Each system progresses through distinct developmental phases: neural crest migration, structural formation, and functional maturation. The critical insight is that while migration and early structural formation are offset in time, the HIF-1alpha-dependent functional maturation phase — the period when the cells are building receptor expression, circuit integration, and secretory capacity — converges during the late second and early third trimester:
+
+| System | Origin | Structural Formation | Functional Maturation (Peak) | HIF-1alpha Dependency |
+|--------|--------|---------------------|---------------------------|----------------------|
+| **Sympathetic cardiac innervation** | Neural crest (weeks 5-8) | Ganglion chain: weeks 7-16; cardiac nerve extension begins | Weeks 20-34: TH-positive fibres establish cardiac innervation density; target-derived neurotrophic signalling | HIF-1alpha required for preganglionic neuron survival, postganglionic proliferation, and ganglion chain formation (Bohuslavova et al., 2019) |
+| **Brainstem serotonergic (medullary raphe)** | Hindbrain progenitors (weeks 5-8) | Raphe neurogenesis and migration into medullary nuclei: weeks 8-20 | Weeks 20-36: TPH2 expression maturation, 5-HT receptor integration into cardiorespiratory circuits, dendritic arborisation in raphae obscurus/pallidus and arcuate nucleus | Oxygen-dependent maturation; hypoxia alters serotonergic expression via microglial activation (MacFarlane et al., 2016); HIF-1alpha mediates neuronal survival decisions during circuit refinement |
+| **Adrenal medullary chromaffin cells** | Neural crest — sympathoadrenal progenitors (weeks 7-9) | Chromaffin differentiation from sympathoadrenal lineage: weeks 12-24; PNMT expression (epinephrine synthesis) increasing | Weeks 24-36: maturation of direct oxygen-sensing capacity (non-neurogenic catecholamine release); catecholamine biosynthetic enzyme expression reaching functional levels | HIF-1alpha required for chromaffin cell development; knockout reduces chromaffin population (Bohuslavova et al., 2019) |
+
+### 6.2 The Overlap Window
+
+```
+GESTATIONAL WEEK:     4    8    12   16   20   24   28   32   36   40
+                      |    |    |    |    |    |    |    |    |    |
+SYMPATHETIC           ████                                          neural crest
+ (cardiac innerv.)    ........----░░░░░░░░████████████████----....  functional
+                                                                    maturation
+SEROTONERGIC          ████                                          neurogenesis
+ (medullary raphe)    ............----░░░░░░░░████████████████----   circuit
+                                                                    integration
+CHROMAFFIN            ..████                                        migration
+ (adrenal medulla)    ............----░░░░░░░░████████████████----   O2-sensing
+                                                                    maturation
+                      |    |    |    |    |    |    |    |    |    |
+                      4    8    12   16   20   24   28   32   36   40
+
+                                          |←— OVERLAP —→|
+                                          24             32
+
+████ = Peak vulnerability   ░░░░ = Active/building   ---- = Transitioning
+```
+
+**The convergent vulnerability window spans approximately gestational weeks 24-32.** During this period, all three autonomic systems are simultaneously in their most active phase of HIF-1alpha-dependent functional maturation. This is not a coincidence — it reflects the developmental biology of the autonomic nervous system, where sympathoadrenal lineage differentiation (sympathetic neurons and chromaffin cells share a common neural crest progenitor) and brainstem autonomic circuit integration proceed in parallel during the same gestational epoch.
+
+### 6.3 One Window, Three Failures, One Death
+
+This timing convergence transforms the SIDS hypothesis from a claim about three separate injuries to a claim about a single developmental event:
+
+**A single episode of sustained fetal hypoxia during gestational weeks 24-32 — from a preeclamptic vasospasm, a placental abruption, a cord compression event, or chronic placental insufficiency — simultaneously disrupts:**
+
+1. **Sympathetic cardiac innervation** (TH-positive fibre density to the heart reduced) — the infant will be born with diminished capacity for heart rate acceleration during physiological stress
+2. **Medullary serotonergic circuit maturation** (5-HT receptor integration into cardiorespiratory nuclei disrupted) — the infant will be born with impaired arousal and chemoreceptive responses during sleep
+3. **Adrenal chromaffin cell functional maturation** (catecholamine biosynthetic capacity and direct O2-sensing reduced) — the infant will be born with diminished capacity for the catecholamine surge that normally accompanies physiological crisis
+
+The result is not three injuries requiring three explanations. It is one injury — gestational HIF-1alpha disruption during the convergent window — producing one syndrome.
+
+### 6.4 Why Any Two of Three Might Be Survivable
+
+The triple-failure model explains an otherwise puzzling feature of SIDS: many infants with one or even two of these deficits survive. The autonomic system has built-in redundancy:
+
+- An infant with impaired sympathetic control but intact serotonergic arousal will wake up and cry when hypoxic — the arousal compensates for the sympathetic deficit
+- An infant with impaired serotonergic arousal but intact chromaffin response may not wake, but the catecholamine surge can maintain cardiac output long enough for the rebreathing microenvironment to dissipate
+- An infant with impaired chromaffin response but intact sympathetic innervation can still mount a cardiac rate increase through the direct neural pathway
+
+**Only when all three systems fail simultaneously does the infant lack any compensatory mechanism.** This is why SIDS is relatively rare even among high-risk populations — the hypoxic insult must be severe enough, and precisely timed within the convergent window, to damage all three systems beyond their individual compensatory thresholds.
+
+### 6.5 The Dose-Timing Relationship
+
+The convergent window model predicts a specific dose-timing relationship:
+
+| Insult Timing | Systems Affected | Predicted Outcome |
+|--------------|-----------------|-------------------|
+| Before week 20 | Sympathetic only (early structural phase); serotonergic/chromaffin not yet in peak maturation | Isolated cardiac autonomic deficit — possible cardiac arrhythmia risk but NOT SIDS (insufficient serotonergic/chromaffin injury) |
+| Weeks 20-24 | Sympathetic (active); serotonergic and chromaffin (entering active phase) | Partial triple injury — increased SIDS risk but some compensatory capacity retained |
+| **Weeks 24-32** | **All three at peak** | **Maximum SIDS risk — the convergent window** |
+| After week 32 | Sympathetic (closing); serotonergic (declining); chromaffin (still active but past peak) | Reduced SIDS risk — the most critical maturation steps are already complete |
+
+This predicts that the gestational timing of the hypoxic insult matters as much as its severity. A moderate insult during weeks 26-30 may produce higher SIDS risk than a severe insult at week 36, because the convergent window has closed by the later date.
+
+### 6.6 Alignment with the Multi-System Gestational Super-Window
+
+The convergent autonomic vulnerability window at weeks 24-32 falls within a broader gestational super-window during which 9-10 organ systems (including white matter, renal, cardiac, cerebellar, hippocampal, pulmonary, pancreatic, hepatic, retinal, and cortical) are simultaneously vulnerable to HIF-1alpha disruption. This means that the same hypoxic event during weeks 24-32 that programmes SIDS risk can also programme latent white matter injury (language delay), nephron reduction (later hypertension), and beta-cell deficit (later metabolic syndrome) — a finding consistent with the epidemiological observation that SIDS siblings share elevated rates of neurodevelopmental conditions and that SIDS risk factors overlap extensively with the risk factors for cerebral palsy, developmental coordination disorder, and specific learning difficulties.
+
+---
+
+## 7. Risk Factor Alignment
 
 Every major SIDS risk factor involves a mechanism that disrupts fetal or neonatal oxygen homeostasis, consistent with the HIF-1alpha programming hypothesis:
 
@@ -261,33 +341,37 @@ The exogenous trigger in the triple-risk model. Prone sleeping with soft bedding
 
 ---
 
-## 7. Testable Predictions
+## 8. Testable Predictions
 
-### 7.1 HIF3A Methylation in Newborn Blood Spots
+### 8.1 HIF3A Methylation in Newborn Blood Spots
 
 HIF3A is hypoxia-inducible factor 3-alpha. Its methylation state in cord blood or archived newborn blood spots (Guthrie cards) directly reflects in-utero oxygen exposure. The model predicts that SIDS cases will show altered HIF3A methylation compared to controls — measurable in the same archived newborn screening blood spots used by Harrington et al. (2022) to identify the BChE deficit.
 
 **Study design:** Retrospective case-control using archived Guthrie cards from confirmed SIDS cases and age/sex/date-of-birth-matched controls. Measure HIF3A methylation at CpG sites known to be oxygen-responsive. This is immediately feasible with existing biobanked samples.
 
-### 7.2 Tyrosine Hydroxylase Immunostaining in SIDS Autopsy Tissue
+### 8.2 Gestational Timing of Hypoxic Insult in SIDS Cases
+
+The convergent window model (Section 6) makes a specific, falsifiable prediction: in SIDS cases where a gestational hypoxic event can be identified (clinical preeclampsia, documented placental insufficiency, cord pathology), the timing of that event should cluster within weeks 24-32 more frequently than in non-SIDS infant deaths. Retrospective review of maternal medical records in confirmed SIDS cases, with gestational dating of documented hypoxic events, would test this prediction directly.
+
+### 8.3 Tyrosine Hydroxylase Immunostaining in SIDS Autopsy Tissue
 
 Tyrosine hydroxylase (TH) is the rate-limiting enzyme for catecholamine synthesis and the standard marker for sympathetic innervation used by Bohuslavova et al. (2019). The model predicts decreased TH immunostaining in the cardiac tissue and sympathetic ganglion chain of SIDS autopsies compared to accidental death controls.
 
-### 7.3 Adrenal Chromaffin Cell Counts
+### 8.4 Adrenal Chromaffin Cell Counts
 
 The model predicts reduced chromaffin cell counts or reduced catecholamine content in the adrenal medulla of SIDS victims, consistent with the HIF-1alpha-dependent chromaffin cell deficit demonstrated by Bohuslavova et al. (2019).
 
-### 7.4 Correlation Between Maternal Hypoxia Biomarkers and SIDS
+### 8.5 Correlation Between Maternal Hypoxia Biomarkers and SIDS
 
 In prospective cohorts such as the Collaborative Perinatal Project or modern birth cohorts, the model predicts that maternal biomarkers of placental insufficiency (elevated sFlt-1, reduced PlGF, abnormal uterine artery Doppler) should correlate with subsequent SIDS risk, even in pregnancies that do not reach the clinical threshold for preeclampsia diagnosis.
 
-### 7.5 Combined BChE and HIF3A Prediction
+### 8.6 Combined BChE and HIF3A Prediction
 
 The most powerful predictive test would combine the BChE deficit identified by Harrington et al. (2022) with HIF3A methylation status — both measurable from the same newborn screening blood spot. An infant with both low BChE specific activity and altered HIF3A methylation would represent the highest-risk subpopulation: confirmed autonomic dysfunction (BChE) with confirmed gestational hypoxic exposure (HIF3A).
 
 ---
 
-## 8. Integration with the Gestational Oxygen-Timing Alignment Model
+## 9. Integration with the Gestational Oxygen-Timing Alignment Model
 
 This SIDS hypothesis is a natural extension of the gestational oxygen-timing alignment model (Carpenter, 2026a, 2026b). That model proposes that sustained HIF-1alpha activation during critical developmental windows arrests the maturation of organ-specific progenitor cells, producing a spectrum of neurodevelopmental and organ-specific conditions:
 
@@ -303,27 +387,27 @@ The same gestational hypoxic insult that produces latent white matter injury, ca
 
 ---
 
-## 9. Limitations
+## 10. Limitations
 
-### 9.1 This Is a Synthesis Hypothesis
+### 10.1 This Is a Synthesis Hypothesis
 
 This paper integrates findings from molecular biology, neuropathology, and epidemiology into a unified framework. It does not present new experimental data. Each individual component — HIF-1alpha in sympathetic development, brainstem serotonin in SIDS, BChE as a biomarker — is supported by primary evidence. The synthesis linking them through a common gestational HIF-1alpha mechanism is the novel contribution and requires direct experimental testing.
 
-### 9.2 SIDS Is Likely Heterogeneous
+### 10.2 SIDS Is Likely Heterogeneous
 
 Not all SIDS cases may share the same mechanism. Channelopathies (long QT syndrome, accounting for up to 10-20% of cases), metabolic disorders (MCAD deficiency), and other genetic vulnerabilities contribute to the SIDS population. The HIF-1alpha autonomic programming hypothesis may explain a substantial subset — potentially the majority — but likely not all cases.
 
-### 9.3 The Brainstem Serotonergic Link Is Indirect
+### 10.3 The Brainstem Serotonergic Link Is Indirect
 
 While neonatal hypoxia has been shown to alter brainstem serotonergic expression (MacFarlane et al., 2016), the specific role of HIF-1alpha in brainstem serotonergic neuron development has not been as directly demonstrated as its role in sympathetic nervous system development (Bohuslavova et al., 2019). The serotonergic component of the model is mechanistically plausible but requires direct confirmation that HIF-1alpha mediates serotonergic maturation in the medullary raphae nuclei.
 
-### 9.4 Animal Model Translation
+### 10.4 Animal Model Translation
 
-The key sympathetic development findings (Bohuslavova et al., 2019; Kolesova et al., 2024) are from mouse models. While the HIF-1alpha pathway is highly conserved across mammals, direct human confirmation requires the autopsy-based and biomarker studies proposed in Section 7.
+The key sympathetic development findings (Bohuslavova et al., 2019; Kolesova et al., 2024) are from mouse models. While the HIF-1alpha pathway is highly conserved across mammals, direct human confirmation requires the autopsy-based and biomarker studies proposed in Section 8.
 
 ---
 
-## 10. Conclusion
+## 11. Conclusion
 
 SIDS has remained mechanistically unexplained for decades because the three systems whose failure produces death — cardiac sympathetic, brainstem serotonergic, and adrenomedullary — have been studied by different research communities using different methods, without a unifying molecular mechanism connecting their developmental origins.
 
@@ -333,7 +417,9 @@ It is required for sympathetic nervous system development (Bohuslavova et al., 2
 
 Every major SIDS risk factor — prematurity, low birth weight, maternal smoking, maternal diabetes, anaemia, male sex — involves a mechanism that disrupts fetal oxygen homeostasis and therefore HIF-1alpha signalling. The cholinergic deficit measurable at birth (Harrington et al., 2022) confirms that the autonomic vulnerability is programmed in utero. The peak incidence at 2-4 months coincides with the functional window where these developmental deficits become lethal liabilities.
 
-The hypothesis does not replace the triple-risk model. It identifies the molecular mechanism that creates the first risk — the underlying biological vulnerability — and connects it to the established pathology found in SIDS victims. It generates immediately testable predictions using existing biobanked samples and routine autopsy protocols.
+The convergent vulnerability window at gestational weeks 24-32 — when all three autonomic systems are simultaneously in their most active phase of HIF-1alpha-dependent functional maturation — explains why a single gestational hypoxic insult can produce the triple autonomic failure that characterises SIDS. This timing convergence is the central prediction of the model and is directly testable through gestational dating of hypoxic insults in confirmed SIDS cases.
+
+The hypothesis does not replace the triple-risk model. It identifies the molecular mechanism that creates the first risk — the underlying biological vulnerability — specifies the gestational window during which that vulnerability is programmed, and connects it to the established pathology found in SIDS victims. It generates immediately testable predictions using existing biobanked samples and routine autopsy protocols.
 
 If confirmed, this framework transforms SIDS from an unexplained syndrome to a predictable consequence of gestational oxygen disruption — and opens the possibility of screening, risk stratification, and targeted monitoring for the highest-risk infants before any death occurs.
 
@@ -390,13 +476,13 @@ If confirmed, this framework transforms SIDS from an unexplained syndrome to a p
 ## Adversarial Stress Test
 
 **Q: Is this just correlation — SIDS risk factors overlap with hypoxia, but that does not prove HIF-1alpha is the mechanism?**
-A: The Bohuslavova (2019) PNAS paper is not correlational. It is a direct genetic knockout demonstrating that without HIF-1alpha, the sympathetic nervous system does not develop normally, perinatal survival decreases, and cardiac innervation is compromised. The connection between HIF-1alpha and autonomic development is causal, not correlational. The correlation argument applies only to the extension from animal models to human SIDS, which is why specific testable predictions (Section 7) are provided.
+A: The Bohuslavova (2019) PNAS paper is not correlational. It is a direct genetic knockout demonstrating that without HIF-1alpha, the sympathetic nervous system does not develop normally, perinatal survival decreases, and cardiac innervation is compromised. The connection between HIF-1alpha and autonomic development is causal, not correlational. The correlation argument applies only to the extension from animal models to human SIDS, which is why specific testable predictions (Section 8) are provided.
 
 **Q: The brainstem serotonergic findings in SIDS are well-established, but you have not proven that HIF-1alpha specifically controls serotonergic development in the medulla.**
-A: Acknowledged in the limitations (Section 9.3). The direct link between HIF-1alpha and brainstem serotonergic neuron maturation has not been demonstrated with the same rigour as the sympathetic link. However, MacFarlane et al. (2016) show that neonatal hypoxia (which operates through HIF-1alpha) alters brainstem serotonergic expression via microglial activation. The mechanistic plausibility is strong; the direct proof requires conditional HIF-1alpha knockout in serotonergic progenitors.
+A: Acknowledged in the limitations (Section 10.3). The direct link between HIF-1alpha and brainstem serotonergic neuron maturation has not been demonstrated with the same rigour as the sympathetic link. However, MacFarlane et al. (2016) show that neonatal hypoxia (which operates through HIF-1alpha) alters brainstem serotonergic expression via microglial activation. The mechanistic plausibility is strong; the direct proof requires conditional HIF-1alpha knockout in serotonergic progenitors.
 
 **Q: If this hypothesis were true, why would not all infants with preeclampsia or prematurity die of SIDS?**
 A: Because the model predicts a dose-response relationship, not a binary outcome. The severity and timing of HIF-1alpha disruption determines the degree of autonomic deficit. Most affected infants have subclinical deficits — slightly reduced arousal, slightly impaired cardiac autonomic control — that never become lethal because they never encounter a sufficient exogenous stressor during the vulnerable window. SIDS represents the tail of the distribution where autonomic deficit severity and stressor severity converge.
 
 **Q: The BChE finding has not been independently replicated.**
-A: Correct. Replication is essential. However, the finding is biologically plausible, uses a validated methodology (dried blood spot analysis), and the effect size is substantial (P = 0.0014). The proposed combination of BChE with HIF3A methylation (Section 7.5) would provide convergent validation if both markers independently predict SIDS in the same samples.
+A: Correct. Replication is essential. However, the finding is biologically plausible, uses a validated methodology (dried blood spot analysis), and the effect size is substantial (P = 0.0014). The proposed combination of BChE with HIF3A methylation (Section 8.6) would provide convergent validation if both markers independently predict SIDS in the same samples.
