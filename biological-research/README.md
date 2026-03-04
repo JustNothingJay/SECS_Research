@@ -10,7 +10,7 @@
 
 ## Overview
 
-This corpus contains **29 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
+This corpus contains **34 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
 
 The work was motivated by a personal case (preeclampsia, neonatal ICU, oxygen desaturations) and grew into a systematic, citation-backed investigation spanning neonatal physiology, developmental neuroscience, epigenetics, HIF molecular biology, and global health epidemiology.
 
@@ -30,10 +30,15 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 ### Synthesis Papers
 | File | Description |
 |------|-------------|
-| `SYNTHESIS-gestational-oxygen-timing-alignment.md` | **The submitted preprint** — 12 sections, 100 references, significance statement, adversarial stress test |
+| `SYNTHESIS-gestational-oxygen-timing-alignment.md` | **Paper 1 (submitted)** — OPC maturation arrest and ASD. 12 sections, 100 references. Submitted to medRxiv March 2026 |
 | `SYNTHESIS-gestational-oxygen-timing-alignment.pdf` | PDF version submitted to medRxiv |
 | `SYNTHESIS-gestational-oxygen-timing-alignment.docx` | DOCX companion |
-| `SYNTHESIS-maternal-triggers-placental-anti-angiogenic-cascade.md` | Track 2 — What natural moments fire the placental cascade: stress, food, sleep position, circadian oxygen rhythm |
+| `SYNTHESIS-multi-organ-gestational-oxygen-timing.md` | **Paper 2** — Multi-organ gestational oxygen-timing alignment. 10 organ systems, fixed endowment principle, HIF-1α as common thread, 75+ references |
+| `SYNTHESIS-treatment-convergence-oxygen-OPC-axis.md` | **Paper 3** — Treatment convergence on the oxygen-OPC axis. 11 therapies analysed, dual-arm framework, 50+ references |
+| `SYNTHESIS-gestational-hypoxia-cancer-predisposition.md` | **Paper 4** — Gestational hypoxia and cancer predisposition. Two-Step Warburg Hypothesis, Extended Knudson Model, OPC-glioma lineage, 55 references |
+| `SYNTHESIS-LMIC-neonatal-oxygen-natural-experiment.md` | **Paper 5** — LMIC neonatal oxygen natural experiment. MOXY/NEST360 data, altitude experiments, 4 actionable studies, 25 references |
+| `SYNTHESIS-epigenetic-biomarkers-gestational-hypoxia.md` | **Paper 6** — Epigenetic biomarkers of gestational hypoxia. 6 biomarker classes, 10 idiopathic conditions mapped, Guthrie card retrospective framework, 36 references |
+| `SYNTHESIS-maternal-triggers-placental-anti-angiogenic-cascade.md` | **Paper 7** — Maternal triggers of the placental anti-angiogenic cascade. sFlt-1/PlGF graded activation, sleep position, nutrition, cortisol, circadian desaturation, 782 lines |
 
 ### Post-Publication Extension Tracks
 | File | Description |
@@ -88,11 +93,12 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 
 ## Key Numbers
 
-- **29 research documents** in this corpus (22 original + 1 synthesis paper + 6 post-publication extension tracks)
-- **600+ citations** across the literature base
+- **34 research documents** in this corpus (22 original + 7 synthesis papers + 5 post-publication extension tracks)
+- **900+ citations** across the literature base
+- **7 synthesis papers** — Paper 1 submitted to medRxiv, Papers 2-7 ready for submission
 - **10 organ systems** mapped with vulnerability windows
 - **11 therapies** analysed for convergence on the O₂/OPC axis
-- **6 post-publication extension tracks** covering paternal epigenetics, maternal triggers, environmental exposures, immune activation, neonatal oxygen management, and cascade trigger mechanisms
+- **5 post-publication extension tracks** covering paternal epigenetics, environmental exposures, immune activation, neonatal oxygen management, and cascade trigger mechanisms
 - **23–36 weeks** identified as the gestational super-window
 - **40–60%** of pregnancies globally may have PHD impairment via iron deficiency
 
@@ -105,8 +111,16 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 
 ## Status
 
-Synthesis paper submitted to **medRxiv** — March 2026, awaiting DOI assignment.  
-Six post-publication extension tracks completed and committed.
+**Paper 1** submitted to **medRxiv** — March 2026, awaiting DOI assignment.  
+**Papers 2-7** completed and ready for preprint submission:  
+- Paper 2: Multi-organ gestational oxygen-timing alignment  
+- Paper 3: Treatment convergence on the oxygen-OPC axis  
+- Paper 4: Gestational hypoxia and cancer predisposition (HIF epigenetic priming)  
+- Paper 5: LMIC neonatal oxygen natural experiment  
+- Paper 6: Epigenetic biomarkers of gestational hypoxia  
+- Paper 7: Maternal triggers of the placental anti-angiogenic cascade  
+
+Five post-publication extension tracks completed and committed.
 
 ## Citation
 
