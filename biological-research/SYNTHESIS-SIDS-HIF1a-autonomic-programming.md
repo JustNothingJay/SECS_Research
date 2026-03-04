@@ -294,15 +294,15 @@ The convergent autonomic vulnerability window at weeks 24-32 falls within a broa
 
 Every major SIDS risk factor involves a mechanism that disrupts fetal or neonatal oxygen homeostasis, consistent with the HIF-1alpha programming hypothesis:
 
-### 6.1 Prematurity (4x increased risk)
+### 7.1 Prematurity (4x increased risk)
 
 Premature infants are removed from the intrauterine environment before the oxygen-sensitive developmental programmes for brainstem serotonergic neurons, cardiac sympathetic innervation, and adrenal chromaffin maturation are complete. They are then exposed to ex-utero oxygen tensions for which the PHD-VHL-HIF-1alpha system is not yet calibrated, causing inappropriate HIF-1alpha degradation during critical developmental windows.
 
-### 6.2 Low Birth Weight
+### 7.2 Low Birth Weight
 
 Low birth weight frequently reflects chronic placental insufficiency — sustained fetal hypoxia that produces constitutional HIF-1alpha dysregulation throughout late gestation, when autonomic nervous system maturation is most active.
 
-### 6.3 Maternal Smoking (2x increased risk; ~22% of US SIDS)
+### 7.3 Maternal Smoking (2x increased risk; ~22% of US SIDS)
 
 Maternal smoking produces fetal hypoxia through multiple mechanisms:
 - Carbon monoxide binds fetal haemoglobin with 200x the affinity of adult haemoglobin, reducing oxygen-carrying capacity
@@ -312,11 +312,11 @@ Maternal smoking produces fetal hypoxia through multiple mechanisms:
 
 Bednarczuk, Milner, and Greenough (2020) reviewed the role of maternal smoking in sudden fetal and infant death pathogenesis, documenting abnormalities in brainstem nuclei crucial to respiratory control and the autonomic nervous system.
 
-### 6.4 Maternal Diabetes
+### 7.4 Maternal Diabetes
 
 Directly tested by Kolesova et al. (2024): the combination of HIF-1alpha deficiency and maternal diabetes exposure produces the most severe cardiac sympathetic innervation deficit and increases neonatal death risk.
 
-### 6.5 Anaemia and Iron Deficiency
+### 7.5 Anaemia and Iron Deficiency
 
 Iron deficiency creates pseudohypoxia through PHD enzyme dysfunction:
 - PHDs require Fe2+ as an essential cofactor
@@ -324,18 +324,18 @@ Iron deficiency creates pseudohypoxia through PHD enzyme dysfunction:
 - Constitutive HIF-1alpha stabilisation disrupts normal developmental signalling
 - Poets et al. (1992) documented reduced haemoglobin levels in infants presenting with apparent life-threatening events
 
-### 6.6 Male Sex (60% of SIDS cases)
+### 7.6 Male Sex (60% of SIDS cases)
 
 Males show a consistent 50% excess in SIDS mortality. Mage and Donner (2004) proposed an X-linked protective allele hypothesis based on a putative dominant X-linked allele at frequency 1/3 that protects against transient cerebral anoxia. An unprotected male occurs at frequency 2/3, an unprotected female at frequency 4/9. If this allele modifies the sensitivity of HIF-1alpha-dependent autonomic development to hypoxic insults, the sex ratio is explained.
 
-### 6.7 Peak Age 2-4 Months
+### 7.7 Peak Age 2-4 Months
 
 This coincides with:
 - The transition from fetal haemoglobin (HbF, high O2 affinity) to adult haemoglobin (HbA, lower O2 affinity), which changes tissue oxygen delivery dynamics
 - The developmental window when infant arousal mechanisms are still maturing but maternal antibodies are waning
 - The period when an infant with gestational autonomic programming deficits is most functionally vulnerable
 
-### 6.8 Prone Sleeping Position
+### 7.8 Prone Sleeping Position
 
 The exogenous trigger in the triple-risk model. Prone sleeping with soft bedding creates a rebreathing microenvironment with rising CO2 and falling O2. In a neurologically intact infant, this triggers arousal, head turning, and gasping. In an infant with HIF-1alpha-programmed autonomic deficits, these protective reflexes are absent or insufficient.
 
