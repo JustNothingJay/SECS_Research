@@ -6,7 +6,7 @@
 
 Independent Researcher, Sydney, Australia
 
-**Corresponding Author:** Jay Carpenter. Email: [to be added prior to submission]
+**Corresponding Author:** Jay Carpenter. Email: jay.andrew.carpenter@gmail.com | jay@secs.observer
 
 **Word Count:** ~8,200 (excluding references)
 
@@ -228,17 +228,17 @@ A striking pattern emerges when analysing therapies that show unexplained or par
 
 | Therapy | O₂ Delivery | OPC Maturation | Key Evidence |
 |---------|-------------|----------------|--------------|
-| HBOT | ✅ Direct | ✅ Notch signalling [59] | ASD improvement (Rossignol RCT [60]); meta-analysis SMD −0.66 [61] |
-| EPO | ✅ Hb capacity | ✅ Direct EPO receptors on OPCs [62] | OPC rescue in chronic hypoxia models [63] |
-| T3 (thyroid hormone) | — | ✅ Canonical OPC differentiation signal [64] | Phase 1b remyelination trial in MS [65] |
-| Iron | ✅ Hb restoration | ✅ Reverses pseudohypoxia + myelin substrate [36,37] | DMT1-KO: OPCs proliferate but do not mature [37] |
-| Caffeine | ✅ Reduces IH | ✅ Increases OL density [66] | CAP trial: CP reduced ~50% [67,68] |
-| MgSO₄ | — | ✅ NMDA receptor blockade protects OPCs | CP reduced ~30% (meta-analysis of 5 RCTs) [69] |
-| Clemastine | — | ✅ Most potent known OPC differentiator [70] | Remyelination in primates [71]; not yet tested in developmental WMI |
-| Exercise | ✅ Cerebral blood flow | ✅ BDNF→OPC differentiation [72] | ASD improvement in WM-dependent domains [73] |
-| DHA | — | ✅ Myelin substrate | Higher myelination in all brain regions (animal) [74] |
-| UCB stem cells | — | ✅ Paracrine OPC support | WM preservation in CP models [75] |
-| Music therapy (NICU) | — | ✅ Activity-dependent myelination | Neurodevelopmental improvement [76] |
+| HBOT | Yes — Direct | Yes — Notch signalling [59] | ASD improvement (Rossignol RCT [60]); meta-analysis SMD −0.66 [61] |
+| EPO | Yes — Hb capacity | Yes — Direct EPO receptors on OPCs [62] | OPC rescue in chronic hypoxia models [63] |
+| T3 (thyroid hormone) | — | Yes — Canonical OPC differentiation signal [64] | Phase 1b remyelination trial in MS [65] |
+| Iron | Yes — Hb restoration | Yes — Reverses pseudohypoxia + myelin substrate [36,37] | DMT1-KO: OPCs proliferate but do not mature [37] |
+| Caffeine | Yes — Reduces IH | Yes — Increases OL density [66] | CAP trial: CP reduced ~50% [67,68] |
+| MgSO₄ | — | Yes — NMDA receptor blockade protects OPCs | CP reduced ~30% (meta-analysis of 5 RCTs) [69] |
+| Clemastine | — | Yes — Most potent known OPC differentiator [70] | Remyelination in primates [71]; not yet tested in developmental WMI |
+| Exercise | Yes — Cerebral blood flow | Yes — BDNF to OPC differentiation [72] | ASD improvement in WM-dependent domains [73] |
+| DHA | — | Yes — Myelin substrate | Higher myelination in all brain regions (animal) [74] |
+| UCB stem cells | — | Yes — Paracrine OPC support | WM preservation in CP models [75] |
+| Music therapy (NICU) | — | Yes — Activity-dependent myelination | Neurodevelopmental improvement [76] |
 
 The probability that 11 pharmacologically diverse treatments would independently converge on the same two pathways by coincidence is low. The parsimonious explanation: they share a common target — arrested OPC maturation in chronically hypoperfused white matter — even though none were designed for that purpose.
 
