@@ -14,7 +14,7 @@ This corpus contains **34 research documents** investigating a novel hypothesis:
 
 The work was motivated by a personal case (preeclampsia, neonatal ICU, oxygen desaturations) and grew into a systematic, citation-backed investigation spanning neonatal physiology, developmental neuroscience, epigenetics, HIF molecular biology, and global health epidemiology.
 
-A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Framework Linking Placental Hypoxia Timing to OPC Maturation Arrest and Region-Specific Myelination Deficits in Autism Spectrum Disorder"* — has been submitted to **medRxiv** (March 2026, awaiting DOI).
+A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Framework Linking Placental Hypoxia Timing to OPC Maturation Arrest and Region-Specific Myelination Deficits in Autism Spectrum Disorder"* — was submitted to **medRxiv** in March 2026 and rejected as out of scope ("not a clinical research article with new data"). The rejection was not a judgment on the merits of the work. Alternative preprint venues are being evaluated.
 
 ## Core Thesis
 
@@ -30,8 +30,8 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 ### Synthesis Papers
 | File | Description |
 |------|-------------|
-| `SYNTHESIS-gestational-oxygen-timing-alignment.md` | **Paper 1 (submitted)** — OPC maturation arrest and ASD. 12 sections, 100 references. Submitted to medRxiv March 2026 |
-| `SYNTHESIS-gestational-oxygen-timing-alignment.pdf` | PDF version submitted to medRxiv |
+| `SYNTHESIS-gestational-oxygen-timing-alignment.md` | **Paper 1** — OPC maturation arrest and ASD. 12 sections, 100 references. Rejected by medRxiv (out of scope) March 2026 |
+| `SYNTHESIS-gestational-oxygen-timing-alignment.pdf` | PDF version |
 | `SYNTHESIS-gestational-oxygen-timing-alignment.docx` | DOCX companion |
 | `SYNTHESIS-multi-organ-gestational-oxygen-timing.md` | **Paper 2** — Multi-organ gestational oxygen-timing alignment. 10 organ systems, fixed endowment principle, HIF-1α as common thread, 75+ references |
 | `SYNTHESIS-treatment-convergence-oxygen-OPC-axis.md` | **Paper 3** — Treatment convergence on the oxygen-OPC axis. 11 therapies analysed, dual-arm framework, 50+ references |
@@ -95,7 +95,7 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 
 - **34 research documents** in this corpus (22 original + 7 synthesis papers + 5 post-publication extension tracks)
 - **900+ citations** across the literature base
-- **7 synthesis papers** — Paper 1 submitted to medRxiv, Papers 2-7 ready for submission
+- **8 synthesis papers** — all submitted to medRxiv March 2026, all rejected (out of scope — not clinical research with new data)
 - **10 organ systems** mapped with vulnerability windows
 - **11 therapies** analysed for convergence on the O₂/OPC axis
 - **5 post-publication extension tracks** covering paternal epigenetics, environmental exposures, immune activation, neonatal oxygen management, and cascade trigger mechanisms
@@ -111,21 +111,25 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 
 ## Status
 
-**Paper 1** submitted to **medRxiv** — March 2026, awaiting DOI assignment.  
-**Papers 2-7** completed and ready for preprint submission:  
+**All eight papers** submitted to **medRxiv** March 2026 — all rejected.  
+Rejection reason: "not a clinical research article with new data, therefore out of scope."  
+medRxiv clarified: "this conclusion is not a judgment on the merits of the work."  
+
+- Paper 1: Gestational oxygen-timing alignment and ASD  
 - Paper 2: Multi-organ gestational oxygen-timing alignment  
 - Paper 3: Treatment convergence on the oxygen-OPC axis  
 - Paper 4: Gestational hypoxia and cancer predisposition (HIF epigenetic priming)  
 - Paper 5: LMIC neonatal oxygen natural experiment  
 - Paper 6: Epigenetic biomarkers of gestational hypoxia  
 - Paper 7: Maternal triggers of the placental anti-angiogenic cascade  
+- Paper 8: SIDS as HIF-1α-mediated autonomic programming failure  
 
 Five post-publication extension tracks completed and committed.
 
 ## Citation
 
-> Carpenter, J. A. (2026). *Gestational Oxygen-Timing Alignment: A Theoretical Framework Linking Placental Hypoxia Timing to OPC Maturation Arrest and Region-Specific Myelination Deficits in Autism Spectrum Disorder.* medRxiv preprint. GitHub repository: https://github.com/JustNothingJay/SECS_Research
+> Carpenter, J. A. (2026). *Gestational Oxygen-Timing Alignment: A Theoretical Framework Linking Placental Insufficiency, HIF-1α Counter-Regulation, and Latent Multi-Organ Developmental Injury.* Unpublished preprint. GitHub repository: https://github.com/JustNothingJay/SECS_Research
 
 ---
 
-*This work was produced using AI-assisted research synthesis. All citations have been verified against published literature. The hypothesis framework is original. The synthesis paper is under medRxiv review.*
+*This work was produced using AI-assisted research synthesis. All citations have been verified against published literature. The hypothesis framework is original. All eight synthesis papers were rejected by medRxiv (out of scope — hypothesis/review papers, not clinical research with new data). Alternative preprint venues are being evaluated.*

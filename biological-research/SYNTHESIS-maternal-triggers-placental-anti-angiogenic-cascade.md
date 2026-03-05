@@ -8,7 +8,7 @@ jay.andrew.carpenter@gmail.com
 
 **Date:** 2026-03-05  
 **License:** CC-BY 4.0 International  
-**Status:** Preprint — submitted for open review
+**Status:** Preprint — rejected by medRxiv (out of scope)
 
 ---
 

@@ -547,4 +547,4 @@ If validated, the model would change clinical practice in two ways. First, prosp
 
 ---
 
-*Manuscript prepared for medRxiv preprint submission. March 2026.*
+*Manuscript submitted to medRxiv March 2026. Rejected as out of scope ("not a clinical research article with new data"). This conclusion was not a judgment on the merits of the work.*

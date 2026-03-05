@@ -8,7 +8,7 @@ jay.andrew.carpenter@gmail.com
 
 **Date:** 2026-03-05  
 **License:** CC-BY 4.0 International  
-**Status:** Preprint — submitted for open review
+**Status:** Preprint — rejected by medRxiv (out of scope)
 
 ---
 
@@ -628,4 +628,4 @@ Zhang L (2005). Prenatal hypoxia and cardiac programming. *J Soc Gynecol Investi
 
 *Correspondence: Jay Andrew Carpenter, jay.andrew.carpenter@gmail.com*
 
-*This paper extends the author's previously submitted preprint on gestational oxygen-timing alignment in white matter (Carpenter, 2026, medRxiv, DOI pending) to a general framework encompassing ten organ systems. All source data are curated at https://github.com/JustNothingJay/SECS_Research.*
+*This paper extends the author's gestational oxygen-timing alignment framework in white matter (Carpenter, 2026) to a general framework encompassing ten organ systems. All source data are curated at https://github.com/JustNothingJay/SECS_Research.*

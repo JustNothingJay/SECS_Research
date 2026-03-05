@@ -343,7 +343,7 @@ Low- and middle-income countries are currently undergoing a measurable transitio
 ## References
 
 1. Barker DJ (2004). "The developmental origins of adult disease." *J Am Coll Nutr*, 23:588S-595S.
-2. Carpenter JA (2026a). "Gestational oxygen-timing alignment and oligodendrocyte progenitor cell maturation arrest: a unifying hypothesis for autism spectrum disorder." Preprint, medRxiv.
+2. Carpenter JA (2026a). "Gestational oxygen-timing alignment and oligodendrocyte progenitor cell maturation arrest: a unifying hypothesis for autism spectrum disorder." Unpublished preprint.
 3. Carpenter JA (2026b). "A multi-organ gestational oxygen-timing alignment model." Preprint.
 4. Crump C et al. (2019). "Preterm birth and risk of chronic kidney disease." *BMJ*, 365:l1346.
 5. Graham HR et al. (2019). "Oxygen is a universal need: improving oxygen systems in hospitals in low-resource settings." *J Glob Health*, 9:010309.
