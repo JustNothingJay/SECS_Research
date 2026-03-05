@@ -10,7 +10,7 @@
 
 ## Overview
 
-This corpus contains **34 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
+This corpus contains **35 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
 
 The work was motivated by a personal case (preeclampsia, neonatal ICU, oxygen desaturations) and grew into a systematic, citation-backed investigation spanning neonatal physiology, developmental neuroscience, epigenetics, HIF molecular biology, and global health epidemiology.
 
@@ -91,9 +91,15 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 | `neonatal-dataset-audit-IH-DTI-language.md` | Dataset audit: intermittent hypoxia, DTI, language outcomes |
 | `adversarial-stress-test-OPC-maturation-arrest-autism-model.md` | Adversarial stress test of the unified model |
 
+### Narrative & Context
+| File | Description |
+|------|-------------|
+| `NARRATIVE-from-frogs-to-human-biology.md` | Origin story — how observing amphibian population collapse through entropy mathematics led to a gestational oxygen-timing hypothesis for human developmental injury. Synthesises frog ecology, SECS collapse algebra, personal preeclampsia experience, and the 8-paper research programme |
+| `NARRATIVE-from-frogs-to-human-biology.pdf` | PDF version |
+
 ## Key Numbers
 
-- **34 research documents** in this corpus (22 original + 7 synthesis papers + 5 post-publication extension tracks)
+- **35 research documents** in this corpus (22 original + 7 synthesis papers + 5 post-publication extension tracks + 1 narrative)
 - **900+ citations** across the literature base
 - **8 synthesis papers** — all submitted to medRxiv March 2026, all rejected (out of scope — not clinical research with new data)
 - **10 organ systems** mapped with vulnerability windows
