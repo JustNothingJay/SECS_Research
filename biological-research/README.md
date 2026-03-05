@@ -10,7 +10,7 @@
 
 ## Overview
 
-This corpus contains **36 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
+This corpus contains **37 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
 
 The work was motivated by a personal case (preeclampsia, neonatal ICU, oxygen desaturations) and grew into a systematic, citation-backed investigation spanning neonatal physiology, developmental neuroscience, epigenetics, HIF molecular biology, and global health epidemiology.
 
@@ -39,6 +39,12 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 | `SYNTHESIS-LMIC-neonatal-oxygen-natural-experiment.md` | **Paper 5** — LMIC neonatal oxygen natural experiment. MOXY/NEST360 data, altitude experiments, 4 actionable studies, 25 references |
 | `SYNTHESIS-epigenetic-biomarkers-gestational-hypoxia.md` | **Paper 6** — Epigenetic biomarkers of gestational hypoxia. 6 biomarker classes, 10 idiopathic conditions mapped, Guthrie card retrospective framework, 36 references |
 | `SYNTHESIS-maternal-triggers-placental-anti-angiogenic-cascade.md` | **Paper 7** — Maternal triggers of the placental anti-angiogenic cascade. sFlt-1/PlGF graded activation, sleep position, nutrition, cortisol, circadian desaturation, 782 lines |
+| `SYNTHESIS-SIDS-HIF1a-autonomic-programming.md` | **Paper 8** — SIDS as HIF-1α-mediated autonomic programming failure. Autonomic brainstem vulnerability, gestational timing, 110+ references |
+| `SYNTHESIS-SIDS-HIF1a-autonomic-programming.pdf` | PDF version |
+| `SYNTHESIS-SIDS-HIF1a-autonomic-programming.docx` | DOCX companion |
+| `SYNTHESIS-sensory-integration-insular-timing-alignment.md` | **Paper 9** — The Insular Timing Hypothesis: sensory integration failure, feeding difficulties, and the gestational fingerprint of autism. TIMED + TEMPORAL dual model, Uhthoff's phenomenon analogue, 15-domain gestational timing overlay, 800 lines |
+| `SYNTHESIS-sensory-integration-insular-timing-alignment.pdf` | PDF version |
+| `SYNTHESIS-sensory-integration-insular-timing-alignment.docx` | DOCX companion |
 
 ### Post-Publication Extension Tracks
 | File | Description |
@@ -101,9 +107,9 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 
 ## Key Numbers
 
-- **36 research documents** in this corpus (22 original + 7 synthesis papers + 5 post-publication extension tracks + 2 narratives)
+- **37 research documents** in this corpus (22 original + 8 synthesis papers + 5 post-publication extension tracks + 2 narratives)
 - **900+ citations** across the literature base
-- **8 synthesis papers** — all submitted to medRxiv March 2026, all rejected (out of scope — not clinical research with new data)
+- **9 synthesis papers** — Papers 1–8 submitted to medRxiv March 2026, all rejected (out of scope — not clinical research with new data). Paper 9 completed March 2026
 - **10 organ systems** mapped with vulnerability windows
 - **11 therapies** analysed for convergence on the O₂/OPC axis
 - **5 post-publication extension tracks** covering paternal epigenetics, environmental exposures, immune activation, neonatal oxygen management, and cascade trigger mechanisms
@@ -119,7 +125,7 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 
 ## Status
 
-**All eight papers** submitted to **medRxiv** March 2026 — all rejected.  
+**Papers 1–8** submitted to **medRxiv** March 2026 — all rejected. Paper 9 completed March 2026.  
 Rejection reason: "not a clinical research article with new data, therefore out of scope."  
 medRxiv clarified: "this conclusion is not a judgment on the merits of the work."  
 
@@ -131,6 +137,7 @@ medRxiv clarified: "this conclusion is not a judgment on the merits of the work.
 - Paper 6: Epigenetic biomarkers of gestational hypoxia  
 - Paper 7: Maternal triggers of the placental anti-angiogenic cascade  
 - Paper 8: SIDS as HIF-1α-mediated autonomic programming failure  
+- Paper 9: The Insular Timing Hypothesis — sensory integration, feeding difficulties, and the gestational fingerprint of autism  
 
 Five post-publication extension tracks completed and committed.
 
