@@ -10,7 +10,7 @@
 
 ## Overview
 
-This corpus contains **35 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
+This corpus contains **36 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
 
 The work was motivated by a personal case (preeclampsia, neonatal ICU, oxygen desaturations) and grew into a systematic, citation-backed investigation spanning neonatal physiology, developmental neuroscience, epigenetics, HIF molecular biology, and global health epidemiology.
 
@@ -96,10 +96,12 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 |------|-------------|
 | `NARRATIVE-from-frogs-to-human-biology.md` | Origin story — how observing amphibian population collapse through entropy mathematics led to a gestational oxygen-timing hypothesis for human developmental injury. Synthesises frog ecology, SECS collapse algebra, personal preeclampsia experience, and the 8-paper research programme |
 | `NARRATIVE-from-frogs-to-human-biology.pdf` | PDF version |
+| `NARRATIVE-from-beehives-to-governed-systems.md` | Origin story — how honey bee colony governance (QMP signal propagation, worker policing, dual workforce profiles, quorum sensing, stigmergy) became the constitutional architecture of SECS Sovereign and then mapped directly onto placental signalling, HIF counter-regulation, and multi-organ developmental biology |
+| `NARRATIVE-from-beehives-to-governed-systems.pdf` | PDF version |
 
 ## Key Numbers
 
-- **35 research documents** in this corpus (22 original + 7 synthesis papers + 5 post-publication extension tracks + 1 narrative)
+- **36 research documents** in this corpus (22 original + 7 synthesis papers + 5 post-publication extension tracks + 2 narratives)
 - **900+ citations** across the literature base
 - **8 synthesis papers** — all submitted to medRxiv March 2026, all rejected (out of scope — not clinical research with new data)
 - **10 organ systems** mapped with vulnerability windows
