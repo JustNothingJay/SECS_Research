@@ -27,11 +27,11 @@ Measurement reports from the SECS computational substrate. These are transferred
 
 ### `biological-research/` — Perinatal Oxygen-Timing Research
 
-A **37-document** biological research corpus investigating gestational oxygen-demand timing, HIF-1α counter-regulation, and developmental vulnerability windows. Includes:
+A **39-document** biological research corpus investigating gestational oxygen-demand timing, HIF-1α counter-regulation, and developmental vulnerability windows. Includes:
 
 - **9 synthesis papers** (Papers 1–8 submitted to medRxiv March 2026, rejected as out of scope; Paper 9 completed March 2026)
 - **22 foundational research documents** covering molecular pathways, clinical evidence, neurodevelopmental mapping, and epidemiology
-- **5 post-publication extension tracks** covering paternal epigenetics, environmental exposures, immune activation, neonatal oxygen management, and cascade trigger mechanisms
+- **7 post-publication extension tracks** covering paternal epigenetics, colostrum as personalised repair, environmental exposures, immune activation, neonatal oxygen management, cascade trigger mechanisms, and PE as paternal compatibility signal
 - **2 narrative documents** tracing the research programme origins
 
 See [`biological-research/README.md`](biological-research/README.md) for the full description, file index, and testable predictions.

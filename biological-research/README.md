@@ -10,7 +10,7 @@
 
 ## Overview
 
-This corpus contains **37 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
+This corpus contains **39 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
 
 The work was motivated by a personal case (preeclampsia, neonatal ICU, oxygen desaturations) and grew into a systematic, citation-backed investigation spanning neonatal physiology, developmental neuroscience, epigenetics, HIF molecular biology, and global health epidemiology.
 
@@ -50,10 +50,12 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 | File | Description |
 |------|-------------|
 | `EXTENSION-paternal-epigenetic-germline-transmission.md` | Track 1 — Father's spermatogonial stem cells, Y chromosome vulnerability, paternal age effect, two-parent epigenetic convergence |
+| `EXTENSION-colostrum-personalised-neonatal-repair-biomarker.md` | Track 2 — Colostrum as personalised neonatal repair, mammary response to gestational injury, colostrum profiling as fetal injury biomarker, formula-feeding gap (18 refs) |
 | `EXTENSION-environmental-exposures-placental-hypoxia.md` | Track 3 — PM2.5, NO₂, CO, EDCs (BPA/phthalates/PFAS), heavy metals, pesticides, geographic natural experiments (~100 refs) |
 | `EXTENSION-immune-activation-myelination-timing.md` | Track 4 — Maternal Immune Activation (MIA), immune activation during OPC windows, myelination disruption compounding (85 refs) |
 | `EXTENSION-neonatal-oxygen-management-cord-transition.md` | Track 5 — Cord clamping as second hypoxic insult, DCC, FiO₂, NICU oxygen targeting, caffeine/CAP, NIRS monitoring (78 refs) |
 | `EXTENSION-trigger-mechanism-placental-cascade-initiation.md` | Track 6 — Defective spiral artery remodelling, maternal substrate, KIR/HLA-C, unified trigger taxonomy (75 refs) |
+| `EXTENSION-preeclampsia-paternal-compatibility-signal.md` | Track 7 — PE as mate-pair compatibility phenotype, paternal immunogenetic origin, HLA diversity and mate selection, generational perpetuation (18 refs) |
 
 ### Core Framework
 | File | Description |
@@ -107,12 +109,12 @@ A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Frame
 
 ## Key Numbers
 
-- **37 research documents** in this corpus (22 original + 8 synthesis papers + 5 post-publication extension tracks + 2 narratives)
+- **39 research documents** in this corpus (22 original + 8 synthesis papers + 7 post-publication extension tracks + 2 narratives)
 - **900+ citations** across the literature base
 - **9 synthesis papers** — Papers 1–8 submitted to medRxiv March 2026, all rejected (out of scope — not clinical research with new data). Paper 9 completed March 2026
 - **10 organ systems** mapped with vulnerability windows
 - **11 therapies** analysed for convergence on the O₂/OPC axis
-- **5 post-publication extension tracks** covering paternal epigenetics, environmental exposures, immune activation, neonatal oxygen management, and cascade trigger mechanisms
+- **7 post-publication extension tracks** covering paternal epigenetics, colostrum as personalised repair, environmental exposures, immune activation, neonatal oxygen management, cascade trigger mechanisms, and PE as paternal compatibility signal
 - **23–36 weeks** identified as the gestational super-window
 - **40–60%** of pregnancies globally may have PHD impairment via iron deficiency
 
@@ -139,7 +141,7 @@ medRxiv clarified: "this conclusion is not a judgment on the merits of the work.
 - Paper 8: SIDS as HIF-1α-mediated autonomic programming failure  
 - Paper 9: The Insular Timing Hypothesis — sensory integration, feeding difficulties, and the gestational fingerprint of autism  
 
-Five post-publication extension tracks completed and committed.
+Seven post-publication extension tracks completed and committed.
 
 ## Citation
 
