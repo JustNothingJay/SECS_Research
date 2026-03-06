@@ -1,6 +1,6 @@
 # Neonatal Oxygen Management and the Cord Transition: An Extension of the Gestational Oxygen-Timing Alignment Framework
 
-**Extension Research Track 5 of 6**
+**Extension Research Track 5**
 
 **Author:** Jay Andrew Carpenter
 **Affiliation:** Independent Researcher, Sydney, Australia
