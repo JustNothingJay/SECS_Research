@@ -1,5 +1,7 @@
 # SECS Research
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18896103.svg)](https://doi.org/10.5281/zenodo.18896103)
+
 Public research outputs from the SECS project.
 
 **Author:** Jay Andrew Carpenter — Independent Researcher, Sydney, Australia  
@@ -29,7 +31,7 @@ Measurement reports from the SECS computational substrate. These are transferred
 
 A **39-document** biological research corpus investigating gestational oxygen-demand timing, HIF-1α counter-regulation, and developmental vulnerability windows. Includes:
 
-- **9 synthesis papers** (Papers 1–8 submitted to medRxiv March 2026, rejected as out of scope; Paper 9 completed March 2026)
+- **9 synthesis papers** — published on [Zenodo](https://doi.org/10.5281/zenodo.18896103) (DOI: 10.5281/zenodo.18896103), March 2026
 - **22 foundational research documents** covering molecular pathways, clinical evidence, neurodevelopmental mapping, and epidemiology
 - **7 post-publication extension tracks** covering paternal epigenetics, colostrum as personalised repair, environmental exposures, immune activation, neonatal oxygen management, cascade trigger mechanisms, and PE as paternal compatibility signal
 - **2 narrative documents** tracing the research programme origins
@@ -51,7 +53,7 @@ These two content types are independent. The publication script does not touch `
 
 ## Citation
 
-> Carpenter, J. A. (2026). *Gestational Oxygen-Timing Alignment: A Theoretical Framework Linking Placental Hypoxia Timing to OPC Maturation Arrest and Region-Specific Myelination Deficits in Autism Spectrum Disorder.* medRxiv preprint. GitHub repository: https://github.com/JustNothingJay/SECS_Research
+> Carpenter, J. A. (2026). *Gestational Oxygen-Timing Theory: Synthesis Papers on HIF-1α-Mediated Developmental Injury, Myelination, and Multi-System Outcomes* (1.1). Zenodo. https://doi.org/10.5281/zenodo.18896103
 
 ---
 
