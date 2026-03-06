@@ -14,7 +14,7 @@ This corpus contains **39 research documents** investigating a novel hypothesis:
 
 The work was motivated by a personal case (preeclampsia, neonatal ICU, oxygen desaturations) and grew into a systematic, citation-backed investigation spanning neonatal physiology, developmental neuroscience, epigenetics, HIF molecular biology, and global health epidemiology.
 
-A synthesis paper — *"Gestational Oxygen-Timing Alignment: A Theoretical Framework Linking Placental Hypoxia Timing to OPC Maturation Arrest and Region-Specific Myelination Deficits in Autism Spectrum Disorder"* — was submitted to **medRxiv** in March 2026 and rejected as out of scope ("not a clinical research article with new data"). The rejection was not a judgment on the merits of the work. Alternative preprint venues are being evaluated.
+Nine synthesis papers were published on **Zenodo** in March 2026: [DOI: 10.5281/zenodo.18896103](https://doi.org/10.5281/zenodo.18896103). Previously submitted to medRxiv and rejected as out of scope ("not a clinical research article with new data") — the rejection was not a judgment on the merits of the work.
 
 ## Core Thesis
 
