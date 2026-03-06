@@ -1,6 +1,6 @@
 # Colostrum as Personalised Neonatal Repair: Mammary Response to Gestational Injury and a Novel Biomarker for Fetal Compromise
 
-**Extension Research Track 2 of 7**
+**Extension Research Track 2**
 
 **Author:** Jay Andrew Carpenter
 **Affiliation:** Independent Researcher, Sydney, Australia
@@ -269,6 +269,47 @@ If validated, colostrum profiling could become a **point-of-delivery diagnostic 
 3. **Personalised supplementation:** If specific colostrum components are deficient (e.g., in mothers too ill to produce adequate colostrum after severe PE), targeted supplementation could be developed
 4. **Alignment model validation:** Colostrum profiling provides a non-invasive, zero-risk, routinely available maternal biomarker that tests the central prediction of gestational oxygen-timing injury — without requiring any additional intervention or imaging in the neonate
 
+### 6.4 Antenatal Colostrum Sampling: Synthesised Repair Cocktails for Non-Breastfeeding Mothers
+
+The personalised repair hypothesis generates a further clinical application that addresses one of the most significant gaps in neonatal care: **mothers who cannot breastfeed.**
+
+**The proposal:** Antenatal colostrum sampling — collecting pre-colostrum expressed during the third trimester (a practice already clinically established for diabetic mothers under the term "antenatal colostrum harvesting") — could be profiled to determine the specific repair signature the maternal body is preparing. This profile would then guide the synthesis of a **tailored micronutrient and bioactive cocktail** for infants whose mothers cannot breastfeed due to medical complications, medication contraindications, NICU separation, maternal illness, or maternal death.
+
+**Why this is feasible:**
+
+- **Antenatal expression is already practiced:** The Royal Women's Hospital (Melbourne), NHS trusts (UK), and multiple Australian maternity units already recommend antenatal colostrum harvesting from 36 weeks for diabetic mothers. The collection infrastructure exists.
+- **Pre-colostrum composition reflects gestational experience:** The mammary gland is synthesising and storing colostrum components from approximately GW 16 onwards. By GW 34–36, the stored pre-colostrum has been programmed by the full spectrum of gestational signals the mother has experienced — including any hypoxic, inflammatory, or metabolic complications.
+- **Profiling technology exists:** Mass spectrometry, ELISA panels, HMO chromatography, and lipidomics platforms can characterise colostrum composition from small-volume samples (0.5–2 mL — well within antenatal expression yields).
+- **Synthesis pathways are available:** The key bioactive components identified in this paper — lactoferrin, IGF-1, EGF, EPO, BDNF, specific HMO structures, zinc, iron, selenium, omega-3 fatty acids — are all available as pharmaceutical-grade supplements. What is currently missing is the **personalised dosing rationale** that colostrum profiling would provide.
+
+**The clinical pathway:**
+
+| Stage | Action | Timing |
+|---|---|---|
+| **1. Collection** | Antenatal colostrum expression (standard syringe collection) | GW 34–37 |
+| **2. Profile** | Multi-component bioactive analysis of expressed sample | 24–48 hr turnaround |
+| **3. Interpretation** | Compare profile against reference ranges; identify upregulated repair factors | Automated algorithm |
+| **4. Synthesis** | Compound a personalised supplement matching the maternal repair signature | Pre-delivery preparation |
+| **5. Delivery** | Administer synthesised cocktail to neonate if breastfeeding is not possible | First 72 hours of life |
+
+**What the cocktail addresses:**
+
+The synthesised supplement would not attempt to replicate all of colostrum — that is biotechnologically impossible given the complexity of live stem cells, intact immunoglobulins, and HMO diversity. Instead, it would target the **mineral, micronutrient, and growth factor signature** that the colostrum profile indicates the maternal body was preparing:
+
+- **Zinc and iron ratios** tailored to the specific profile (not generic RDA dosing)
+- **Lactoferrin concentration** matched to the maternal upregulation signal
+- **Omega-3 DHA/EPA ratio** reflecting the specific neural repair priority
+- **EPO and IGF-1** at concentrations guided by the colostrum signal (where pharmaceutical forms are available)
+- **Specific HMO prebiotic blend** based on the oligosaccharide profile detected
+
+**The validation prediction:**
+
+If this approach is sound, then formula-fed infants receiving a colostrum-profiled personalised supplement should show better neurodevelopmental outcomes at 18–24 months than formula-fed infants receiving standard supplementation — and the magnitude of benefit should correlate with the degree of gestational compromise (PE severity, degree of prematurity, IUGR severity). This would simultaneously validate (a) the personalised repair hypothesis, (b) the utility of antenatal colostrum profiling, and (c) the alignment model's core claim that gestational timing determines injury pattern.
+
+**The equity implication:**
+
+This approach could address a profound inequity in neonatal care. Currently, the infants most likely to need personalised repair (those born after complicated pregnancies) are also the most likely to be formula-fed (due to NICU separation, maternal illness, or early delivery before lactation is established). Antenatal colostrum sampling — performed routinely during third-trimester antenatal visits — would capture the repair signal *before* delivery complications make breastfeeding impossible, ensuring that every infant has access to a personalised repair profile regardless of feeding method.
+
 ---
 
 ## 7. The Evolutionary Perspective
@@ -425,4 +466,4 @@ This extension proposes a fundamental reframing of colostrum: from passive immun
 
 ---
 
-*This document is Extension Research Track 2 of 7.*
+*This document is Extension Research Track 2 of the Gestational Oxygen-Timing Alignment framework.*

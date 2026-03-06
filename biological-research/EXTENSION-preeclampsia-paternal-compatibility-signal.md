@@ -1,6 +1,6 @@
 # Preeclampsia as Compatibility Signal: Paternal Immunogenetic Origin and the Evolutionary Logic of Mate Selection
 
-**Extension Research Track 7 of 7**
+**Extension Research Track 7**
 
 **Author:** Jay Andrew Carpenter
 **Affiliation:** Independent Researcher, Sydney, Australia
@@ -393,4 +393,4 @@ This extension proposes a fundamental reframing of preeclampsia: from maternal d
 
 ---
 
-*This document is Extension Research Track 7 of 7.*
+*This document is Extension Research Track 7 of the Gestational Oxygen-Timing Alignment framework.*

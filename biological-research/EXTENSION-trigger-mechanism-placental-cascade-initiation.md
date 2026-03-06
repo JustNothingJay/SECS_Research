@@ -1,6 +1,6 @@
 # The Trigger Mechanism: Initiation of the Placental Anti-Angiogenic Cascade and Upstream Determinants of Alignment Model Activation
 
-**Extension Research Track 6 of 6**
+**Extension Research Track 6**
 
 **Author:** Jay Andrew Carpenter
 **Affiliation:** Independent Researcher, Sydney, Australia
@@ -651,18 +651,19 @@ The most significant clinical challenge identified by this analysis is the tempo
 
 ### 13.3 The Complete Framework
 
-With the addition of this trigger mechanism analysis, the six extension tracks of the gestational oxygen-timing alignment framework are complete:
+The extension tracks of the gestational oxygen-timing alignment framework published to date:
 
 | Track | Topic | Key finding |
 |---|---|---|
 | 1 | Paternal epigenetic transmission | Father's germline contributes via sperm epigenome and HLA-C |
-| 2 | Maternal triggers | Stress, infection, nutrition as trigger amplifiers |
+| 2 | Colostrum as personalised neonatal repair | Mammary response to gestational injury as biomarker and repair mechanism |
 | 3 | Environmental exposures | Air pollution, chemicals, altitude as external trigger inputs |
 | 4 | Immune activation & myelination | MIA as a compounding factor on OPC vulnerability |
 | 5 | Neonatal oxygen management | Cord transition and NICU care as the last intervention window |
 | 6 | Trigger mechanism (this document) | Multi-factorial threshold model of cascade initiation |
+| 7 | Preeclampsia as paternal compatibility signal | PE reframed as mate-pair immunogenetic incompatibility phenotype |
 
-Together, these six tracks extend the core alignment model from a narrow framework about placental insufficiency and OPC timing into a comprehensive theory of how neurodevelopmental outcomes are determined by the interaction of genetic, immunological, vascular, environmental, and clinical management factors — with oxygen timing as the unifying variable.
+Together, these tracks extend the core alignment model from a narrow framework about placental insufficiency and OPC timing into a comprehensive theory of how neurodevelopmental outcomes are determined by the interaction of genetic, immunological, vascular, environmental, and clinical management factors — with oxygen timing as the unifying variable.
 
 ---
 
@@ -820,6 +821,6 @@ Together, these six tracks extend the core alignment model from a narrow framewo
 
 ---
 
-*This document is the final extension research track (Track 6 of 6) of the Gestational Oxygen-Timing Alignment framework. It does not modify the submitted synthesis paper and is intended for post-publication research development.*
+*This document is Extension Research Track 6 of the Gestational Oxygen-Timing Alignment framework. It does not modify the submitted synthesis paper and is intended for post-publication research development.*
 
 *© 2026 Jay Andrew Carpenter. Licensed under CC-BY 4.0 International.*
