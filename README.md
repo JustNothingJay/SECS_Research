@@ -14,7 +14,9 @@ Public research outputs from the SECS project.
 
 This repository contains two distinct content types with separate governance.
 
-### `papers/` — Substrate Publications
+### `papers/` — Publications
+
+#### Substrate Measurement Reports
 
 Measurement reports from the SECS computational substrate. These are transferred from the private source repository via a manifest-controlled publication script with SHA-256 hash verification. They are read-only mirrors — edits happen at source.
 
@@ -26,6 +28,12 @@ Measurement reports from the SECS computational substrate. These are transferred
 | [`biological-fidelity-assessment`](papers/biological-fidelity-assessment/) | Biological fidelity assessment of the substrate |
 | [`ei-balance-sweep-exploration`](papers/ei-balance-sweep-exploration/) | Excitatory-inhibitory balance sweep exploration |
 | [`documentation-era-shift`](papers/documentation-era-shift/) | Documentation era shift analysis |
+
+#### Mathematical Theory
+
+| Paper | Description | DOI |
+|-------|-------------|-----|
+| [`collapse-never-happens-grothendieck`](papers/collapse-never-happens-grothendieck/) | Generative fixed points and the open problems of Grothendieck — connects SECS Collapse Algebra to seven open mathematical frontiers | [10.5281/zenodo.18901508](https://doi.org/10.5281/zenodo.18901508) |
 
 ### `biological-research/` — Perinatal Oxygen-Timing Research
 
@@ -44,7 +52,7 @@ See [`biological-research/README.md`](biological-research/README.md) for the ful
 
 | Directory | Content | Governance | Transfer |
 |-----------|---------|------------|----------|
-| `papers/` | Substrate measurement reports | Publication mirror protocol (manifest, hash-verified) | Automated script |
+| `papers/` | Substrate measurement reports + mathematical theory | Publication mirror protocol (manifest, hash-verified) / Author-managed | Automated script / Direct |
 | `biological-research/` | Perinatal biology / HIF / OPC research | Author-managed (direct commit) | Direct |
 
 These two content types are independent. The publication script does not touch `biological-research/`. The biological research is not derived from the substrate.
