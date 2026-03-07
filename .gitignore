@@ -1,0 +1,12 @@
+traffic-logs/
+
+# Temp/build artifacts
+*.tex
+!latex-header.tex
+*.html
+*.log
+*.aux
+*.out
+fix-encoding.js
+xelatex-*.txt
+
