@@ -29,9 +29,9 @@ Measurement reports from the SECS computational substrate. These are transferred
 
 ### `biological-research/` — Perinatal Oxygen-Timing Research
 
-A **40-document** biological research corpus investigating gestational oxygen-demand timing, HIF-1α counter-regulation, and developmental vulnerability windows. Includes:
+A **41-document** biological research corpus investigating gestational oxygen-demand timing, HIF-1α counter-regulation, and developmental vulnerability windows. Includes:
 
-- **10 synthesis papers** — 9 published on [Zenodo](https://doi.org/10.5281/zenodo.18896103) (DOI: 10.5281/zenodo.18896103), March 2026
+- **11 synthesis papers** — 10 published on [Zenodo](https://doi.org/10.5281/zenodo.18896103) (DOI: 10.5281/zenodo.18896103), March 2026. Paper 10 (NR3C1/HPA convergence) is repo-only.
 - **22 foundational research documents** covering molecular pathways, clinical evidence, neurodevelopmental mapping, and epidemiology
 - **7 post-publication extension tracks** covering paternal epigenetics, colostrum as personalised repair, environmental exposures, immune activation, neonatal oxygen management, cascade trigger mechanisms, and PE as paternal compatibility signal
 - **2 narrative documents** tracing the research programme origins
@@ -53,7 +53,7 @@ These two content types are independent. The publication script does not touch `
 
 ## Citation
 
-> Carpenter, J. A. (2026). *Gestational Oxygen-Timing Theory: Synthesis Papers on HIF-1α-Mediated Developmental Injury, Myelination, and Multi-System Outcomes* (1.1). Zenodo. https://doi.org/10.5281/zenodo.18896103
+> Carpenter, J. A. (2026). *Gestational Oxygen-Timing Theory: Synthesis Papers on HIF-1α-Mediated Developmental Injury, Myelination, and Multi-System Outcomes* (1.2). Zenodo. https://doi.org/10.5281/zenodo.18896103
 
 ---
 

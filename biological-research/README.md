@@ -10,11 +10,11 @@
 
 ## Overview
 
-This corpus contains **40 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
+This corpus contains **41 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
 
 The work was motivated by a personal case (preeclampsia, neonatal ICU, oxygen desaturations) and grew into a systematic, citation-backed investigation spanning neonatal physiology, developmental neuroscience, epigenetics, HIF molecular biology, and global health epidemiology.
 
-Nine synthesis papers were published on **Zenodo** in March 2026: [DOI: 10.5281/zenodo.18896103](https://doi.org/10.5281/zenodo.18896103). Previously submitted to medRxiv and rejected as out of scope ("not a clinical research article with new data") — the rejection was not a judgment on the merits of the work.
+Nine synthesis papers were published on **Zenodo** in March 2026: [DOI: 10.5281/zenodo.18896103](https://doi.org/10.5281/zenodo.18896103). Paper 11 (personality/myelination fingerprint) added as v1.2. Previously submitted to medRxiv and rejected as out of scope ("not a clinical research article with new data") — the rejection was not a judgment on the merits of the work.
 
 ## Core Thesis
 
@@ -45,8 +45,10 @@ Nine synthesis papers were published on **Zenodo** in March 2026: [DOI: 10.5281/
 | `SYNTHESIS-sensory-integration-insular-timing-alignment.md` | **Paper 9** — The Insular Timing Hypothesis: sensory integration failure, feeding difficulties, and the gestational fingerprint of autism. TIMED + TEMPORAL dual model, Uhthoff's phenomenon analogue, 15-domain gestational timing overlay, 800 lines |
 | `SYNTHESIS-sensory-integration-insular-timing-alignment.pdf` | PDF version |
 | `SYNTHESIS-sensory-integration-insular-timing-alignment.docx` | DOCX companion |
-| `SYNTHESIS-developmental-trauma-oxygen-timing-convergence-NR3C1-HPA-myelination.md` | **Paper 10** — Convergent Pathways: developmental trauma models (cortisol/HPA/NR3C1) and oxygen-timing theory converge on the same molecular pathway. Feed-forward loop, 6 testable predictions, 55+ citations. Prompted by external feedback (Orli Shull) |
+| `SYNTHESIS-developmental-trauma-oxygen-timing-convergence-NR3C1-HPA-myelination.md` | **Paper 10** — Convergent Pathways: developmental trauma models (cortisol/HPA/NR3C1) and oxygen-timing theory converge on the same molecular pathway. Feed-forward loop, 6 testable predictions, 55+ citations. Prompted by external feedback (Orli Shull). *Repo-only — not on Zenodo* |
 | `SYNTHESIS-developmental-trauma-oxygen-timing-convergence-NR3C1-HPA-myelination.pdf` | PDF version |
+| `SYNTHESIS-gestational-oxygen-personality-myelination-fingerprint.md` | **Paper 11** — Gestational oxygen-timing as the hidden axis of personality variation. Myelination fingerprint concept, six-step causal chain, Big Five/temperament/HSP mapping, twin studies reinterpretation, 6 testable predictions, 25+ citations. Published on Zenodo v1.2 |
+| `SYNTHESIS-gestational-oxygen-personality-myelination-fingerprint.pdf` | PDF version |
 
 ### Post-Publication Extension Tracks
 | File | Description |
@@ -111,9 +113,9 @@ Nine synthesis papers were published on **Zenodo** in March 2026: [DOI: 10.5281/
 
 ## Key Numbers
 
-- **40 research documents** in this corpus (22 original + 10 synthesis papers + 7 post-publication extension tracks + 2 narratives)
+- **41 research documents** in this corpus (22 original + 11 synthesis papers + 7 post-publication extension tracks + 2 narratives)
 - **950+ citations** across the literature base
-- **10 synthesis papers** — Papers 1–8 submitted to medRxiv March 2026, rejected (out of scope). Papers 9–10 completed March 2026. All 9 core synthesis papers published on [Zenodo](https://doi.org/10.5281/zenodo.18896103) (DOI: 10.5281/zenodo.18896103)
+- **11 synthesis papers** — Papers 1–8 submitted to medRxiv March 2026, rejected (out of scope). Papers 9–11 completed March 2026. 10 synthesis papers published on [Zenodo](https://doi.org/10.5281/zenodo.18896103) (DOI: 10.5281/zenodo.18896103). Paper 10 repo-only.
 - **10 organ systems** mapped with vulnerability windows
 - **11 therapies** analysed for convergence on the O₂/OPC axis
 - **7 post-publication extension tracks** covering paternal epigenetics, colostrum as personalised repair, environmental exposures, immune activation, neonatal oxygen management, cascade trigger mechanisms, and PE as paternal compatibility signal
@@ -131,7 +133,7 @@ Nine synthesis papers were published on **Zenodo** in March 2026: [DOI: 10.5281/
 
 **Papers 1–8** submitted to **medRxiv** March 2026 — rejected as out of scope ("not a clinical research article with new data"). medRxiv clarified: "this conclusion is not a judgment on the merits of the work." Papers 9–10 completed March 2026.
 
-**Nine synthesis papers** (Papers 1–9) published on **Zenodo** March 2026: [DOI: 10.5281/zenodo.18896103](https://doi.org/10.5281/zenodo.18896103)
+**Nine synthesis papers** (Papers 1–9) published on **Zenodo** March 2026 as v1.1. Paper 11 added as v1.2: [DOI: 10.5281/zenodo.18896103](https://doi.org/10.5281/zenodo.18896103)
 
 - Paper 1: Gestational oxygen-timing alignment and ASD  
 - Paper 2: Multi-organ gestational oxygen-timing alignment  
@@ -142,13 +144,14 @@ Nine synthesis papers were published on **Zenodo** in March 2026: [DOI: 10.5281/
 - Paper 7: Maternal triggers of the placental anti-angiogenic cascade  
 - Paper 8: SIDS as HIF-1α-mediated autonomic programming failure  
 - Paper 9: The Insular Timing Hypothesis — sensory integration, feeding, gestational fingerprint of autism  
-- Paper 10: Convergent pathways — developmental trauma and oxygen-timing convergence via NR3C1/HPA/myelination  
+- Paper 10: Convergent pathways — developmental trauma and oxygen-timing convergence via NR3C1/HPA/myelination *(repo-only)*
+- Paper 11: Gestational oxygen-timing as the hidden axis of personality variation — myelination fingerprint, sub-clinical continuum, Big Five mapping
 
 Seven post-publication extension tracks completed and committed.
 
 ## Citation
 
-> Carpenter, J. A. (2026). *Gestational Oxygen-Timing Theory: Synthesis Papers on HIF-1α-Mediated Developmental Injury, Myelination, and Multi-System Outcomes* (1.1). Zenodo. https://doi.org/10.5281/zenodo.18896103
+> Carpenter, J. A. (2026). *Gestational Oxygen-Timing Theory: Synthesis Papers on HIF-1α-Mediated Developmental Injury, Myelination, and Multi-System Outcomes* (1.2). Zenodo. https://doi.org/10.5281/zenodo.18896103
 
 ---
 
