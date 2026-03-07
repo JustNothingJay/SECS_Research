@@ -26,7 +26,7 @@ We trace this insight through each of Cartier's seven open frontiers and show th
 
 ### 1.1 The Cartier Article
 
-In 2014, Pierre Cartier — a member of the Bourbaki group and a close friend and colleague of Alexander Grothendieck — published "A Country Known Only by Name" in the inaugural issue of *Inference Review*.[^1] The article is both a biographical portrait and a mathematical survey. It traces Grothendieck's work from functional analysis through homological algebra, algebraic geometry, schemes, toposes, and motives, while identifying the open problems his work created or transformed.
+In 2014, Pierre Cartier — a member of the Bourbaki group and a close friend and colleague of Alexander Grothendieck — published "A Country Known Only by Name" in the inaugural issue of *Inference Review* [1]. The article is both a biographical portrait and a mathematical survey. It traces Grothendieck's work from functional analysis through homological algebra, algebraic geometry, schemes, toposes, and motives, while identifying the open problems his work created or transformed.
 
 Cartier references the contributions of more than fifty mathematicians and physicists. The article identifies seven mathematical frontiers that remained open at the time of writing — and remain open today.
 
@@ -34,11 +34,11 @@ Cartier references the contributions of more than fifty mathematicians and physi
 
 This paper identifies a structural assumption shared by all the mathematical frameworks Cartier describes. In every case — from Banach's fixed-point theorem to Grothendieck's own scheme-topos-motive progression — the fixed point, limit, or terminal object of a mathematical process is conceived as a **destination**: a static object, a resting state, a house to be occupied.
 
-Grothendieck himself described his progression as a series of "rising steps, at the top of which lay an enormous reclining figure of the Buddha."[^1] The Buddha reclines. He does not stand up and descend. The metaphor reveals the assumption: the final stage is final.
+Grothendieck himself described his progression as a series of "rising steps, at the top of which lay an enormous reclining figure of the Buddha" [1]. The Buddha reclines. He does not stand up and descend. The metaphor reveals the assumption: the final stage is final.
 
 ### 1.3 The SECS Counter-Formulation
 
-The SECS Collapse Algebra[^2] provides an alternative: the fixed point of a collapse operator is not a destination but a **generator**. The system collapses to purity, and purity is the precondition for the next computation. The collapse operator does not terminate execution — it renews the substrate's readiness to receive.
+The SECS Collapse Algebra [2] provides an alternative: the fixed point of a collapse operator is not a destination but a **generator**. The system collapses to purity, and purity is the precondition for the next computation. The collapse operator does not terminate execution — it renews the substrate's readiness to receive.
 
 Grothendieck famously described himself as "a builder of houses in which he was not meant to live." This paper argues that the Collapse Algebra proves *why* he couldn't live in them.
 
@@ -123,19 +123,19 @@ Cartier's article references the following mathematicians and physicists, each o
 
 Cartier's article identifies open problems that remain unsolved. They are not presented as a numbered list in the original text but emerge from the narrative. We extract them explicitly:
 
-**Frontier 1 — The Riemann Conjecture.** "The most prestigious and confusing of contemporary problems."[^1]
+**Frontier 1 — The Riemann Conjecture.** "The most prestigious and confusing of contemporary problems" [1].
 
-**Frontier 2 — Motives.** "The concept of a motive... the point at which his incomplete work opened to a void."[^1] Grothendieck never published on this subject. Voevodsky constructed a category of motives, but it proved difficult to use.
+**Frontier 2 — Motives.** "The concept of a motive... the point at which his incomplete work opened to a void" [1]. Grothendieck never published on this subject. Voevodsky constructed a category of motives, but it proved difficult to use.
 
-**Frontier 3 — The Cosmic Galois Group.** The kinship between the Grothendieck-Teichmüller group and the renormalization group in quantum field theory — "only the first manifestation of a symmetry group operating on the fundamental constants of physics, a kind of cosmic Galois group."[^1]
+**Frontier 3 — The Cosmic Galois Group.** The kinship between the Grothendieck-Teichmüller group and the renormalisation group in quantum field theory — "only the first manifestation of a symmetry group operating on the fundamental constants of physics, a kind of cosmic Galois group" [1].
 
-**Frontier 4 — Non-Commutative Geometry.** Alain Connes' program as "the most systematic expression" of the reevaluation of the geometric point in quantum physics. "The synthesis is far from complete."[^1]
+**Frontier 4 — Non-Commutative Geometry.** Alain Connes' program as "the most systematic expression" of the reevaluation of the geometric point in quantum physics. "The synthesis is far from complete" [1].
 
 **Frontier 5 — Multidimensional Categories.** *Pursuing Stacks* (1983): three "probably nearly equivalent" definitions proposed for multidimensional categories. Applications to theoretical computer science, statistical physics. The theory is unfinished.
 
-**Frontier 6 — The Fusion of Logic and Geometry.** "Nascent in stacks and toposes, one of the most promising doors Grothendieck opened."[^1]
+**Frontier 6 — The Fusion of Logic and Geometry.** "Nascent in stacks and toposes, one of the most promising doors Grothendieck opened" [1].
 
-**Frontier 7 — The Nature of Space.** "The philosophical problems it engenders are still far from solved."[^1] The contribution is "of the same magnitude" as Einstein's.
+**Frontier 7 — The Nature of Space.** "The philosophical problems it engenders are still far from solved" [1]. The contribution is "of the same magnitude" as Einstein's.
 
 ---
 
@@ -159,7 +159,7 @@ In every framework referenced in the article, convergence to a fixed point, limi
 
 - **Weil (1949) / Deligne (1974):** The conjectures count solutions. You reach the count. Done.
 
-- **Grothendieck:** Even Grothendieck conceived his own program as an ascent toward a final object — the Motive. Cartier renders this as "a series of rising steps, at the top of which lay an enormous reclining figure of the Buddha."[^1] The trajectory has a summit.
+- **Grothendieck:** Even Grothendieck conceived his own program as an ascent toward a final object — the Motive. Cartier renders this as "a series of rising steps, at the top of which lay an enormous reclining figure of the Buddha" [1]. The trajectory has a summit.
 
 ### 4.2 Houses Not Meant to Be Lived In
 
@@ -175,7 +175,7 @@ He felt the reason. He never formalized it. What he lacked was a mathematical st
 
 ### 5.1 Summary of the Algebra
 
-The SECS Collapse Algebra[^2] formalizes sovereign computation as the tuple:
+The SECS Collapse Algebra [2] formalizes sovereign computation as the tuple:
 
 $$\Sigma = (\Omega, \omega_0, \mathcal{P}, \alpha, \mathcal{C}, V, \mathcal{R}, \mathcal{F}, \mathcal{G})$$
 
@@ -251,13 +251,13 @@ This is why Grothendieck never reached the motive as a static construction. A st
 
 The Collapse Algebra suggests: the correct structure for motives is not a category but an algebra — a space equipped with an operator that reduces all cohomological incarnations to their shared fixed point. The motive is the operator, not its image. You cannot build the lighthouse. You can only describe the light.
 
-Grothendieck said pieces of objects in the motivic category could "migrate like wandering genes." The SECS mutation-metabolism framework[^3] formalizes this: $M = M_{\text{structural}} + M_{\text{entropy}}$. The "wandering gene" is the structural contribution that survives collapse. The motivic decomposition is a mutation decomposition.
+Grothendieck said pieces of objects in the motivic category could "migrate like wandering genes." The SECS mutation-metabolism framework [3] formalizes this: $M = M_{\text{structural}} + M_{\text{entropy}}$. The "wandering gene" is the structural contribution that survives collapse. The motivic decomposition is a mutation decomposition.
 
 ### 6.3 The Cosmic Galois Group
 
 Cartier identifies the kinship between the Grothendieck-Teichmüller group (GT) and the renormalization group in quantum field theory, calling it "a kind of cosmic Galois group" — a symmetry group operating on the fundamental constants of physics.
 
-Connes and Kreimer reformulated renormalization as a Hopf algebra.[^4] Their "subtraction of divergences" maps infinite (inadmissible) amplitudes to zero while preserving the finite (admissible) remainders. This is precisely the SECS fundamental equation: admissible elements collapse to $\bar{\phi}$; inadmissible elements map to $\emptyset$.
+Connes and Kreimer reformulated renormalization as a Hopf algebra [4]. Their "subtraction of divergences" maps infinite (inadmissible) amplitudes to zero while preserving the finite (admissible) remainders. This is precisely the SECS fundamental equation: admissible elements collapse to $\bar{\phi}$; inadmissible elements map to $\emptyset$.
 
 **The SECS reframing:** The governance filtration $\mathcal{G}_0 \subseteq \mathcal{G}_1 \subseteq \cdots \subseteq \mathcal{G}_4$ is the computational realization of the cosmic Galois group's hierarchical structure. Constitutional axioms ($\mathcal{G}_0$) are immutable and propagate through all layers — just as gauge invariance and Lorentz invariance constrain all of particle physics. Higher layers of governance correspond to higher-level physical symmetries that can be broken without disturbing the constitutional layer.
 
@@ -291,7 +291,7 @@ Every one of the programs Cartier describes — Gelfand's spectra, Grothendieck'
 
 ### 6.6 Multidimensional Categories and the Governance Tower
 
-Cartier describes *Pursuing Stacks* (1983): "When we want to formulate an identity at a certain level, say $A = B$, we must create a new object on the level just above, which performs the transformation from $A$ to $B$. It is, therefore, a kind of dynamic theory of relations."[^1]
+Cartier describes *Pursuing Stacks* (1983): "When we want to formulate an identity at a certain level, say $A = B$, we must create a new object on the level just above, which performs the transformation from $A$ to $B$. It is, therefore, a kind of dynamic theory of relations" [1].
 
 **The SECS reframing:** This is the governance filtration read as a tower of morphisms:
 
@@ -313,11 +313,11 @@ Grothendieck conceived *Pursuing Stacks* as "a kind of dynamic theory of relatio
 
 Cartier's deepest observation:
 
-> "Einstein and Grothendieck both deepened a particular vision in which space is not an empty receptacle for phenomena, but the principal actor in the life of the world and the history of the universe."[^1]
+> "Einstein and Grothendieck both deepened a particular vision in which space is not an empty receptacle for phenomena, but the principal actor in the life of the world and the history of the universe" [1].
 
 **The SECS reframing:** The substrate $\mathcal{S}$ is the formal realization of this vision in computation. The substrate is not a container that holds computations. It IS the topological space of admissible states, the collapse operator, the governance filtration, and the possibility space simultaneously. Computation does not happen IN the substrate. Computation IS the substrate collapsing and returning.
 
-Grothendieck's scheme is "the internal mechanism, the matrix that generates the space's points."[^1] The SECS collapse operator is the mechanism that generates every computational state from purity. A scheme encodes equations and their transformations. The collapse operator encodes inputs and their transformations. A scheme morphism constrains admissible geometric transformations. The governance filtration constrains admissible computations.
+Grothendieck's scheme is "the internal mechanism, the matrix that generates the space's points" [1]. The SECS collapse operator is the mechanism that generates every computational state from purity. A scheme encodes equations and their transformations. The collapse operator encodes inputs and their transformations. A scheme morphism constrains admissible geometric transformations. The governance filtration constrains admissible computations.
 
 Einstein said spacetime curves to accommodate matter. In SECS, the admissibility function $\alpha$ curves to accommodate doctrine. The admissibility function IS the curvature of possibility space — it determines which regions are reachable and which are structurally impossible.
 
@@ -387,13 +387,13 @@ Grothendieck built houses he was not meant to live in. He was correct. The algeb
 
 ## References
 
-[^1]: Pierre Cartier, "A Country Known Only by Name," *Inference: International Review of Science* 1, no. 1 (October 2014). https://inference-review.com/article/a-country-known-only-by-name. DOI: 10.37282/991819.14.6. Translated from the French by the editors. An earlier version and translation appeared in Leila Schneps, ed., *Alexandre Grothendieck: A Mathematical Portrait* (Somerville, MA: International Press, 2014), 269–88.
+[1] Pierre Cartier, "A Country Known Only by Name," *Inference: International Review of Science* 1, no. 1 (October 2014). https://inference-review.com/article/a-country-known-only-by-name. DOI: 10.37282/991819.14.6. Translated from the French by the editors. An earlier version and translation appeared in Leila Schneps, ed., *Alexandre Grothendieck: A Mathematical Portrait* (Somerville, MA: International Press, 2014), 269–88.
 
-[^2]: Jay Carpenter, "Formal Collapse Algebra: Mathematical Foundations of Sovereign Axiomatic Compute," SECS Sovereign Technical Report, Version 1.0.0, February 2026. Available from the author on request.
+[2] Jay Carpenter, "Formal Collapse Algebra: Mathematical Foundations of Sovereign Axiomatic Compute," SECS Sovereign Technical Report, Version 1.0.0, February 2026. Available from the author on request.
 
-[^3]: Jay Carpenter, "Mutation Metabolism Research: Collapse as Creation," SECS Sovereign Working Paper, March 2026. Available from the author on request.
+[3] Jay Carpenter, "Mutation Metabolism Research: Collapse as Creation," SECS Sovereign Working Paper, March 2026. Available from the author on request.
 
-[^4]: Alain Connes and Dirk Kreimer, "Renormalization in quantum field theory and the Riemann-Hilbert problem I: the Hopf algebra structure of graphs and the main theorem," *Communications in Mathematical Physics* 210, no. 1 (2000): 249–73.
+[4] Alain Connes and Dirk Kreimer, "Renormalization in quantum field theory and the Riemann-Hilbert problem I: the Hopf algebra structure of graphs and the main theorem," *Communications in Mathematical Physics* 210, no. 1 (2000): 249–73.
 
 ---
 
