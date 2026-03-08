@@ -385,7 +385,7 @@ Grothendieck built houses he was not meant to live in. He was correct. The algeb
 
 [1] Pierre Cartier, "A Country Known Only by Name," *Inference: International Review of Science* 1, no. 1 (October 2014). https://inference-review.com/article/a-country-known-only-by-name. DOI: 10.37282/991819.14.6. Translated from the French by the editors. An earlier version and translation appeared in Leila Schneps, ed., *Alexandre Grothendieck: A Mathematical Portrait* (Somerville, MA: International Press, 2014), 269–88.
 
-[2] Jay Carpenter, "Formal Collapse Algebra: Mathematical Foundations of Sovereign Axiomatic Compute," SECS Sovereign Technical Report, Version 1.0.0, February 2026. Available from the author on request.
+[2] Jay Carpenter, "A Formal Algebra of Collapse-Based Computation," March 2026. DOI: [10.5281/zenodo.18906064](https://doi.org/10.5281/zenodo.18906064).
 
 [3] Jay Carpenter, "Mutation Metabolism Research: Collapse as Creation," SECS Sovereign Working Paper, March 2026. Available from the author on request.
 

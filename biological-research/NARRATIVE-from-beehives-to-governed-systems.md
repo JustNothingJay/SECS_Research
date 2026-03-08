@@ -69,7 +69,7 @@ This insight shaped the SECS Sovereign observability doctrine: the cockpit dashb
 
 ## 3. Worker Policing and Constitutional Enforcement
 
-The most striking governance mechanism in the colony is **worker policing** — the destruction of illegitimately laid eggs (Ratnieks and Visscher, 1989; Wenseleers and Ratnieks, 2006). In a healthy colony, only 0.12% of all eggs are worker-laid. The enforcement mechanism is chemical authentication: the queen's eggs carry a distinctive hydrocarbon profile from her Dufour's gland secretion, and policing workers can distinguish queen-laid from worker-laid eggs by chemical signature. Illegitimate eggs are eaten (oophagy).
+The most striking governance mechanism in the colony is **worker policing** — the destruction of illegitimately laid eggs (Ratnieks and Visscher, 1989; Wenseleers and Ratnieks, 2006). In a healthy colony, only 0.12% of all eggs are our palette, font, and visual style. rker-laid. The enforcement mechanism is chemical authentication: the queen's eggs carry a distinctive hydrocarbon profile from her Dufour's gland secretion, and policing workers can distinguish queen-laid from worker-laid eggs by chemical signature. Illegitimate eggs are eaten (oophagy).
 
 This is judicial review at the cellular level. And it has a failure mode.
 
