@@ -1,11 +1,10 @@
 # The Collapse That Never Happens: Generative Fixed Points and the Open Problems of Grothendieck
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18901508.svg)](https://doi.org/10.5281/zenodo.18901508)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18905785.svg)](https://doi.org/10.5281/zenodo.18905785)
 
 **Author:** Jay Andrew Carpenter
-**Date:** 2026-03-07
-**Affiliation:** SECS Sovereign — Sovereign Execution & Compute Substrate
-**Published:** [Zenodo](https://doi.org/10.5281/zenodo.18901508) (DOI: 10.5281/zenodo.18901508)
+**Date:** 2026-03-08
+**Published:** [Zenodo](https://doi.org/10.5281/zenodo.18905785) (DOI: 10.5281/zenodo.18905785)
 
 ## Summary
 
@@ -43,8 +42,8 @@ The paper traces this insight through seven open frontiers:
   month     = {March},
   publisher = {Zenodo},
   version   = {1.0},
-  doi       = {10.5281/zenodo.18901508},
-  url       = {https://doi.org/10.5281/zenodo.18901508}
+  doi       = {10.5281/zenodo.18905785},
+  url       = {https://doi.org/10.5281/zenodo.18905785}
 }
 ```
 

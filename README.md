@@ -33,7 +33,7 @@ Measurement reports from the SECS computational substrate. These are transferred
 
 | Paper | Description | DOI |
 |-------|-------------|-----|
-| [`collapse-never-happens-grothendieck`](papers/collapse-never-happens-grothendieck/) | Generative fixed points and the open problems of Grothendieck — connects SECS Collapse Algebra to seven open mathematical frontiers | [10.5281/zenodo.18901508](https://doi.org/10.5281/zenodo.18901508) |
+| [`collapse-never-happens-grothendieck`](papers/collapse-never-happens-grothendieck/) | Generative fixed points and the open problems of Grothendieck — connects SECS Collapse Algebra to seven open mathematical frontiers | [10.5281/zenodo.18905785](https://doi.org/10.5281/zenodo.18905785) |
 
 ### `biological-research/` — Perinatal Oxygen-Timing Research
 
