@@ -1,0 +1,5 @@
+{
+    "github.gitAuthentication": true,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true
+}

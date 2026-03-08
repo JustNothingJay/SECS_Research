@@ -1,0 +1,20 @@
+{
+    "name": "SECS Research",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "ghcr.io/devcontainers/features/github-cli:1": {}
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "github.gitAuthentication": true,
+                "git.autofetch": true,
+                "git.enableSmartCommit": true
+            },
+            "extensions": [
+                "GitHub.vscode-pull-request-github",
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
