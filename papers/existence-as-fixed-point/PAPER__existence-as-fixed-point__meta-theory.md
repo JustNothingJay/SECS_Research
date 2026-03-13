@@ -1,7 +1,6 @@
----
 title: "Existence as Fixed Point: A Meta-Theory of Deterministic Collapse"
 author: Jay Carpenter
-date: March 2026
+date: March 10, 2026
 ---
 
 ## Abstract {-}
@@ -480,11 +479,11 @@ They are the same theorem. The lexicon collapsed.
 
 ## References {-}
 
-[1] J. Carpenter, "A Formal Algebra of Collapse-Based Computation," March 2026. DOI: [10.5281/zenodo.18906064](https://doi.org/10.5281/zenodo.18906064).
+[1] J. Carpenter, "A Formal Algebra of Collapse-Based Computation," March 8, 2026. DOI: [10.5281/zenodo.18906064](https://doi.org/10.5281/zenodo.18906064).
 
-[2] J. Carpenter, "The Condition That Dissolves: Death as the Exhaustive Veto Partition for Natural Systems," March 2026. DOI: [10.5281/zenodo.18905785](https://doi.org/10.5281/zenodo.18905785).
+[2] J. Carpenter, "The Condition That Dissolves: Death as the Exhaustive Veto Partition for Natural Systems," March 8, 2026. DOI: [10.5281/zenodo.18905785](https://doi.org/10.5281/zenodo.18905785).
 
-[3] J. Carpenter, "The Collapse That Never Happens: Generative Fixed Points and the Open Problems of Grothendieck," March 2026. DOI: [10.5281/zenodo.18905785](https://doi.org/10.5281/zenodo.18905785).
+[3] J. Carpenter, "The Collapse That Never Happens: Generative Fixed Points and the Open Problems of Grothendieck," March 8, 2026. DOI: [10.5281/zenodo.18905785](https://doi.org/10.5281/zenodo.18905785).
 
 [4] J. D. Bekenstein, "Black holes and the second law," *Lettere al Nuovo Cimento*, 4(15): 737–740, 1972.
 

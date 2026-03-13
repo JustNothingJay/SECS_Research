@@ -1,7 +1,6 @@
----
 title: "The Condition That Dissolves: Death as the Exhaustive Veto Partition for Natural Systems"
 author: Jay Carpenter
-date: March 2026
+date: March 8, 2026
 ---
 
 ## Abstract {-}
@@ -230,8 +229,8 @@ The limitation survives for ungoverned formal systems: systems with no death bou
 
 ## References {-}
 
-[1] J. Carpenter, "The Collapse That Never Happens: Generative Fixed Points and the Open Problems of Grothendieck," SECS Sovereign, March 2026. DOI: [10.5281/zenodo.18905785](https://doi.org/10.5281/zenodo.18905785).
+[1] J. Carpenter, "The Collapse That Never Happens: Generative Fixed Points and the Open Problems of Grothendieck," SECS Sovereign, March 8, 2026. DOI: [10.5281/zenodo.18905785](https://doi.org/10.5281/zenodo.18905785).
 
-[2] J. Carpenter, "A Formal Algebra of Collapse-Based Computation," March 2026. DOI: [10.5281/zenodo.18906064](https://doi.org/10.5281/zenodo.18906064).
+[2] J. Carpenter, "A Formal Algebra of Collapse-Based Computation," March 8, 2026. DOI: [10.5281/zenodo.18906064](https://doi.org/10.5281/zenodo.18906064).
 
 [3] P. Cartier, "A Country Known Only by Name: Grothendieck and 'Motives'," *Inference: International Review of Science*, vol. 1, no. 1, 2014. DOI: [10.37282/991819.14.6](https://doi.org/10.37282/991819.14.6).
