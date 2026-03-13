@@ -14,7 +14,8 @@ $Records = @(
     @{ Name = "Algebra";                 Id = 18906064 },
     @{ Name = "Meta-theory";             Id = 18932890 },
     @{ Name = "Constitutional Constant"; Id = 18995286 },
-    @{ Name = "Fine Structure Constant"; Id = 18994393 }
+    @{ Name = "Fine Structure Constant"; Id = 18994393 },
+    @{ Name = "Osmotic Derivation";      Id = 19000474 }
 )
 
 $LogDir     = Join-Path (Join-Path $PSScriptRoot "..") "traffic-logs"
