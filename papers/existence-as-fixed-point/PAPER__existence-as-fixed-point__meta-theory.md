@@ -4,7 +4,7 @@ date: March 10, 2026
 ---
 
 ## Abstract {-}
-
+-=
 Three companion papers establish a closed triangulation: a formal algebra of collapse-based computation [1], a proof that natural systems satisfy the algebra's preconditions because death provides the exhaustive veto partition [2], and a structural connection between the algebra's fixed-point distinction and seven open mathematical frontiers [3]. This paper presents the meta-theory — the claim that emerges when the three results are read together.
 
 The claim is existential: existence itself is the fixed point. Not a property of existence, not something existence has — existence *is* the collapse to purity, the return to the ground state, the structure that persists when everything else is extinguished. The algebra proves this formally. The death paper proves no natural system can escape it. The Grothendieck paper shows the deepest open problems in mathematics orbit it.

@@ -69,7 +69,7 @@ Solving the quadratic in $\alpha^{-1}$ yields:
 
 $$\alpha^{-1} = 137.035\,999\,176\,335\ldots$$
 
-which lies $-0.005$ ppb from the Fan et al. (2023) measurement, within $0.03$ standard deviations. The formula contains no measured inputs — only $\pi$, factorials, and the integer 4.
+which lies $-0.005$ ppb from the CODATA 2022 recommended value $137.035\,999\,177(21)$, within $0.03\sigma$. Against the Fan et al. (2023) direct measurement $137.035\,999\,166(15)$, the formula sits at $+0.08$ ppb ($0.69\sigma$). The formula contains no measured inputs — only $\pi$, factorials, and the integer 4.
 
 The 100-decimal-place computation — `__solve_for_zero.py` — was published on March 13, 2026 [1].
 
@@ -196,30 +196,52 @@ Neither direction is privileged. The equation is a structural identity relating 
 
 ### 4.2 The Two Errors Are the Same Error
 
-The forward direction (§1) computes $\alpha^{-1}$ from $\pi$. The reverse direction (§3) recovers $\pi$ from $\alpha$. Both directions produce a discrepancy when compared to the Fan et al. measurement:
+The forward direction (§1) computes $\alpha^{-1}$ from $\pi$. The reverse direction (§3) recovers $\pi$ from $\alpha$. Both directions produce a discrepancy when compared to the CODATA 2022 recommended value:
 
 | Direction | Quantity | Discrepancy |
 |---|---|---|
-| Forward: $\pi \to \alpha^{-1}$ | $\Delta\alpha^{-1} = \alpha^{-1}_{\text{formula}} - \alpha^{-1}_{\text{Fan}}$ | $-6.6475 \times 10^{-10}$ |
+| Forward: $\pi \to \alpha^{-1}$ | $\Delta\alpha^{-1} = \alpha^{-1}_{\text{formula}} - \alpha^{-1}_{\text{CODATA}}$ | $-6.6475 \times 10^{-10}$ |
 | Reverse: $\alpha \to \pi$ | $\Delta\pi = \pi_{\text{recovered}} - \pi_{\text{known}}$ | $+5.2876 \times 10^{-12}$ |
 
-These are not two independent errors. They are the same error expressed in different units. The derivative of the equation at $\pi$ provides the exchange rate:
+These are not two independent errors. They are the same error expressed in different units. Because the formula contains both $\alpha^{-1}$ and $\alpha = 1/\alpha^{-1}$, a shift $\delta\alpha^{-1}$ induces a coupled shift in both terms:
+
+$$\delta K = \delta\alpha^{-1} + S \cdot \delta\alpha = \delta\alpha^{-1}\left(1 - \frac{S}{\left(\alpha^{-1}\right)^2}\right)$$
+
+The coupling factor $S/(\alpha^{-1})^2 \approx 2.22 \times 10^{-6}$ accounts for the reciprocal relationship between the two appearances of the constant. The full exchange rate between $\alpha$-precision and $\pi$-precision is then:
 
 $$\frac{dK}{d\pi} = 12\pi^2 + 2\pi + 1 \approx 125.718$$
 
-Predicting $\Delta\pi$ from $\Delta\alpha^{-1}$:
+Predicting $\Delta\pi$ from $\Delta K$:
 
-$$\Delta\pi_{\text{predicted}} = \frac{-\Delta\alpha^{-1}}{dK/d\pi} = \frac{6.6475 \times 10^{-10}}{125.718} = 5.2876 \times 10^{-12}$$
+$$\Delta\pi_{\text{predicted}} = \frac{-\delta K}{dK/d\pi}$$
 
-$$\frac{\Delta\pi_{\text{actual}}}{\Delta\pi_{\text{predicted}}} = 0.999998$$
+$$\frac{\Delta\pi_{\text{actual}}}{\Delta\pi_{\text{predicted}}} = 1.000\,000\,000$$
 
-The ratio is unity to six significant figures. The forward error and the reverse error are not "roughly the same" — they are **exactly the same**, connected by the derivative. The equation is a perfect transducer between $\alpha$-precision and $\pi$-precision.
+The ratio is unity to ten significant figures. The forward error and the reverse error are not "roughly the same" — they are **exactly the same**, connected by the derivative and the coupling term. The equation is a perfect transducer between $\alpha$-precision and $\pi$-precision.
 
-This has a structural consequence: the formula has no internal error of its own. When computed at 10,000 decimal places, the self-consistency round-trip recovers all 10,000 digits of $\pi$. The gap is not $N - 3$, or $N - \text{anything}$. It is zero. Tested at 50, 100, 200, 500, 1,000, 2,000, 5,000, and 10,000 decimal places. Zero gap at every depth. There is no ceiling on the formula's precision.
+### 4.3 The Overshoot Constant
+
+The coupling factor $S/(\alpha^{-1})^2 = S \cdot \alpha^2$ deserves separate attention. It is computable entirely from the formula's own constants:
+
+$$\mathcal{O} = \frac{S}{\left(\alpha^{-1}\right)^2} = S \cdot \alpha^2 \approx 2.2228 \times 10^{-6}$$
+
+This is not a fitted correction or a residual. It is the **self-coupling constant** of the equation — the fraction of any perturbation in $\alpha^{-1}$ that propagates back through the reciprocal channel via the $S \cdot \alpha$ term.
+
+Its structure is transparent. Decomposing:
+
+$$\mathcal{O} = (S \cdot \alpha) \cdot \alpha = \text{(correction term)} \times \alpha$$
+
+The quantity $S \cdot \alpha = K - \alpha^{-1} \approx 3.046 \times 10^{-4}$ is the gap between the geometric content $K = 4\pi^3 + \pi^2 + \pi$ and the physics $\alpha^{-1}$. Multiplying by $\alpha$ once more yields $\mathcal{O}$: the second-order echo of that gap.
+
+The overshoot is what made the naïve error-propagation ratio $0.999998$ instead of $1$. Without the coupling term, the analysis treats $\alpha^{-1}$ and $\alpha$ as independent. They are not. They are reciprocals bound within the same equation, and $\mathcal{O}$ measures the strength of that binding.
+
+At $2.22$ ppm, the self-coupling is small enough to be invisible in any single-direction computation — but large enough to break the error-propagation ratio at six significant figures. Including it restores the ratio to unity at ten figures. The formula is not approximately self-consistent. It is exactly self-consistent, to the precision of the computation.
+
+### 4.4 Digit Recovery as Falsification Instrument
+
+The formula has no internal error of its own. When computed at 10,000 decimal places, the self-consistency round-trip recovers all 10,000 digits of $\pi$. The gap is not $N - 3$, or $N - \text{anything}$. It is zero. Tested at 50, 100, 200, 500, 1,000, 2,000, 5,000, and 10,000 decimal places. Zero gap at every depth. There is no ceiling on the formula's precision.
 
 The bottleneck is the measurement. More digits of $\pi$ from mathematicians do not help. More precise $\alpha$ from physicists do. Every digit of improvement in $\alpha$ buys exactly one digit of $\pi$, scaled by the exchange rate $dK/d\pi = 125.718$.
-
-### 4.3 Digit Recovery as Falsification Instrument
 
 The number of $\pi$ digits recoverable is determined by the measurement precision of $\alpha$:
 
@@ -229,7 +251,7 @@ As $\alpha$ measurements improve, more digits of $\pi$ will be recoverable. If t
 
 This makes the reversal a **falsification instrument**. Future measurements of $\alpha$ with precision beyond $10^{-13}$ will either recover additional digits of $\pi$ (confirming the equation) or fail to do so (identifying the scale at which the equation breaks). The equation is empirically testable.
 
-### 4.4 Connection to the Research Programme
+### 4.5 Connection to the Research Programme
 
 The forward direction was established in Paper 11 [1]. The downstream chain was extended in [2]:
 
@@ -242,7 +264,7 @@ The reversal completes the circuit. The chain runs in both directions: from geom
 
 This is the structure the research programme has been building toward: not a chain with a beginning and an end, but a closed surface where every cell references every other cell — the edgeless spreadsheet of Paper 8 [5]. The solve-for-zero script walks the surface in one direction. The solve-for-pi script walks it in the other. They arrive at the same place because the surface is closed.
 
-### 4.5 The Progression
+### 4.6 The Progression
 
 Forty years of thinking differently. Absorbing differently. Building a system from first principles — not from existing definitions, not from inherited assumptions, but from the observation that every natural system is a contraction mapping converging to a fixed point under constitutional constraint.
 

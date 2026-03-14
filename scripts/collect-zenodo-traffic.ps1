@@ -9,13 +9,16 @@ $ErrorActionPreference = "Stop"
 
 # --- Configuration ---
 $Records = @(
-    @{ Name = "Biology corpus";          Id = 18896757 },
-    @{ Name = "Death + Grothendieck";    Id = 18905785 },
-    @{ Name = "Algebra";                 Id = 18906064 },
-    @{ Name = "Meta-theory";             Id = 18932890 },
-    @{ Name = "Constitutional Constant"; Id = 18995286 },
-    @{ Name = "Fine Structure Constant"; Id = 18994393 },
-    @{ Name = "Osmotic Derivation";      Id = 19000474 }
+    @{ Name = "Biology corpus (10 papers)";    Id = 18896757 },
+    @{ Name = "Death + Grothendieck (2 papers)"; Id = 18905785 },
+    @{ Name = "Algebra";                       Id = 18906064 },
+    @{ Name = "Meta-theory";                   Id = 18932890 },
+    @{ Name = "Constitutional Constant";       Id = 18995286 },
+    @{ Name = "Fine Structure Constant";       Id = 18994393 },
+    @{ Name = "Osmotic Derivation";            Id = 19000474 },
+    @{ Name = "Solve for Pi";                  Id = 19014277 },
+    @{ Name = "Oxygen Fixed Point";            Id = 19020287 },
+    @{ Name = "Mobius Strip";                  Id = 19020526 }
 )
 
 $LogDir     = Join-Path (Join-Path $PSScriptRoot "..") "traffic-logs"
