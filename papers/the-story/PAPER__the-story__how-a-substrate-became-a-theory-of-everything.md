@@ -313,4 +313,4 @@ Twenty years of accumulating the pieces collapsed to that sentence. And the nota
 
 [3] J. Carpenter, "The Collapse That Never Happens: Generative Fixed Points and the Open Problems of Grothendieck," March 2026. DOI: [10.5281/zenodo.18905785](https://doi.org/10.5281/zenodo.18905785).
 
-[4] J. Carpenter, "Existence as Fixed Point: A Meta-Theory of Deterministic Collapse," March 2026. Unpublished first draft.
+[4] J. Carpenter, "Existence as Fixed Point: A Meta-Theory of Deterministic Collapse," March 2026. DOI: [10.5281/zenodo.18932890](https://doi.org/10.5281/zenodo.18932890).

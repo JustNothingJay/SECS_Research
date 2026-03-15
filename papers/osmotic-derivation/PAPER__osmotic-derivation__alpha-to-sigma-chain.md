@@ -506,7 +506,7 @@ The formula holds because its holding is not a fact about numbers. It is the pre
 
 [2] Carpenter, J. (2026). "Collapse Algebra: Formal Foundations." Zenodo. DOI: 10.5281/zenodo.18906064
 
-[3] Carpenter, J. (2026). "Le Chatelier–Banach Synthesis: Oxygen Fixed Point Across Nine Scales." Zenodo. DOI: 10.5281/zenodo.18896103
+[3] Carpenter, J. (2026). "Le Chatelier–Banach Synthesis: Oxygen Fixed Point Across Nine Scales." Unpublished draft. *(Earlier versions appeared within the Gestational Oxygen-Timing corpus, DOI: 10.5281/zenodo.18896103 v1.2.1.)*
 
 [4] Carpenter, J. (2026). "Existence as Fixed Point: Meta-Theory." Zenodo. DOI: 10.5281/zenodo.18932890
 

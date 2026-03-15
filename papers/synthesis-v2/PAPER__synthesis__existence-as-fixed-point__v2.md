@@ -280,7 +280,7 @@ These are structural analogies, not proofs. The Riemann Conjecture is not proven
 
 # 5. The Existential Claim
 
-**Status: Philosophical.** Unpublished first draft as [4].
+**Status: Philosophical.** Published as [4].
 
 ## 5.1. The Claim
 
@@ -808,7 +808,7 @@ Existence is because existence IS.
 
 [3] J. Carpenter, "The Collapse That Never Happens: Generative Fixed Points and the Open Problems of Grothendieck," March 2026. DOI: 10.5281/zenodo.18905785.
 
-[4] J. Carpenter, "Existence as Fixed Point: A Meta-Theory of Deterministic Collapse," March 2026. Unpublished first draft.
+[4] J. Carpenter, "Existence as Fixed Point: A Meta-Theory of Deterministic Collapse," March 2026. DOI: 10.5281/zenodo.18932890.
 
 [5] J. Carpenter, "Research Tranche 7: The Fixed Point and Its History — $x = \text{true}$," March 2026. Unpublished.
 

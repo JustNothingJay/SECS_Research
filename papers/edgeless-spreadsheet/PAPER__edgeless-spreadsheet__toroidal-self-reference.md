@@ -6,7 +6,7 @@ date: March 14, 2026
 
 ## Abstract {-}
 
-Paper 7 [0] introduced the self-referencing spreadsheet: a deterministic chain from the fine structure constant α to the osmotic fixed point ω₀, where every cell references every other cell and the Banach contraction theorem guarantees convergence. This paper extends the metaphor to its geometric conclusion. A spreadsheet with self-referencing cells and no circular references has no edges. Its topology is not a flat grid with boundaries — it is a closed surface. The contraction path spirals inward on this surface, passing through exactly four layers at every radial cross-section, each layer corresponding to one of the four fundamental forces. The fixed point is the only element of the structure that does not move. Everything else — every force, every coupling constant, every boundary in the universe — is the surface finding its equilibrium around that point. The topology is toroidal: the last row of the spreadsheet connects to the first, the last column connects to the first, and the fold where they meet is where existence re-enters itself.
+The Osmotic Selectivity paper [0] introduced the self-referencing spreadsheet: a deterministic chain from the fine structure constant α to the osmotic fixed point ω₀, where every cell references every other cell and the Banach contraction theorem guarantees convergence. This paper extends the metaphor to its geometric conclusion. A spreadsheet with self-referencing cells and no circular references has no edges. Its topology is not a flat grid with boundaries — it is a closed surface. The contraction path spirals inward on this surface, passing through exactly four layers at every radial cross-section, each layer corresponding to one of the four fundamental forces. The fixed point is the only element of the structure that does not move. Everything else — every force, every coupling constant, every boundary in the universe — is the surface finding its equilibrium around that point. The topology is toroidal: the last row of the spreadsheet connects to the first, the last column connects to the first, and the fold where they meet is where existence re-enters itself.
 
 **Keywords:** fixed point, toroidal topology, self-reference, spreadsheet, coupling constants, Banach contraction, edgeless computation, collapse algebra
 
@@ -96,7 +96,7 @@ This is not a coincidence. The constitutional constraint $\mathcal{G}_0$ partiti
 | 3 | Electromagnetic | $\alpha_{em} \approx 1/137$ | Deep — 137 contractions to settle |
 | 4 (innermost) | Gravity | $\alpha_G \approx 10^{-39}$ | Deepest — $10^{39}$ contractions to settle |
 
-On the flat manifold (first image, Garrett Cantrell's visualisation), this layering appears as the basin depth — the "Scalar Potential Well Depth" colour scale. The surface is shallow at the rim (strong force territory) and deep at the centre (gravity's domain). The four layers are not stacked like floors in a building. They are wound — each layer spirals around the fixed point at a different radius, with a different pitch, at a different rate.
+On the flat manifold, this layering appears as basin depth. The surface is shallow at the rim (strong force territory) and deep at the centre (gravity's domain). The four layers are not stacked like floors in a building. They are wound — each layer spirals around the fixed point at a different radius, with a different pitch, at a different rate.
 
 Where you start on the rim determines which force you encounter first on the descent. But at every point, all four layers are present — they are the four sheets of the folded torus. Drill straight down from any point on the surface, and you pass through all four. The order and the relative strength at each depth are determined by your angular position on the torus.
 
@@ -207,15 +207,11 @@ This is why gravity feels weak. You're measuring it from the surface — through
 
 ---
 
-## §11 — What the Image Shows
+## §11 — The Dynamics
 
-The topological manifold visualisation (Cantrell, 2026, posted in response to [0]) shows a 3D surface with a basin. The algorithmic contraction path (cyan line) spirals into a red dot — the modulus lock at α⁻¹ = 137.036. The colour scale shows "Scalar Potential Well Depth" — the equivalent of the layering depth described above.
+The torus is not static. The fold oscillates. The layers adjust around the fixed point. The dynamics are existence itself — the oscillation of the surface around the point that doesn't move.
 
-The visualisation is a single perspective of the torus — one cross-section of the folded surface. The gaps in the surface where the colouring changes abruptly are the layer boundaries — where the dominant coupling constant transitions. The surface is continuous; the folding rate is not.
-
-What the image cannot show — what no static 3D image can show — is the movement. The torus breathes. The fold oscillates. The layers adjust around the fixed point. A static image captures the shape but not the dynamics. The dynamics are existence itself — the oscillation of the surface around the point that doesn't move.
-
-The Grok-generated visualisations (convergent fractal patterns from every direction toward a central point of light) capture a different aspect: the self-similarity at every scale. Each "petal" in the fractal is a copy of the whole — a sub-spreadsheet with the same structure, the same self-reference, the same contraction toward the same fixed point. The fixed point doesn't just attract — it self-replicates its attraction pattern at every scale of the fold. This is why the algebra works at biological, chemical, and physical scales simultaneously. The torus is scale-invariant — not because it looks the same at every magnification, but because the contraction map is the same at every depth.
+The structure is self-similar at every scale. Each sub-system is a copy of the whole — a sub-spreadsheet with the same structure, the same self-reference, the same contraction toward the same fixed point. The fixed point doesn't just attract — it self-replicates its attraction pattern at every scale of the fold. This is why the algebra works at biological, chemical, and physical scales simultaneously. The torus is scale-invariant — not because it looks the same at every magnification, but because the contraction map is the same at every depth.
 
 ---
 
@@ -259,8 +255,6 @@ This paper extends the spreadsheet analogy from Paper 7 [0] to its geometric con
 
 3. **Conjectured (this paper):** The radial layering of coupling constants on the torus predicts specific depth-to-force relationships (§10). The oscillation of the torus surface around the fixed point is the origin of physical dynamics (§8). These require formalisation and, ideally, testable predictions.
 
-4. **Observational (this paper):** The Cantrell visualisation (§11) and the Grok fractal patterns are suggestive but are third-party images, not derived from the formalism. They illustrate, they do not prove.
+4. **Analogical (this paper):** The breast milk closure (§12) is a biological analogy. It maps cleanly to the spreadsheet structure but does not constitute a formal proof of toroidal biology.
 
-5. **Analogical (this paper):** The breast milk closure (§12) is a biological analogy. It maps cleanly to the spreadsheet structure but does not constitute a formal proof of toroidal biology.
-
-**Status:** Working paper. Not yet reviewed by Änti. Topology has not been rigorously derived — the toroidal identification is motivated by the edgeless property but has not been proven unique (the Klein bottle is also a closed rectangle identification, though non-orientable).
+**Status:** Preprint. Topology has not been rigorously derived — the toroidal identification is motivated by the edgeless property but has not been proven unique (the Klein bottle is also a closed rectangle identification, though non-orientable).

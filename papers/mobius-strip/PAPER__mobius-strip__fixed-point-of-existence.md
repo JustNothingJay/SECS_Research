@@ -384,7 +384,7 @@ The constraint surface of existence is a Möbius strip. The friction of being on
 
 Banach, S. (1922). Sur les operations dans les ensembles abstraits et leur application aux equations integrales. *Fundamenta Mathematicae*, 3, 133--181.
 
-Carpenter, J. (2026a). *Le Chatelier, Banach, and the Oxygen Fixed Point: A Cross-Scale Synthesis of Equilibrium, Contraction, and Biological Constraint.* Zenodo. DOI: 10.5281/zenodo.18896103.
+Carpenter, J. (2026a). *Le Chatelier, Banach, and the Oxygen Fixed Point: A Cross-Scale Synthesis of Equilibrium, Contraction, and Biological Constraint.* Unpublished draft. *(Earlier versions appeared within the Gestational Oxygen-Timing corpus, DOI: 10.5281/zenodo.18896103 v1.2.1.)*
 
 Carpenter, J. (2026b). *Osmotic Selectivity as a Deterministic Function of the Fine Structure Constant.* Zenodo. DOI: 10.5281/zenodo.19000474.
 

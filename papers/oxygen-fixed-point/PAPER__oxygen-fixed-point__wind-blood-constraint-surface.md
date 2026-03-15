@@ -433,7 +433,7 @@ Burbidge, E. M., Burbidge, G. R., Fowler, W. A. & Hoyle, F. (1957). Synthesis of
 
 Butchart, N. (2014). The Brewer-Dobson circulation. *Reviews of Geophysics*, 52, 157--184.
 
-Carpenter, J. (2026a). *Le Chatelier, Banach, and the Oxygen Fixed Point: A Cross-Scale Synthesis of Equilibrium, Contraction, and Biological Constraint.* Zenodo. DOI: 10.5281/zenodo.18896103.
+Carpenter, J. (2026a). *Le Chatelier, Banach, and the Oxygen Fixed Point: A Cross-Scale Synthesis of Equilibrium, Contraction, and Biological Constraint.* Unpublished draft. *(Earlier versions appeared within the Gestational Oxygen-Timing corpus, DOI: 10.5281/zenodo.18896103 v1.2.1.)*
 
 Carpenter, J. (2026b). *Osmotic Selectivity as a Deterministic Function of the Fine Structure Constant.* Zenodo. DOI: 10.5281/zenodo.19000474.
 

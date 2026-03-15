@@ -518,5 +518,5 @@ One fixed point. One mechanism. Nine scales. The theory is not that "oxygen matt
 - [3] Carpenter, J. (2026). "The Condition That Dissolves: Death as the Exhaustive Veto Partition for Natural Systems." DOI: 10.5281/zenodo.18905785
 - [4] Carpenter, J. (2026). "Existence as Fixed Point: A Meta-Theory of Deterministic Collapse." DOI: 10.5281/zenodo.18932890
 - [5] Carpenter, J. (2026). "Gestational Impact Zones: Oxygen Deprivation × Developmental Window Alignment — The General Theory of Latent Gestational Injury." Unpublished research document.
-- [6] Carpenter, J. (2026). "The Umbilical Channel: An Information-Theoretic Model of Gestational Oxygen Delivery." Unpublished research document.
+- [6] Carpenter, J. (2026). "The Umbilical Channel: An Information-Theoretic Model of Gestational Oxygen Delivery." DOI: 10.5281/zenodo.19029054
 - [7] Carpenter, J. (2026). "Vulnerability Windows as Lyapunov Stability Margins: A Dynamical Systems Model of Gestational Oxygen Sensitivity." Unpublished research document.

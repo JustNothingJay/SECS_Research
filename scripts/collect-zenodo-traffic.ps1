@@ -18,7 +18,14 @@ $Records = @(
     @{ Name = "Osmotic Derivation";            Id = 19000474 },
     @{ Name = "Solve for Pi";                  Id = 19014277 },
     @{ Name = "Oxygen Fixed Point";            Id = 19020287 },
-    @{ Name = "Mobius Strip";                  Id = 19020526 }
+    @{ Name = "Mobius Strip";                  Id = 19020526 },
+    @{ Name = "Klein Bottle Eigenvalue";       Id = 19021507 },
+    @{ Name = "Umbilical Channel";             Id = 19029054 },
+    @{ Name = "Edgeless Spreadsheet";          Id = 19029533 },
+    @{ Name = "Pseudohypoxic Transfer";        Id = 19030111 },
+    @{ Name = "Le Chatelier-Banach";           Id = 19030188 },
+    @{ Name = "Tetrahedral Zinc";              Id = 19032617 },
+    @{ Name = "Weak Force Transmutation";      Id = 19032875 }
 )
 
 $LogDir     = Join-Path (Join-Path $PSScriptRoot "..") "traffic-logs"

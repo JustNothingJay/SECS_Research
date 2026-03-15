@@ -521,7 +521,7 @@ Now we can see it.
 
 [2] Carpenter, J. (2026). Osmotic Selectivity as a Deterministic Function of the Fine Structure Constant. DOI: 10.5281/zenodo.19000474
 
-[3] Carpenter, J. (2026). The Umbilical Channel: An Information-Theoretic Model of Gestational Oxygen Delivery. Internal working document.
+[3] Carpenter, J. (2026). The Umbilical Channel: An Information-Theoretic Model of Gestational Oxygen Delivery. DOI: 10.5281/zenodo.19029054
 
 [4] Carpenter, J. (2026). The Frog Is Its Boundary: Osmotic Regulation as Constitutional Identity. Internal working document: frog__doctrine__osmotic-boundary-research.md
 

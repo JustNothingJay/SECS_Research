@@ -236,6 +236,18 @@ The null result has practical consequences.
 
 **For drift detection:** if structural drift is not the layer where AI's effect manifests, the question becomes: where does it manifest? Structural metrics measure the skeleton. They do not measure the tissue — implementation idioms, API usage patterns, dependency coupling, semantic consistency. The absence of structural signal does not imply the absence of signal. It implies that the instrument measured the wrong layer.
 
+---
+
+## Boundaries {-}
+
+1. **This paper reports a null result.** The absence of a structural signature from AI-assisted coding is a measurement outcome, not a proof that AI has no effect on codebases. The instrument (structural entropy metrics on tree topology) may lack the sensitivity or scope to detect real effects that manifest at other layers — semantic, dependency, or runtime.
+
+2. **The sample is cross-sectional and survivorship-biased.** Repos from 2010 still active in 2026 are survivors. Dead repos cannot be measured. The structural population measured here is not the full population of software projects.
+
+3. **Effect sizes are small throughout.** Even statistically significant correlations explain less than 2% of variance. No actionable threshold for AI detection can be derived from these metrics.
+
+---
+
 # References
 
 1. J. Carpenter, "R-006 — Structural Forensics Sweep," SECS Sovereign, March 2026. 200 repositories, CSDI = 0.674.
