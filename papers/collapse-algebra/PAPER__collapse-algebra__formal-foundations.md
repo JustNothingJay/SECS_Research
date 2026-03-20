@@ -1,3 +1,4 @@
+---
 title: "A Formal Algebra of Collapse-Based Computation"
 author: Jay Carpenter
 date: March 8, 2026

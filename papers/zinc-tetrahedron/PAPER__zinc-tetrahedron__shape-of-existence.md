@@ -57,8 +57,7 @@ The tetrahedron is the minimum solid. Three faces cannot enclose a volume. Four 
 
 The edgeless spreadsheet paper (Carpenter, 2026n) arranged these as four concentric layers on a torus. The Klein bottle paper (Carpenter, 2026k) arranged them as eigenvalue levels in a tower. The zinc bond arranges them as a tetrahedron — four equivalent vertices, no base, no apex, every face identical. Same structure, different geometry of visualisation. The four forces are the four ligands coordinating every biological zinc ion.
 
-And the centre of the tetrahedron — equidistant from all four vertices — is where the observer sits. The observation point. The fixed point $\omega_0$. The positththe gap is the measurement from the outside - the measurement from the inside. ANd the photo, and the cell bods the overshoot
-ion from which all four forces are visible simultaneously, at equal structural distance.
+And the centre of the tetrahedron — equidistant from all four vertices — is where the observer sits. The observation point. The fixed point $\omega_0$. The position from which all four forces are visible simultaneously, at equal structural distance.
 
 Not a pyramid. A pyramid has a base — a preferred face, a floor, an "up" and "down." The tetrahedron has none. The constraint surface has no preferred orientation. The zinc bond, at its most fundamental coordination geometry, encodes this: **four forces, no hierarchy of direction, every vertex equivalent, the observer at the centre.**
 
@@ -74,7 +73,7 @@ Now stand at the centre — the observation point, $\omega_0$ — and measure ou
 
 - **Inradius** $r = a\sqrt{6}/12$: the distance to each face.
 - **Midradius** $\rho = a\sqrt{2}/4$: the distance to each edge midpoint.
-- **Circumradius** $R = a\sqrt{6}/4$: the distance to each vertex.it w
+- **Circumradius** $R = a\sqrt{6}/4$: the distance to each vertex.
 
 The ratios are exact:
 

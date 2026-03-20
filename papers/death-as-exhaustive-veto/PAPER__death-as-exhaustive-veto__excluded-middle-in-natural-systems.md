@@ -1,3 +1,4 @@
+---
 title: "The Condition That Dissolves: Death as the Exhaustive Veto Partition for Natural Systems"
 author: Jay Carpenter
 date: March 8, 2026

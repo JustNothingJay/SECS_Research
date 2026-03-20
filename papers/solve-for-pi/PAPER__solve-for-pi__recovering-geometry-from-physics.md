@@ -9,9 +9,9 @@ doi: 10.5281/zenodo.19014277
 
 The self-consistency equation $\alpha^{-1} + S \cdot \alpha = 4\pi^3 + \pi^2 + \pi$, where $S = \sum_{n=1}^{\infty} (2n{-}1)!!/(4n)!$, was introduced in a companion paper [1] as a constraint on the fine structure constant $\alpha$. That paper solved the equation in the forward direction: given $\pi$ and factorial series $S$, compute $\alpha^{-1}$. This paper reverses it. Given a measured value of $\alpha$ from atomic physics and the factorial series $S$ — neither of which contains $\pi$ — solve the resulting cubic equation for $\pi$.
 
-Using the most precise measurement of $\alpha$ available (Fan et al., 2023, cesium recoil), the procedure recovers 11 digits of $\pi$: $3.14159265359\ldots$ The Morel et al. (2020, rubidium recoil) and Hanneke et al. (2008, electron $g{-}2$) measurements recover 9 digits each. A self-consistency check using the formula's own $\alpha$ recovers $\pi$ to 97 digits — the full working precision of the computation. 
+Using the most precise measurement of $\alpha$ available (Fan et al., 2023, electron $g{-}2$), the procedure recovers 10 digits of $\pi$: $3.1415926535\ldots$ The Morel et al. (2020, rubidium recoil) and Hanneke et al. (2008, electron $g{-}2$) measurements recover 9 digits each. A self-consistency check using the formula's own $\alpha$ recovers $\pi$ to 97 digits — the full working precision of the computation. 
 
-No $\pi$ enters the inputs. Factorials and a cesium atom go in. $\pi$ comes out. The number of recovered digits is limited only by the precision of the $\alpha$ measurement.
+No $\pi$ enters the inputs. Factorials and a measured $\alpha$ go in. $\pi$ comes out. The number of recovered digits is limited only by the precision of the $\alpha$ measurement.
 
 The script is 150 lines of Python, runs in under a second, and is publicly available. It was run on Python 3.14. Obviously.
 
@@ -27,13 +27,13 @@ Today I reversed it. Same equation, opposite strand. Solving for $\pi$.
 
 The equation is: $\alpha^{-1} + S \cdot \alpha = 4\pi^3 + \pi^2 + \pi$
 
-The left side has $\alpha$ — measured from cesium atoms. No $\pi$ in it.
+The left side has $\alpha$ — measured from the electron magnetic moment. No $\pi$ in it.
 
 The series $S$ is built from factorials and double factorials. No $\pi$ in it.
 
 The right side is a cubic in $\pi$. Solve the cubic.
 
-Result: $\pi$ falls out. Eleven digits of it, from the best measurement. Not because $\pi$ was hidden in the inputs. There is no $\pi$ anywhere on the input side. It comes out because the equation is structurally true — it connects the geometry of four-dimensional spacetime to the electromagnetic coupling constant through a self-referencing series of factorials.
+Result: $\pi$ falls out. Ten digits of it, from the best measurement. Not because $\pi$ was hidden in the inputs. There is no $\pi$ anywhere on the input side. It comes out because the equation is structurally true — it connects the geometry of four-dimensional spacetime to the electromagnetic coupling constant through a self-referencing series of factorials.
 
 Then I tested how far it goes. At 100 decimal places, the round-trip recovers all 100 digits of $\pi$. At 1,000, all 1,000. At 10,000, all 10,000. The gap is zero. Not approximately zero — exactly zero. The formula is not an approximation. It is an identity. The only limit is how precisely you can measure $\alpha$.
 
@@ -98,7 +98,7 @@ $$4\pi^3 + \pi^2 + \pi - K = 0$$
 If we used the formula's own $\alpha$ (computed from $\pi$ via the forward direction), solving the cubic for $\pi$ would recover $\pi$ exactly — by construction. That would be a tautology.
 
 The test is to use a **measured** $\alpha$. The measurements of $\alpha$ come from:
-- Cesium atom recoil experiments (Fan et al., 2023)
+- Electron magnetic moment (Fan et al., 2023)
 - Rubidium atom recoil experiments (Morel et al., 2020)
 - Electron magnetic moment measurements (Hanneke et al., 2008)
 
@@ -110,7 +110,7 @@ If the self-consistency equation is structurally true — not merely a numerical
 
 | Measurement | $\alpha^{-1}$ | Uncertainty | Method |
 |---|---|---|---|
-| Fan et al. (2023) | $137.035\,999\,177$ | $\pm 0.000\,000\,021$ | Cs recoil |
+| Fan et al. (2023) | $137.035\,999\,166$ | $\pm 0.000\,000\,033$ | $e^-$ $g{-}2$ |
 | Morel et al. (2020) | $137.035\,999\,206$ | $\pm 0.000\,000\,011$ | Rb recoil |
 | Hanneke et al. (2008) | $137.035\,999\,150$ | $\pm 0.000\,000\,033$ | $e^-$ $g{-}2$ |
 
@@ -118,27 +118,27 @@ If the self-consistency equation is structurally true — not merely a numerical
 
 ## 3. Results
 
-### 3.1 Fan et al. (2023, Cs recoil)
+### 3.1 Fan et al. (2023, electron $g{-}2$)
 
-$$\alpha^{-1} = 137.035\,999\,177 \pm 0.000\,000\,021$$
+$$\alpha^{-1} = 137.035\,999\,166 \pm 0.000\,000\,033$$
 
-$$K = \alpha^{-1} + S \cdot \alpha = 137.036\,303\,776\ldots$$
+$$K = \alpha^{-1} + S \cdot \alpha = 137.036\,303\,766\ldots$$
 
 Solving $4x^3 + x^2 + x - K = 0$ by Newton's method from $x_0 = 3.14$:
 
-$$\pi_{\text{recovered}} = 3.14159265359\underline{50}\ldots$$
+$$\pi_{\text{recovered}} = 3.1415926535\underline{08}\ldots$$
 
-$$\pi_{\text{known}} \;\;\;\;= 3.14159265358\underline{97}\ldots$$
+$$\pi_{\text{known}} \;\;\;\;= 3.1415926535\underline{90}\ldots$$
 
-**Digits matching: ~11**
+**Digits matching: ~10**
 
-$$\Delta = +5.29 \times 10^{-12}$$
+$$\Delta = -8.22 \times 10^{-11}$$
 
 The uncertainty on $\pi$ propagated from the $\alpha$ measurement:
 
-$$\delta\pi = \frac{\delta\alpha^{-1}}{d K / d\pi} = \frac{0.000\,000\,021}{12\pi^2 + 2\pi + 1} \approx \pm 1.6 \times 10^{-10}$$
+$$\delta\pi = \frac{\delta\alpha^{-1}}{d K / d\pi} = \frac{0.000\,000\,033}{12\pi^2 + 2\pi + 1} \approx \pm 2.6 \times 10^{-10}$$
 
-The 11-digit recovery is consistent with the measurement precision. The most precise measurement of $\alpha$ ever made recovers 11 digits of $\pi$ from physics.
+The 10-digit recovery is consistent with the measurement precision ($\Delta/\delta\pi = 0.3\sigma$). The most precise measurement of $\alpha$ ever made recovers 10 digits of $\pi$ from physics.
 
 ### 3.2 Morel et al. (2020, Rb recoil)
 
@@ -329,7 +329,7 @@ From $0$, through $\pi$, to $\infty$. On Pi Day.
 
 1. **The cubic has three roots.** Only the real root near $3.14$ is physical. The other two roots of $4x^3 + x^2 + x - K = 0$ are complex (one complex conjugate pair) and do not correspond to geometric constants. The Newton's method starting point $x_0 = 3.14$ selects the physical root. This is a feature, not a limitation: the equation's cubic structure means $\pi$ is the unique real root in the vicinity of $3$, and is selected without ambiguity.
 
-2. **The digit count is limited by $\alpha$ measurement precision, not by the formula.** The 11-digit recovery from Fan et al. reflects their $\pm 21 \times 10^{-9}$ uncertainty. If a future measurement achieves $10^{-15}$ precision, the reversal would test the equation to 15 digits of $\pi$. The self-consistency check (97 digits) confirms the formula itself is exact at working precision.
+2. **The digit count is limited by $\alpha$ measurement precision, not by the formula.** The 10-digit recovery from Fan et al. reflects their $\pm 33 \times 10^{-9}$ uncertainty. If a future measurement achieves $10^{-15}$ precision, the reversal would test the equation to 15 digits of $\pi$. The self-consistency check (97 digits) confirms the formula itself is exact at working precision.
 
 3. **"No $\pi$ in the input" requires qualification.** The measurements of $\alpha$ use QED theory, which contains $\pi$ in its Feynman diagram integrals. However, the measured quantity — the ratio of recoil velocity to photon frequency, or the anomalous magnetic moment — is a physical observable, not a mathematical construct. The $\pi$ in QED is part of the theoretical framework used to extract $\alpha$ from raw data; it does not make the measurement circular with respect to this equation. A measurement of $\alpha$ from a framework that does not use QED (e.g., the quantum Hall effect) would provide an independent cross-check.
 

@@ -1,3 +1,4 @@
+---
 title: "The Collapse That Never Happens: Generative Fixed Points and the Open Problems of Grothendieck"
 author: Jay Carpenter
 date: March 8, 2026

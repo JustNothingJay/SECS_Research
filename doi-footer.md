@@ -2,7 +2,7 @@
 
 ## DOI Registry — Carpenter (2026) {-}
 
-All papers are published as preprints on Zenodo under open access. This table is the canonical reference. Version: 2026-03-15.
+All papers are published as preprints on Zenodo under open access. This table is the canonical reference. Version: 2026-03-18.
 
 | Ref | Title | DOI |
 |-----|-------|-----|
@@ -21,8 +21,16 @@ All papers are published as preprints on Zenodo under open access. This table is
 | 2026l | Pseudohypoxic Transfer: Asymmetric Boundary | [10.5281/zenodo.19030111](https://doi.org/10.5281/zenodo.19030111) |
 | 2026m | Le Chatelier-Banach: Oxygen Fixed Point | [10.5281/zenodo.19030188](https://doi.org/10.5281/zenodo.19030188) |
 | 2026n | Edgeless Spreadsheet: Toroidal Self-Reference | [10.5281/zenodo.19029533](https://doi.org/10.5281/zenodo.19029533) |
-| 2026o | Lyapunov Stability Windows in Gestational Development | — | Not yet published |
+| 2026o | Lyapunov Stability Windows in Gestational Development | [10.5281/zenodo.19079903](https://doi.org/10.5281/zenodo.19079903) |
 | 2026p | Umbilical Channel: Information-Theoretic Constraints | [10.5281/zenodo.19029054](https://doi.org/10.5281/zenodo.19029054) |
 | 2026q | Tetrahedral Zinc: The Shape of Existence | [10.5281/zenodo.19032617](https://doi.org/10.5281/zenodo.19032617) |
 | 2026r | Weak Force Transmutation: The Repair Station | [10.5281/zenodo.19032875](https://doi.org/10.5281/zenodo.19032875) |
+| 2026s | Algebraic α⁻¹ Indistinguishable from Most Precise Measurement | [10.5281/zenodo.19042747](https://doi.org/10.5281/zenodo.19042747) |
+| 2026t | From Identity to Instrument: Algebraic α as Metrological Reference | [10.5281/zenodo.19058029](https://doi.org/10.5281/zenodo.19058029) |
+| 2026u | Metrological Dominoes: Algebraic α Restructures Time | [10.5281/zenodo.19045442](https://doi.org/10.5281/zenodo.19045442) |
+| 2026v | Precision Dominoes: From Algebraic α to G | [10.5281/zenodo.19047229](https://doi.org/10.5281/zenodo.19047229) |
+| 2026w | The 4.4σ Systematic: Cs Outlier Pulls Every CODATA Constant | [10.5281/zenodo.19049285](https://doi.org/10.5281/zenodo.19049285) |
+| 2026x | Samarium Shield: Promethium's Daughter and Nuclear Remediation | [10.5281/zenodo.19079971](https://doi.org/10.5281/zenodo.19079971) |
+| 2026y | Polynomial Descent: Elemental Coupling of the Eigenvalue Tower | [10.5281/zenodo.19080161](https://doi.org/10.5281/zenodo.19080161) |
+| 2026z | The Periodic Table Inside α | [10.5281/zenodo.19080317](https://doi.org/10.5281/zenodo.19080317) |
 *Jay Carpenter, 2026. SECS Sovereign.*

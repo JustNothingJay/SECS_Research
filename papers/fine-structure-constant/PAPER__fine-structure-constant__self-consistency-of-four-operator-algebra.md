@@ -18,7 +18,7 @@ Fourth (interpretive reframing), the hierarchy problem is inverted. Gravity is n
 
 Fifth (conjecture), $\alpha$ is conjectured to be the solution to a boundary value problem: the ungoverned boundary (undifferentiated $\mathcal{G}_0$ at the unification scale, where all coupling constants converge) and the governed boundary (four differentiated sub-mappings at the observation scale). The renormalization group flow connects these boundaries. On this conjecture, the self-consistency of the four-operator algebra constrains the solution. The fine structure constant would be an eigenvalue of this boundary value problem.
 
-Sixth (conjecture), a closed-form expression is conjectured. The leading-order equation $\alpha^{-1} + 1/(4!\,\alpha^{-1}) = 4\pi^3 + \pi^2 + \pi$ yields $\alpha^{-1} = 137.035999720$, accurate to 4.0 parts per billion. The right-hand side decomposes exactly into the surface area of the unit 3-sphere and the circumference of the unit circle. The left-hand side admits a natural series extension: the self-referential term $1/(4!\,\alpha^{-1})$ is the first term of a series $\sum_{n=1}^{\infty} (2n{-}1)!!/(4n)! \cdot \alpha$, where $(2n{-}1)!!$ is the double factorial. Including the second term, $3!!/(8!) = 3/40320$, gives $\alpha^{-1} = 137.035999177$, accurate to 0.003 parts per billion — within 0.02 standard deviations of the measured value (Fan et al., 2023). The series converges so rapidly that all terms beyond the second contribute less than the current measurement uncertainty. The formula contains no measured inputs — only $\pi$, factorials, and the structural integer 4. It was identified computationally and has not been derived from the algebra.
+Sixth (conjecture), a closed-form expression is conjectured. The leading-order equation $\alpha^{-1} + 1/(4!\,\alpha^{-1}) = 4\pi^3 + \pi^2 + \pi$ yields $\alpha^{-1} = 137.035999720$, accurate to 4.0 parts per billion. The right-hand side decomposes exactly into the surface area of the unit 3-sphere and the circumference of the unit circle. The left-hand side admits a natural series extension: the self-referential term $1/(4!\,\alpha^{-1})$ is the first term of a series $\sum_{n=1}^{\infty} (2n{-}1)!!/(4n)! \cdot \alpha$, where $(2n{-}1)!!$ is the double factorial. Including the second term, $3!!/(8!) = 3/40320$, gives $\alpha^{-1} = 137.035999177$, within 0.08 ppb ($0.3\sigma$) of the most precise measurement (Fan et al., 2023, electron $g{-}2$). The series converges so rapidly that all terms beyond the second contribute less than the current measurement uncertainty. The formula contains no measured inputs — only $\pi$, factorials, and the structural integer 4. It was identified computationally and has not been derived from the algebra.
 
 **Keywords:** fine structure constant, Banach contraction, coupling constants, force hierarchy, renormalization group, self-consistency, symmetry breaking, perturbative depth, boundary value problem, collapse algebra
 
@@ -61,7 +61,7 @@ The biology and the physics are not analogous. They are the same surface, read a
 
 For a century, the fine structure constant has been treated as a mystery: a number that appears in every electromagnetic equation but has no derivation. This paper re-classifies it. It is not a mystery. On this paper's conjecture, it is an eigenvalue — a number that falls out uniquely when you require that four convergent processes, operating in four-dimensional spacetime on a binary (yes/no) collapse structure, compose back into a single consistent whole.
 
-The equation that yields 137.035999177 (to 0.003 ppb) has been identified — the corrected formula with two terms of the self-referential series. What has been established is the type of equation it must be, the boundary conditions it must satisfy, the structural argument (via the Banach fixed-point theorem) that it should have a unique solution, and a closed-form series that reproduces the measured value within experimental uncertainty.
+The equation that yields 137.035999177 (to 0.08 ppb, $0.3\sigma$) has been identified — the corrected formula with two terms of the self-referential series. What has been established is the type of equation it must be, the boundary conditions it must satisfy, the structural argument (via the Banach fixed-point theorem) that it should have a unique solution, and a closed-form series that reproduces the measured value within experimental uncertainty.
 
 The rest of this paper presents the formal argument.
 
@@ -495,10 +495,10 @@ The physical root (leading order):
 
 $$\alpha^{-1} = \frac{24K + \sqrt{576K^2 - 96}}{48} = 137.035999720$$
 
-This leading-order result is accurate to 4.0 ppb. The series extension in the next subsection closes this gap to 0.003 ppb.
+This leading-order result is accurate to 4.0 ppb. The series extension in the next subsection closes this gap to 0.08 ppb.
 
 Compare (leading order):
-- **Fan et al. (2023):** $\alpha^{-1} = 137.035999177 \pm 0.000000021$
+- **Fan et al. (2023):** $\alpha^{-1} = 137.035999166 \pm 0.000000033$
 - **Leading-order formula:** $\alpha^{-1} = 137.035999720$
 - **Discrepancy:** $+0.543 \times 10^{-6}$, or $4.0$ ppb
 
@@ -542,10 +542,10 @@ The self-referential term $1/(4!\,\alpha^{-1})$ is the $n=1$ member of a series 
 
 | $n$ | $(2n{-}1)!!$ | $(4n)!$ | Term | Cumulative $\alpha^{-1}$ | ppb from measured |
 |---|---|---|---|---|---|
-| 1 | $1!! = 1$ | $4! = 24$ | $1/24$ | $137.035999720$ | 3.96 |
-| 2 | $3!! = 3$ | $8! = 40320$ | $3/40320$ | $137.035999177$ | 0.003 |
-| 3 | $5!! = 15$ | $12!$ | $\sim 3 \times 10^{-8}$ | $137.035999176$ | 0.005 |
-| $\geq 4$ | | | $< 10^{-11}$ | (unchanged) | 0.005 |
+| 1 | $1!! = 1$ | $4! = 24$ | $1/24$ | $137.035999720$ | 4.04 |
+| 2 | $3!! = 3$ | $8! = 40320$ | $3/40320$ | $137.035999177$ | 0.08 |
+| 3 | $5!! = 15$ | $12!$ | $\sim 3 \times 10^{-8}$ | $137.035999176$ | 0.08 |
+| $\geq 4$ | | | $< 10^{-11}$ | (unchanged) | 0.08 |
 
 The corrected equation:
 
@@ -560,9 +560,9 @@ The physical root:
 $$\alpha^{-1} = \frac{K + \sqrt{K^2 - 4S_2}}{2} = 137.035999177$$
 
 Compare:
-- **Fan et al. (2023):** $\alpha^{-1} = 137.035999177 \pm 0.000000021$
+- **Fan et al. (2023):** $\alpha^{-1} = 137.035999166 \pm 0.000000033$
 - **Formula (two terms):** $\alpha^{-1} = 137.035999177$
-- **Discrepancy:** $-4.4 \times 10^{-10}$, or $0.003$ ppb — within $0.02\sigma$
+- **Discrepancy:** $+1.1 \times 10^{-8}$, or $0.08$ ppb — within $0.3\sigma$
 
 The series structure is not arbitrary. The double factorial $(2n{-}1)!!$ counts the number of perfect matchings (pairings) of $2n$ objects. The factorial $(4n)!$ is the permutation count at $4n$ elements — advancing by 4 (the number of sub-mappings) at each order. Each term represents a deeper level of self-reference: the algebra reading its reading of its contraction rate ($n=1$), then reading that reading ($n=2$), and so on. The series converges so rapidly that the $n=3$ correction ($2.3 \times 10^{-10}$) is 92 times smaller than the current measurement uncertainty.
 
@@ -570,42 +570,42 @@ The infinite sum $S_\infty = \sum_{n=1}^{\infty} (2n{-}1)!!/(4n)! \approx 0.0417
 
 ### The Measurement Target
 
-The comparison above uses the Fan et al. (2023) measurement from caesium atom recoil. It is important to note that the two most precise measurements of $\alpha$ are in tension:
+The comparison above uses the Fan et al. (2023) measurement from the electron anomalous magnetic moment. It is important to note that the two most precise measurements of $\alpha$ are in tension:
 
 | Measurement | $\alpha^{-1}$ | Uncertainty | Method |
 |---|---|---|---|
-| Fan et al. (2023) | $137.035999177$ | $\pm 0.000000021$ | Cs recoil |
+| Fan et al. (2023) | $137.035999166$ | $\pm 0.000000033$ | Electron $g{-}2$ |
 | Morel et al. (2020) | $137.035999206$ | $\pm 0.000000011$ | Rb recoil |
 | Hanneke et al. (2008) | $137.035999150$ | $\pm 0.000000033$ | Electron $g{-}2$ |
 
-The formula's prediction ($137.035999177$) sits within $1\sigma$ of the Cs recoil and $g{-}2$ values, and within $3\sigma$ of the Rb recoil value. It does not track any single measurement — it falls near the centre of the measurement cluster. A future measurement with sub-$0.01$ ppb precision could confirm or falsify it.
+The formula's prediction ($137.035999177$) sits within $0.3\sigma$ of the electron $g{-}2$ value and within $3\sigma$ of the Rb recoil value. It does not track any single measurement — it falls near the centre of the measurement cluster. A future measurement with sub-$0.01$ ppb precision could confirm or falsify it.
 
 The recoil measurements depend on atomic mass ratios (Penning traps) and the Rydberg constant (hydrogen spectroscopy), but not on QED perturbation theory. The $g{-}2$ extraction depends on QED computed to fifth order, with the fourth and fifth coefficients obtained by Monte Carlo numerical integration. Each path has its own systematic assumptions. The formula, containing no measured inputs, provides an independent prediction against which all three can be compared.
 
 ### The Existence Value and the Observation Scale
 
-The pure-mathematics value $K = 4\pi^3 + \pi^2 + \pi$ is the uncorrected right-hand side — existence before self-reference. The leading-order solution $\alpha^{-1} = 137.035999720$ is existence after the first self-consistency correction. Including the series extension (next subsection), the formula resolves to $\alpha^{-1} = 137.035999177$ — matching the measured value to 0.003 ppb.
+The pure-mathematics value $K = 4\pi^3 + \pi^2 + \pi$ is the uncorrected right-hand side — existence before self-reference. The leading-order solution $\alpha^{-1} = 137.035999720$ is existence after the first self-consistency correction. Including the series extension (next subsection), the formula resolves to $\alpha^{-1} = 137.035999177$ — matching the measured value to 0.08 ppb ($0.3\sigma$).
 
 ---
 
 ## The Residual and Its Resolution
 
-### From 4 ppb to 0.003 ppb
+### From 4 ppb to 0.08 ppb
 
-The leading-order formula $\alpha^{-1} + 1/(4!\,\alpha^{-1}) = K$ gave $\alpha^{-1} = 137.035999720$, overshooting the measurement by $5.43 \times 10^{-7}$ (4.0 ppb). This residual has now been resolved.
+The leading-order formula $\alpha^{-1} + 1/(4!\,\alpha^{-1}) = K$ gave $\alpha^{-1} = 137.035999720$, overshooting the measurement by $5.54 \times 10^{-7}$ (4.0 ppb). This residual has now been resolved.
 
 The correction is the second term of the self-referential series identified in the preceding section: $3!!/(8!) = 3/40320$. This is not a post hoc fit — it follows the same combinatorial pattern as the original term ($1!!/(4!) = 1/24$) and was identified by exhaustive search over structurally motivated correction terms. The general term $(2n{-}1)!!/(4n)!$ connects double factorials (pairing counts) to permutation counts advancing in steps of 4.
 
-With the correction, the residual drops from $5.43 \times 10^{-7}$ to $4.4 \times 10^{-10}$ — a factor of 1,200 improvement, landing within $0.02\sigma$ of the measured value.
+With the correction, the residual drops from $5.54 \times 10^{-7}$ to $1.1 \times 10^{-8}$ — a factor of 50 improvement, landing within $0.3\sigma$ of the measured value.
 
 ### The Remaining Residual
 
-The two-term formula gives $\alpha^{-1} = 137.035999176564$. The full infinite series gives $\alpha^{-1} = 137.035999176335$. The difference ($2.3 \times 10^{-10}$) is 92 times smaller than the current measurement uncertainty ($2.1 \times 10^{-8}$). At present experimental precision, the two-term and infinite-sum predictions are indistinguishable.
+The two-term formula gives $\alpha^{-1} = 137.035999176564$. The full infinite series gives $\alpha^{-1} = 137.035999176335$. The difference ($2.3 \times 10^{-10}$) is 143 times smaller than the current measurement uncertainty ($3.3 \times 10^{-8}$). At present experimental precision, the two-term and infinite-sum predictions are indistinguishable.
 
-The remaining gap between the formula and the measurement is $4.4 \times 10^{-10}$ (0.003 ppb), which is:
-- 48 times smaller than the measurement uncertainty
-- 66 times smaller than the tension between the two best recoil measurements (Fan vs Morel)
-- Below the precision of any existing experimental determination
+The remaining gap between the formula and the measurement is $1.1 \times 10^{-8}$ (0.08 ppb), which is:
+- 3 times smaller than the measurement uncertainty
+- Within $0.3\sigma$ of the Fan et al. (2023) electron $g{-}2$ determination
+- Below the precision at which any current experiment could distinguish the values
 
 Whether this $4.4 \times 10^{-10}$ residual is physical, numerical, or exactly zero cannot be determined at current experimental precision. It is a question for future measurements.
 
@@ -696,7 +696,7 @@ $\alpha$ is not only a physics constant. It is the electromagnetic contraction c
 
 ## Boundaries and What This Paper Does Not Claim
 
-1. **The closed-form equation is a conjecture, not a derivation.** The formula $\alpha^{-1} + (1!!/4! + 3!!/8!) \cdot \alpha = 4\pi^3 + \pi^2 + \pi$ is accurate to 0.003 ppb (within $0.02\sigma$ of the Fan et al. 2023 measurement) and has a complete geometric decomposition in terms of the unit 3-sphere and unit circle. However, it has not been derived from the four-operator algebra. It was identified computationally and is presented as numerical evidence for the structural programme. The derivation — proving that the self-consistency conditions of a four-operator contraction algebra on a 4-dimensional complete metric space necessarily produce this equation and its series structure — remains open.
+1. **The closed-form equation is a conjecture, not a derivation.** The formula $\alpha^{-1} + (1!!/4! + 3!!/8!) \cdot \alpha = 4\pi^3 + \pi^2 + \pi$ is accurate to 0.08 ppb (within $0.3\sigma$ of the Fan et al. 2023 measurement) and has a complete geometric decomposition in terms of the unit 3-sphere and unit circle. However, it has not been derived from the four-operator algebra. It was identified computationally and is presented as numerical evidence for the structural programme. The derivation — proving that the self-consistency conditions of a four-operator contraction algebra on a 4-dimensional complete metric space necessarily produce this equation and its series structure — remains open.
 
 2. **The identification $q_i = \alpha_i$ is structural, not derived.** The observation that coupling constants function as contraction coefficients in perturbation theory is well established in QFT. The claim that this perturbative role reflects a deeper algebraic identity — that the couplings *are* contraction coefficients of sub-mappings of $\mathcal{G}_0$ — is the theoretical contribution. It is consistent with all known physics but has not been proved from an independent axiom system.
 

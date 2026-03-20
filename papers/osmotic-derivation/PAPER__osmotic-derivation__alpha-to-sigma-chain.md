@@ -10,7 +10,7 @@ The selectivity coefficient σ — the fraction of solute rejected by a biologic
 
 With σ computed, the Banach Fixed-Point Theorem is applied with specified metric space, contraction coefficient, and fixed point. The contraction coefficient q = 1 − σ < 1 is determined by α. The fixed point ω₀ = 0 (osmotic equilibrium) is unique. The specific value of σ determines the convergence *rate*; the *existence* of the fixed point is guaranteed for any σ > 0.
 
-A structural parallel is observed between the self-referential series in the fine structure constant formula (α⁻¹ on one strand, the correction series S·α on the antiparallel strand, converging to geometric constants) and the double-helical structure of DNA (two antiparallel strands, four bases, encoding exact complementary information). The series converges to zero residual with infinite terms. The full series (23 terms to convergence) predicts α⁻¹ = 137.035999176335 from no measured inputs — only π, factorials, double factorials, and the integer 4. This value lies within 0.03 standard deviations of the most precise independent measurement (Fan et al. 2023, cesium recoil). Whether this match holds at unlimited precision is an empirical question that future measurements will test.
+A structural parallel is observed between the self-referential series in the fine structure constant formula (α⁻¹ on one strand, the correction series S·α on the antiparallel strand, converging to geometric constants) and the double-helical structure of DNA (two antiparallel strands, four bases, encoding exact complementary information). The series converges to zero residual with infinite terms. The full series (23 terms to convergence) predicts α⁻¹ = 137.035999176335 from no measured inputs — only π, factorials, double factorials, and the integer 4. This value lies within 0.3 standard deviations of the most precise independent measurement (Fan et al. 2023, electron $g{-}2$). Whether this match holds at unlimited precision is an empirical question that future measurements will test.
 
 **Keywords:** fine structure constant, osmotic selectivity, aquaporin, Banach contraction, Bohr radius, Renkin equation, DNA, self-consistency, membrane biophysics, collapse algebra
 
@@ -315,12 +315,12 @@ The self-consistency check (LHS $-$ RHS of the original equation) returns $\sim 
 
 | Measurement | Method | α⁻¹ | Δ (ppb) | Δ/σ |
 |---|---|---|---|---|
-| Fan et al. (2023) [13] | Cs recoil | 137.035999177(21) | −0.005 | −0.03 |
+| Fan et al. (2023) [13] | Electron $g-2$ | 137.035999166(33) | +0.08 | +0.3 |
 | Hanneke et al. (2008) | electron $g-2$ | 137.03599915(33) | +0.19 | +0.80 |
 | Morel et al. (2020) | Rb recoil | 137.035999206(11) | −0.22 | −2.7 |
 | **Formula** | $\pi$, factorials, 4 | **137.035999176** | — | — |
 
-The formula sits between Fan and Morel in the measurement landscape, within 0.03 standard deviations of the most precise cesium measurement. It contains no measured inputs — only $\pi$, factorials, double factorials, and the integer 4.
+The formula sits between Fan and Morel in the measurement landscape, within 0.3 standard deviations of the most precise electron $g{-}2$ measurement. It contains no measured inputs — only $\pi$, factorials, double factorials, and the integer 4.
 
 **Truncation analysis.** Going from two series terms ($n = 2$) to the full converged series ($n = \infty$) shifts the prediction by $2.3 \times 10^{-10}$ — that is, 0.002 ppb, or 0.01$\sigma$ of the Fan uncertainty. Two terms already capture the physics. Twenty-three terms make it exact.
 
@@ -330,7 +330,7 @@ $$\underbrace{\alpha^{-1}}_{137.035999176335\ldots} \;+\; \underbrace{S_\infty \
 
 Zero residual to 100 decimal places. The leading strand ($\alpha^{-1}$, running large) and the lagging strand ($S \cdot \alpha$, assembled in discrete series terms like Okazaki fragments) converge on the same axis. Read the whole strand and the gap closes.
 
-The 0.003 ppb reported in Paper 11 [1] was a truncation artifact — the equivalent of reading two Okazaki fragments instead of the full lagging strand. The full series shifts the prediction by only 0.002 ppb more. The formula's residual against the Fan measurement is 0.005 ppb — thirty-three times smaller than their uncertainty.
+The 0.08 ppb reported in Paper 11 [1] was the distance between the two-term formula and the Fan et al. (2023) electron $g{-}2$ measurement. The full series shifts the prediction by only 0.002 ppb from the two-term value. The formula's residual against the Fan measurement is $0.3\sigma$ — well within their uncertainty.
 
 ---
 

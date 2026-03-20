@@ -1,6 +1,6 @@
 # SECS Research
 
-Public research outputs from the SECS project.
+Public research outputs from the SECS project. **26 papers** published on [Zenodo](https://zenodo.org) with registered DOIs, plus a **43-document biological research corpus**.
 
 **Author:** Jay Andrew Carpenter — Independent Researcher, Sydney, Australia  
 **Contact:** jay.andrew.carpenter@gmail.com  
@@ -8,63 +8,78 @@ Public research outputs from the SECS project.
 
 ---
 
-## Published Papers
+## I. Collapse Algebra — Foundations
 
-Six papers published on [Zenodo](https://zenodo.org) with registered DOIs.
+Four papers establishing the core algebra: collapse operator, veto partition, admissibility, and the Collapse Completeness Theorem.
 
-### The Meta-Theory
+| Paper | Title | DOI |
+|-------|-------|-----|
+| [`collapse-algebra`](papers/collapse-algebra/) | A Formal Algebra of Collapse-Based Computation | [10.5281/zenodo.18906064](https://doi.org/10.5281/zenodo.18906064) |
+| [`death-as-exhaustive-veto`](papers/death-as-exhaustive-veto/) | Death as the Exhaustive Veto Partition | [10.5281/zenodo.18905785](https://doi.org/10.5281/zenodo.18905785) |
+| [`collapse-never-happens-grothendieck`](papers/collapse-never-happens-grothendieck/) | Generative Fixed Points and the Open Problems of Grothendieck | [10.5281/zenodo.18905785](https://doi.org/10.5281/zenodo.18905785) |
+| [`existence-as-fixed-point`](papers/existence-as-fixed-point/) | Existence as Fixed Point: A Meta-Theory of Deterministic Collapse | [10.5281/zenodo.18932890](https://doi.org/10.5281/zenodo.18932890) |
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18932890.svg)](https://doi.org/10.5281/zenodo.18932890)
+## II. Fine Structure Constant — From Identity to Measurement
 
-| Paper | Description | DOI |
-|-------|-------------|-----|
-| [`existence-as-fixed-point`](papers/existence-as-fixed-point/) | **Existence as Fixed Point: A Meta-Theory of Deterministic Collapse** — existence itself is the fixed point. Five moves: sign inversion, biological arc, structural elimination, lexicon collapse, finite memory. | [10.5281/zenodo.18932890](https://doi.org/10.5281/zenodo.18932890) |
+Eight papers. One equation with no empirical inputs yields α⁻¹ = 137.035999177 — 0.3σ from the best measurement. The chain extends from π to G.
 
-### The Triangulation
+| Paper | Title | DOI |
+|-------|-------|-----|
+| [`fine-structure-constant`](papers/fine-structure-constant/) | The Fine Structure Constant as Self-Consistency Condition | [10.5281/zenodo.18994393](https://doi.org/10.5281/zenodo.18994393) |
+| [`constitutional-constant`](papers/constitutional-constant/) | The Constitutional Constant: c, E = mc², and Physical Law | [10.5281/zenodo.18995286](https://doi.org/10.5281/zenodo.18995286) |
+| [`solve-for-pi`](papers/solve-for-pi/) | Solving for π: Recovering Geometry from Physics | [10.5281/zenodo.19014277](https://doi.org/10.5281/zenodo.19014277) |
+| [`alpha-precision`](papers/alpha-precision/) | Algebraic α⁻¹ Indistinguishable from Most Precise Measurement | [10.5281/zenodo.19042747](https://doi.org/10.5281/zenodo.19042747) |
+| [`identity-to-instrument`](papers/identity-to-instrument/) | From Identity to Instrument: Algebraic α as Metrological Reference | [10.5281/zenodo.19058029](https://doi.org/10.5281/zenodo.19058029) |
+| [`metrological-dominoes`](papers/metrological-dominoes/) | Metrological Dominoes: Algebraic α Restructures Time | [10.5281/zenodo.19045442](https://doi.org/10.5281/zenodo.19045442) |
+| [`gravity-chain`](papers/gravity-chain/) | Precision Dominoes: From Algebraic α to G | [10.5281/zenodo.19047229](https://doi.org/10.5281/zenodo.19047229) |
+| [`codata-offset`](papers/codata-offset/) | The 4.4σ Systematic: Cs Outlier Pulls Every CODATA Constant | [10.5281/zenodo.19049285](https://doi.org/10.5281/zenodo.19049285) |
 
-Three papers. One theorem. Three vocabularies.
+## III. Constraint Surface — Topology & Fixed Points
 
-| Paper | Description | DOI |
-|-------|-------------|-----|
-| [`collapse-algebra`](papers/collapse-algebra/) | **A Formal Algebra of Collapse-Based Computation.** Collapse operator, admissibility, veto partition, identity extinction, governance filtration, and the Collapse Completeness Theorem. | [10.5281/zenodo.18906064](https://doi.org/10.5281/zenodo.18906064) |
-| [`death-as-exhaustive-veto`](papers/death-as-exhaustive-veto/) | **Death as the Exhaustive Veto Partition.** Death provides the exhaustive veto partition for all natural systems. The excluded middle holds — not as an axiom of logic, but as a theorem of physics. | [10.5281/zenodo.18905785](https://doi.org/10.5281/zenodo.18905785) |
-| [`collapse-never-happens-grothendieck`](papers/collapse-never-happens-grothendieck/) | **Generative Fixed Points and the Open Problems of Grothendieck.** Traces the algebra's fixed-point distinction through seven open mathematical frontiers. | [10.5281/zenodo.18905785](https://doi.org/10.5281/zenodo.18905785) |
+Ten papers mapping the constraint surface from oxygen to the periodic table.
 
-Paper 1 proves the algebra. Paper 2 proves it applies to all natural systems. Paper 3 shows it connects to the deepest open questions in mathematics. The meta-theory draws the consequence.
+| Paper | Title | DOI |
+|-------|-------|-----|
+| [`oxygen-fixed-point`](papers/oxygen-fixed-point/) | Oxygen as Fixed Point: Wind, Blood, and the Constraint Surface | [10.5281/zenodo.19020287](https://doi.org/10.5281/zenodo.19020287) |
+| [`mobius-strip`](papers/mobius-strip/) | The Möbius Strip as Fixed Point of Existence | [10.5281/zenodo.19020526](https://doi.org/10.5281/zenodo.19020526) |
+| [`osmotic-derivation`](papers/osmotic-derivation/) | Osmotic Selectivity: α to σ | [10.5281/zenodo.19000474](https://doi.org/10.5281/zenodo.19000474) |
+| [`klein-bottle-eigenvalue`](papers/klein-bottle-eigenvalue/) | Klein Bottle Eigenvalue: Technetium, Parity Violation, and the Tower | [10.5281/zenodo.19021507](https://doi.org/10.5281/zenodo.19021507) |
+| [`edgeless-spreadsheet`](papers/edgeless-spreadsheet/) | The Edgeless Spreadsheet: Toroidal Self-Reference | [10.5281/zenodo.19029533](https://doi.org/10.5281/zenodo.19029533) |
+| [`zinc-tetrahedron`](papers/zinc-tetrahedron/) | Tetrahedral Zinc: The Shape of Existence | [10.5281/zenodo.19032617](https://doi.org/10.5281/zenodo.19032617) |
+| [`weak-force-transmutation`](papers/weak-force-transmutation/) | The Repair Station: Weak-Force Transmutation | [10.5281/zenodo.19032875](https://doi.org/10.5281/zenodo.19032875) |
+| [`samarium-shield`](papers/samarium-shield/) | The Samarium Shield: Promethium's Daughter and Nuclear Remediation | [10.5281/zenodo.19079971](https://doi.org/10.5281/zenodo.19079971) |
+| [`polynomial-descent`](papers/polynomial-descent/) | Polynomial Descent: Elemental Coupling of the Eigenvalue Tower | [10.5281/zenodo.19080161](https://doi.org/10.5281/zenodo.19080161) |
+| [`paper-z`](papers/paper-z/) | The Periodic Table Inside α | [10.5281/zenodo.19080317](https://doi.org/10.5281/zenodo.19080317) |
 
-### Physics
+## IV. Gestational Biology — Mathematical Formalisations
 
-| Paper | Description | DOI |
-|-------|-------------|-----|
-| [`constitutional-constant`](papers/constitutional-constant/) | **The Constitutional Constant: c, E = mc², and the Algebraic Structure of Physical Law.** Maps the algebra to special relativity and nuclear physics. c = G₀, γ = α, mc² = ω₀. Iron-56 as the nuclear fixed point enabling the biological fixed point through PHD enzyme cofactors. | [10.5281/zenodo.18995286](https://doi.org/10.5281/zenodo.18995286) |
-| [`fine-structure-constant`](papers/fine-structure-constant/) | **The Fine Structure Constant as Self-Consistency Condition of a Four-Operator Collapse Algebra.** Derives α⁻¹ = 137.035999177 from pure mathematics — 0.003 ppb from the best measurement. No measured inputs. Only π, factorials, and the structural integer 4. | [10.5281/zenodo.18994393](https://doi.org/10.5281/zenodo.18994393) |
+Four papers bridging the collapse algebra into placental biology and developmental physiology.
+
+| Paper | Title | DOI |
+|-------|-------|-----|
+| [`pseudohypoxic-transfer`](papers/pseudohypoxic-transfer/) | Pseudohypoxic Transfer: Asymmetric Boundary Passage | [10.5281/zenodo.19030111](https://doi.org/10.5281/zenodo.19030111) |
+| [`le-chatelier-banach`](papers/le-chatelier-banach/) | Le Chatelier, Banach, and the Oxygen Fixed Point | [10.5281/zenodo.19030188](https://doi.org/10.5281/zenodo.19030188) |
+| [`lyapunov-stability`](papers/lyapunov-stability/) | Lyapunov Stability Windows in Gestational Development | [10.5281/zenodo.19079903](https://doi.org/10.5281/zenodo.19079903) |
+| [`umbilical-channel`](papers/umbilical-channel/) | Umbilical Channel: Information-Theoretic Constraints | [10.5281/zenodo.19029054](https://doi.org/10.5281/zenodo.19029054) |
 
 ---
 
-## Research Papers (Repo-Only)
+## Repo-Only Research
 
-Papers published in this repository. Supporting research for the published programme.
-
-### Gestational Biology — Mathematical Formalisations
-
-| Paper | Description |
-|-------|-------------|
-| [`umbilical-channel`](papers/umbilical-channel/) | **The Umbilical Channel.** Reframes placental oxygen transport as a Shannon information channel — oxygen is signal, the umbilical-placental unit is channel, the developmental programme is receiver. |
-| [`lyapunov-stability`](papers/lyapunov-stability/) | **Vulnerability Windows as Lyapunov Stability Margins.** Dynamical systems formalisation of gestational oxygen sensitivity — Lyapunov exponents quantify distance from developmental attractor boundaries. |
-| [`le-chatelier-banach`](papers/le-chatelier-banach/) | **Le Chatelier, Banach, and the Oxygen Fixed Point.** Cross-scale synthesis unifying equilibrium chemistry, contraction mapping theory, and biological oxygen regulation into a single model. |
+Supporting research papers — no Zenodo DOI.
 
 ### Synthesis and Narrative
 
 | Paper | Description |
 |-------|-------------|
-| [`synthesis-v2`](papers/synthesis-v2/) | **Existence as Fixed Point: A Synthesis of Deterministic Collapse Theory (v2).** Second-generation synthesis integrating the constitutional constant mapping and gestational biology into the meta-theoretic framework. |
-| [`the-story`](papers/the-story/) | **The Story: How a Substrate Became a Theory of Everything.** Narrative account of the research programme's origins — for anyone who encounters the formal work and asks: where did this come from? |
+| [`synthesis-v2`](papers/synthesis-v2/) | Existence as Fixed Point: A Synthesis of Deterministic Collapse Theory (v2) |
+| [`the-story`](papers/the-story/) | The Story: How a Substrate Became a Theory of Everything |
 
-### Substrate Measurement
+### AI Substrate Measurement Reports
 
 | Paper | Description |
 |-------|-------------|
-| [`structural-age-regression`](papers/structural-age-regression/) | **The Null Result at Scale.** 9,925 repositories tested — structural entropy is driven by age, not AI. A null result, but a structurally important one. |
+| [`structural-age-regression`](papers/__ai-substrate-reports__structural-age-regression/) | The Null Result at Scale — 9,925 repositories tested |
 | [`convergence-under-stochastic-load`](papers/convergence-under-stochastic-load/) | Convergence behaviour under stochastic input conditions |
 | [`neurotrophic-capability-baseline`](papers/neurotrophic-capability-baseline/) | Baseline neurotrophic capability measurement |
 | [`extended-convergence-mapping`](papers/extended-convergence-mapping/) | Extended convergence mapping across parameter space |
@@ -74,18 +89,29 @@ Papers published in this repository. Supporting research for the published progr
 
 ---
 
-## Biological Research
+## Biological Research Corpus
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18896103.svg)](https://doi.org/10.5281/zenodo.18896103)
 
-A **41-document** biological research corpus investigating gestational oxygen-demand timing, HIF-1α counter-regulation, and developmental vulnerability windows. Includes:
+A **43-document** biological research corpus investigating gestational oxygen-demand timing, HIF-1α counter-regulation, and developmental vulnerability windows. Organised into seven subdirectories:
 
-- **11 synthesis papers** — 10 published on [Zenodo](https://doi.org/10.5281/zenodo.18896103) (DOI: 10.5281/zenodo.18896103), March 2026. Paper 10 (NR3C1/HPA convergence) is repo-only.
-- **22 foundational research documents** covering molecular pathways, clinical evidence, neurodevelopmental mapping, and epidemiology
-- **7 post-publication extension tracks** covering paternal epigenetics, colostrum as personalised repair, environmental exposures, immune activation, neonatal oxygen management, cascade trigger mechanisms, and PE as paternal compatibility signal
-- **2 narrative documents** tracing the research programme origins
+| Directory | Content | Count |
+|-----------|---------|-------|
+| [`synthesis/`](biological-research/synthesis/) | Published synthesis papers (Papers 1–11) | 31 files |
+| [`extensions/`](biological-research/extensions/) | Post-publication extension tracks | 11 files |
+| [`foundational/`](biological-research/foundational/) | Mechanism theory — HIF-1α, OPC, oxygen windows | 6 files |
+| [`neurodevelopmental/`](biological-research/neurodevelopmental/) | Brain development, white matter, ASD evidence | 7 files |
+| [`clinical-evidence/`](biological-research/clinical-evidence/) | Clinical correlations, intervention timing | 7 files |
+| [`validation/`](biological-research/validation/) | Adversarial stress tests, dataset audits, angelman | 4 files |
+| [`narratives/`](biological-research/narratives/) | Bridge narratives (frogs + beehives) | 4 files |
 
 See [`biological-research/README.md`](biological-research/README.md) for the full description, file index, and testable predictions.
+
+---
+
+## DOI Registry
+
+All 26 papers plus the biological corpus are published on Zenodo under open access. Full registry in [`doi-footer.md`](doi-footer.md).
 
 ---
 
@@ -95,8 +121,7 @@ See [`biological-research/README.md`](biological-research/README.md) for the ful
 |-----------|---------|------------|
 | `papers/` (published) | Theory papers with Zenodo DOIs | Author-managed (CC BY-ND 4.0) |
 | `papers/` (repo-only) | Supporting research and measurement reports | Author-managed |
-| `papers/` (substrate reports) | R-001 to R-005, documentation era shift | Publication mirror protocol (manifest, SHA-256 hash-verified) |
-| `biological-research/` | Perinatal biology / HIF / OPC research | Author-managed (direct commit) |
+| `biological-research/` | Perinatal biology / HIF / OPC research | Author-managed (CC BY 4.0) |
 
 ---
 

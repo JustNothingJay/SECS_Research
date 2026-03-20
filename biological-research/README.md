@@ -10,11 +10,11 @@
 
 ## Overview
 
-This corpus contains **41 research documents** investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
+This corpus contains **43 research documents** organised across seven subdirectories, investigating a novel hypothesis: the timing of oxygen-demand spikes during fetal organ development, combined with disruptions to the HIF-1α/PHD-VHL-FIH counter-regulation axis, creates predictable vulnerability windows for latent organ injury — particularly white matter injury and OPC (oligodendrocyte precursor cell) maturation arrest.
 
 The work was motivated by a personal case (preeclampsia, neonatal ICU, oxygen desaturations) and grew into a systematic, citation-backed investigation spanning neonatal physiology, developmental neuroscience, epigenetics, HIF molecular biology, and global health epidemiology.
 
-Nine synthesis papers were published on **Zenodo** in March 2026: [DOI: 10.5281/zenodo.18896103](https://doi.org/10.5281/zenodo.18896103). Paper 11 (personality/myelination fingerprint) added as v1.2. Previously submitted to medRxiv and rejected as out of scope ("not a clinical research article with new data") — the rejection was not a judgment on the merits of the work.
+Ten synthesis papers published on **Zenodo** in March 2026: [DOI: 10.5281/zenodo.18896103](https://doi.org/10.5281/zenodo.18896103). Paper 11 (personality/myelination fingerprint) added as v1.2. Previously submitted to medRxiv and rejected as out of scope ("not a clinical research article with new data") — the rejection was not a judgment on the merits of the work.
 
 ## Core Thesis
 
@@ -25,100 +25,103 @@ Nine synthesis papers were published on **Zenodo** in March 2026: [DOI: 10.5281/
 5. **Pseudohypoxia** (HIF activation without true hypoxia) may affect 40–60% of pregnancies globally via iron deficiency
 6. **The injury is latent** — normal scans at birth, symptoms emerge years later as demands exceed compromised capacity
 
+## Folder Structure
+
+```
+biological-research/
+├── README.md                              ← this file
+├── MASTER-GESTATIONAL-TIMING-EXTRACTION.md ← master extraction index
+├── synthesis/          (31 files)  11 synthesis papers — md + pdf + docx
+├── extensions/         (11 files)  7 post-publication extension tracks
+├── foundational/        (6 files)  mechanism theory — HIF-1α, OPC, oxygen windows
+├── neurodevelopmental/  (7 files)  brain development, white matter, ASD evidence
+├── clinical-evidence/   (7 files)  clinical correlations, intervention timing
+├── validation/          (4 files)  adversarial stress tests, dataset audits, angelman
+└── narratives/          (4 files)  2 bridge narratives (frogs + beehives)
+```
+
 ## File Index
 
-### Synthesis Papers
+### synthesis/ — Synthesis Papers (11 papers, 31 files)
 | File | Description |
 |------|-------------|
-| `SYNTHESIS-gestational-oxygen-timing-alignment.md` | **Paper 1** — OPC maturation arrest and ASD. 12 sections, 100 references. Rejected by medRxiv (out of scope) March 2026 |
-| `SYNTHESIS-gestational-oxygen-timing-alignment.pdf` | PDF version |
-| `SYNTHESIS-gestational-oxygen-timing-alignment.docx` | DOCX companion |
-| `SYNTHESIS-multi-organ-gestational-oxygen-timing.md` | **Paper 2** — Multi-organ gestational oxygen-timing alignment. 10 organ systems, fixed endowment principle, HIF-1α as common thread, 75+ references |
-| `SYNTHESIS-treatment-convergence-oxygen-OPC-axis.md` | **Paper 3** — Treatment convergence on the oxygen-OPC axis. 11 therapies analysed, dual-arm framework, 50+ references |
-| `SYNTHESIS-gestational-hypoxia-cancer-predisposition.md` | **Paper 4** — Gestational hypoxia and cancer predisposition. Two-Step Warburg Hypothesis, Extended Knudson Model, OPC-glioma lineage, 55 references |
-| `SYNTHESIS-LMIC-neonatal-oxygen-natural-experiment.md` | **Paper 5** — LMIC neonatal oxygen natural experiment. MOXY/NEST360 data, altitude experiments, 4 actionable studies, 25 references |
-| `SYNTHESIS-epigenetic-biomarkers-gestational-hypoxia.md` | **Paper 6** — Epigenetic biomarkers of gestational hypoxia. 6 biomarker classes, 10 idiopathic conditions mapped, Guthrie card retrospective framework, 36 references |
-| `SYNTHESIS-maternal-triggers-placental-anti-angiogenic-cascade.md` | **Paper 7** — Maternal triggers of the placental anti-angiogenic cascade. sFlt-1/PlGF graded activation, sleep position, nutrition, cortisol, circadian desaturation, 782 lines |
-| `SYNTHESIS-SIDS-HIF1a-autonomic-programming.md` | **Paper 8** — SIDS as HIF-1α-mediated autonomic programming failure. Autonomic brainstem vulnerability, gestational timing, 110+ references |
-| `SYNTHESIS-SIDS-HIF1a-autonomic-programming.pdf` | PDF version |
-| `SYNTHESIS-SIDS-HIF1a-autonomic-programming.docx` | DOCX companion |
-| `SYNTHESIS-sensory-integration-insular-timing-alignment.md` | **Paper 9** — The Insular Timing Hypothesis: sensory integration failure, feeding difficulties, and the gestational fingerprint of autism. TIMED + TEMPORAL dual model, Uhthoff's phenomenon analogue, 15-domain gestational timing overlay, 800 lines |
-| `SYNTHESIS-sensory-integration-insular-timing-alignment.pdf` | PDF version |
-| `SYNTHESIS-sensory-integration-insular-timing-alignment.docx` | DOCX companion |
-| `SYNTHESIS-developmental-trauma-oxygen-timing-convergence-NR3C1-HPA-myelination.md` | **Paper 10** — Convergent Pathways: developmental trauma models (cortisol/HPA/NR3C1) and oxygen-timing theory converge on the same molecular pathway. Feed-forward loop, 6 testable predictions, 55+ citations. Prompted by external feedback (Orli Shull). *Repo-only — not on Zenodo* |
-| `SYNTHESIS-developmental-trauma-oxygen-timing-convergence-NR3C1-HPA-myelination.pdf` | PDF version |
-| `SYNTHESIS-gestational-oxygen-personality-myelination-fingerprint.md` | **Paper 11** — Gestational oxygen-timing as the hidden axis of personality variation. Myelination fingerprint concept, six-step causal chain, Big Five/temperament/HSP mapping, twin studies reinterpretation, 6 testable predictions, 25+ citations. Published on Zenodo v1.2 |
-| `SYNTHESIS-gestational-oxygen-personality-myelination-fingerprint.pdf` | PDF version |
+| `SYNTHESIS-gestational-oxygen-timing-alignment` | **Paper 1** — OPC maturation arrest and ASD. 12 sections, 100 references. md/pdf/docx |
+| `SYNTHESIS-multi-organ-gestational-oxygen-timing` | **Paper 2** — Multi-organ gestational oxygen-timing alignment. 10 organ systems, HIF-1α as common thread. md/pdf/docx |
+| `SYNTHESIS-treatment-convergence-oxygen-OPC-axis` | **Paper 3** — Treatment convergence on the oxygen-OPC axis. 11 therapies analysed, dual-arm framework. md/pdf/docx |
+| `SYNTHESIS-gestational-hypoxia-cancer-predisposition` | **Paper 4** — Gestational hypoxia and cancer predisposition. Two-Step Warburg Hypothesis, Extended Knudson Model. md/pdf/docx |
+| `SYNTHESIS-LMIC-neonatal-oxygen-natural-experiment` | **Paper 5** — LMIC neonatal oxygen natural experiment. MOXY/NEST360 data, altitude experiments. md/pdf/docx |
+| `SYNTHESIS-epigenetic-biomarkers-gestational-hypoxia` | **Paper 6** — Epigenetic biomarkers of gestational hypoxia. 6 biomarker classes, Guthrie card framework. md/pdf/docx |
+| `SYNTHESIS-maternal-triggers-placental-anti-angiogenic-cascade` | **Paper 7** — Maternal triggers of the placental anti-angiogenic cascade. sFlt-1/PlGF graded activation. md/pdf/docx |
+| `SYNTHESIS-SIDS-HIF1a-autonomic-programming` | **Paper 8** — SIDS as HIF-1α-mediated autonomic programming failure. 110+ references. md/pdf/docx |
+| `SYNTHESIS-sensory-integration-insular-timing-alignment` | **Paper 9** — The Insular Timing Hypothesis: sensory integration, feeding, gestational fingerprint of autism. TIMED + TEMPORAL dual model. md/pdf/docx |
+| `SYNTHESIS-developmental-trauma-oxygen-timing-convergence-NR3C1-HPA-myelination` | **Paper 10** — Convergent Pathways: developmental trauma and oxygen-timing convergence. Prompted by external feedback (Orli Shull). *Repo-only — not on Zenodo.* md/pdf |
+| `SYNTHESIS-gestational-oxygen-personality-myelination-fingerprint` | **Paper 11** — Gestational oxygen-timing as hidden axis of personality variation. Myelination fingerprint, Big Five mapping. Published on Zenodo v1.2. md/pdf |
 
-### Post-Publication Extension Tracks
+### extensions/ — Post-Publication Extension Tracks (7 papers, 11 files)
 | File | Description |
 |------|-------------|
-| `EXTENSION-paternal-epigenetic-germline-transmission.md` | Track 1 — Father's spermatogonial stem cells, Y chromosome vulnerability, paternal age effect, two-parent epigenetic convergence |
-| `EXTENSION-colostrum-personalised-neonatal-repair-biomarker.md` | Track 2 — Colostrum as personalised neonatal repair, mammary response to gestational injury, colostrum profiling as fetal injury biomarker, formula-feeding gap (18 refs) |
-| `EXTENSION-environmental-exposures-placental-hypoxia.md` | Track 3 — PM2.5, NO₂, CO, EDCs (BPA/phthalates/PFAS), heavy metals, pesticides, geographic natural experiments (~100 refs) |
-| `EXTENSION-immune-activation-myelination-timing.md` | Track 4 — Maternal Immune Activation (MIA), immune activation during OPC windows, myelination disruption compounding (85 refs) |
-| `EXTENSION-neonatal-oxygen-management-cord-transition.md` | Track 5 — Cord clamping as second hypoxic insult, DCC, FiO₂, NICU oxygen targeting, caffeine/CAP, NIRS monitoring (78 refs) |
-| `EXTENSION-trigger-mechanism-placental-cascade-initiation.md` | Track 6 — Defective spiral artery remodelling, maternal substrate, KIR/HLA-C, unified trigger taxonomy (75 refs) |
-| `EXTENSION-preeclampsia-paternal-compatibility-signal.md` | Track 7 — PE as mate-pair compatibility phenotype, paternal immunogenetic origin, HLA diversity and mate selection, generational perpetuation (18 refs) |
+| `EXTENSION-paternal-epigenetic-germline-transmission.md` | Track 1 — Paternal spermatogonial stem cells, Y vulnerability, two-parent epigenetic convergence |
+| `EXTENSION-colostrum-personalised-neonatal-repair-biomarker` | Track 2 — Colostrum as personalised neonatal repair biomarker, formula-feeding gap. md/pdf |
+| `EXTENSION-environmental-exposures-placental-hypoxia.md` | Track 3 — PM2.5, NO₂, EDCs, heavy metals, pesticides, geographic natural experiments (~100 refs) |
+| `EXTENSION-immune-activation-myelination-timing.md` | Track 4 — Maternal Immune Activation, OPC window disruption, myelination compounding (85 refs) |
+| `EXTENSION-neonatal-oxygen-management-cord-transition` | Track 5 — Cord clamping, DCC, FiO₂, NICU O₂ targeting, caffeine/CAP, NIRS. md/pdf |
+| `EXTENSION-trigger-mechanism-placental-cascade-initiation` | Track 6 — Spiral artery remodelling, KIR/HLA-C, unified trigger taxonomy. md/pdf |
+| `EXTENSION-preeclampsia-paternal-compatibility-signal` | Track 7 — PE as mate-pair compatibility phenotype, HLA diversity. md/pdf |
 
-### Core Framework
+### foundational/ — Mechanism Theory (6 files)
 | File | Description |
 |------|-------------|
 | `theory-perinatal-OPC-maturation-arrest-latent-white-matter-injury.md` | Unified theory — 632 lines, 102 citations, Parts I–VII |
-| `gestational-impact-zones-oxygen-demand-alignment.md` | Master alignment document — general theory of gestational injury across 10 organ systems |
+| `gestational-impact-zones-oxygen-demand-alignment.md` | Master alignment — gestational injury across 10 organ systems |
 | `gestational-HIF-dependency-developmental-timeline.md` | Week-by-week HIF/vulnerability timeline with isoform switching and cofactor mapping |
-
-### Molecular Pathway Evidence
-| File | Description |
-|------|-------------|
 | `HIF1a-counter-regulation-PHD-VHL-FIH-pathway.md` | Full PHD-VHL-FIH counter-regulation machinery, pseudohypoxia mechanisms (898 lines, 34 citations) |
 | `oxygen-sensitive-vulnerability-windows-fetal-organ-systems.md` | 10 organ systems mapped with peak vulnerability windows (848 lines, 87 citations) |
+| `neonatal-physiology-birth-transition.md` | Core neonatal physiology reference |
 
-### Clinical & Epidemiological Evidence
+### clinical-evidence/ — Clinical & Epidemiological Evidence (7 files)
 | File | Description |
 |------|-------------|
-| `treatment-correlation-oxygen-OPC-maturation-arrest-model.md` | 11 therapies converging on O₂ delivery + OPC maturation (caffeine, EPO, T3, HBOT, etc.) |
+| `treatment-correlation-oxygen-OPC-maturation-arrest-model.md` | 11 therapies converging on O₂ delivery + OPC maturation |
 | `neonatal-oxygen-availability-LMIC-disease-burden-correlation.md` | LMIC oxygen technology rollout as natural experiment |
 | `preeclampsia-onset-timing-offspring-organ-alignment-review.md` | PE onset timing → organ-specific outcome mapping |
 | `idiopathic-conditions-gestational-origins-epigenetic-markers.md` | Epigenetic markers of gestational hypoxia in "idiopathic" adult conditions |
 | `fetal-oxygenation-monitoring-technology-and-prospective-study-design.md` | PRISM/PRISM-Lite study designs and monitoring technology review |
+| `autism-regression-myelination-OPC-intervention-timing.md` | Regression timing aligned to myelination schedule |
+| `perinatal-hypoxia-preeclampsia-autism.md` | Foundation: PE → hypoxia → ASD pathway |
 
-### Neurodevelopmental Evidence
+### neurodevelopmental/ — Brain Development & White Matter Evidence (7 files)
 | File | Description |
 |------|-------------|
-| `perinatal-hypoxia-preeclampsia-autism.md` | Foundation: PE → hypoxia → ASD pathway |
 | `five-area-deep-dive-ASD-white-matter-desaturation.md` | Deep dive into 5 brain regions |
 | `five-area-structured-findings.md` | Structured evidence tables for 5 brain areas |
 | `white-matter-social-cognition-autism-evidence-review.md` | White matter and social cognition in ASD |
 | `latent-white-matter-injury-language-development.md` | Latent WMI → language delay pathway |
 | `hippocampus-white-matter-ASD-myelination.md` | Hippocampal white matter and ASD myelination |
-| `autism-regression-myelination-OPC-intervention-timing.md` | Regression timing aligned to myelination schedule |
 | `brain-resource-redistribution-ASD.md` | Resource redistribution hypothesis in ASD brain |
 | `neonatal-brain-development-five-areas.md` | Neonatal brain development across 5 areas |
-| `neonatal-physiology-birth-transition.md` | Core neonatal physiology reference |
 
-### Foundation & Validation
+### validation/ — Stress Tests & Independent Confirmation (4 files)
 | File | Description |
 |------|-------------|
-| `neonatal-dataset-audit-IH-DTI-language.md` | Dataset audit: intermittent hypoxia, DTI, language outcomes |
 | `adversarial-stress-test-OPC-maturation-arrest-autism-model.md` | Adversarial stress test of the unified model |
+| `neonatal-dataset-audit-IH-DTI-language.md` | Dataset audit: intermittent hypoxia, DTI, language outcomes |
+| `PAPER__angelman-hif__ubiquitin-severity-axis` | Independent confirmation — Angelman syndrome maps to the same HIF-1α/UBE3A axis. md/pdf |
 
-### Narrative & Context
+### narratives/ — Bridge Narratives (2 papers, 4 files)
 | File | Description |
 |------|-------------|
-| `NARRATIVE-from-frogs-to-human-biology.md` | Origin story — how observing amphibian population collapse through entropy mathematics led to a gestational oxygen-timing hypothesis for human developmental injury. Synthesises frog ecology, SECS collapse algebra, personal preeclampsia experience, and the 8-paper research programme |
-| `NARRATIVE-from-frogs-to-human-biology.pdf` | PDF version |
-| `NARRATIVE-from-beehives-to-governed-systems.md` | Origin story — how honey bee colony governance (QMP signal propagation, worker policing, dual workforce profiles, quorum sensing, stigmergy) became the constitutional architecture of SECS Sovereign and then mapped directly onto placental signalling, HIF counter-regulation, and multi-organ developmental biology |
-| `NARRATIVE-from-beehives-to-governed-systems.pdf` | PDF version |
+| `NARRATIVE-from-frogs-to-human-biology` | Origin story — amphibian collapse entropy mathematics → gestational oxygen-timing hypothesis. md/pdf |
+| `NARRATIVE-from-beehives-to-governed-systems` | Origin story — bee colony governance → SECS constitutional architecture → placental signalling. md/pdf |
 
 ## Key Numbers
 
-- **41 research documents** in this corpus (22 original + 11 synthesis papers + 7 post-publication extension tracks + 2 narratives)
+- **43 research documents** in this corpus across 7 subdirectories
+- **11 synthesis papers** — Papers 1–9 on [Zenodo](https://doi.org/10.5281/zenodo.18896103), Paper 10 repo-only, Paper 11 added as v1.2
+- **7 post-publication extension tracks** covering paternal epigenetics, colostrum, environmental exposures, immune activation, neonatal oxygen management, cascade triggers, and PE compatibility signal
+- **1 independent confirmation** — Angelman syndrome mapping to the same HIF-1α axis
 - **950+ citations** across the literature base
-- **11 synthesis papers** — Papers 1–8 submitted to medRxiv March 2026, rejected (out of scope). Papers 9–11 completed March 2026. 10 synthesis papers published on [Zenodo](https://doi.org/10.5281/zenodo.18896103) (DOI: 10.5281/zenodo.18896103). Paper 10 repo-only.
 - **10 organ systems** mapped with vulnerability windows
 - **11 therapies** analysed for convergence on the O₂/OPC axis
-- **7 post-publication extension tracks** covering paternal epigenetics, colostrum as personalised repair, environmental exposures, immune activation, neonatal oxygen management, cascade trigger mechanisms, and PE as paternal compatibility signal
 - **23–36 weeks** identified as the gestational super-window
 - **40–60%** of pregnancies globally may have PHD impairment via iron deficiency
 
@@ -131,9 +134,9 @@ Nine synthesis papers were published on **Zenodo** in March 2026: [DOI: 10.5281/
 
 ## Status
 
-**Papers 1–8** submitted to **medRxiv** March 2026 — rejected as out of scope ("not a clinical research article with new data"). medRxiv clarified: "this conclusion is not a judgment on the merits of the work." Papers 9–10 completed March 2026.
+**Papers 1–8** submitted to **medRxiv** March 2026 — rejected as out of scope ("not a clinical research article with new data"). Papers 9–11 completed March 2026.
 
-**Nine synthesis papers** (Papers 1–9) published on **Zenodo** March 2026 as v1.1. Paper 11 added as v1.2: [DOI: 10.5281/zenodo.18896103](https://doi.org/10.5281/zenodo.18896103)
+**Ten synthesis papers** (Papers 1–9, 11) published on **Zenodo** as v1.2: [DOI: 10.5281/zenodo.18896103](https://doi.org/10.5281/zenodo.18896103)
 
 - Paper 1: Gestational oxygen-timing alignment and ASD  
 - Paper 2: Multi-organ gestational oxygen-timing alignment  
@@ -144,10 +147,8 @@ Nine synthesis papers were published on **Zenodo** in March 2026: [DOI: 10.5281/
 - Paper 7: Maternal triggers of the placental anti-angiogenic cascade  
 - Paper 8: SIDS as HIF-1α-mediated autonomic programming failure  
 - Paper 9: The Insular Timing Hypothesis — sensory integration, feeding, gestational fingerprint of autism  
-- Paper 10: Convergent pathways — developmental trauma and oxygen-timing convergence via NR3C1/HPA/myelination *(repo-only)*
-- Paper 11: Gestational oxygen-timing as the hidden axis of personality variation — myelination fingerprint, sub-clinical continuum, Big Five mapping
-
-Seven post-publication extension tracks completed and committed.
+- Paper 10: Convergent pathways — developmental trauma and oxygen-timing convergence *(repo-only)*
+- Paper 11: Gestational oxygen-timing as hidden axis of personality variation — myelination fingerprint
 
 ## Citation
 
