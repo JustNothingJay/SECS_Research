@@ -33,7 +33,7 @@ Male germline development follows a tightly choreographed sequence that overlaps
 - Seisenberger S, Andrews S, Krueger F, et al. The dynamics of genome-wide DNA methylation reprogramming in mouse primordial germ cells. *Mol Cell*. 2012;48(6):849-862.
 - Gkountela S, Zhang KX, Shafiq TA, et al. DNA demethylation dynamics in the human prenatal germline. *Cell*. 2015;161(6):1425-1436.
 - Bourc'his D, Xu GL, Lin CS, Bollman B, Bestor TH. Dnmt3L and the establishment of maternal genomic imprints. *Science*. 2001;294(5551):2536-2539.
-- Davis TL, Yang GJ, McCarrey JR, Bhartlett MH. The H19 methylation imprint is erased and re-established differentially on the parental alleles during male germ cell development. *Hum Mol Genet*. 2000;9(19):2885-2894.
+- Davis TL, Yang GJ, McCarrey JR, Bartlett MH. The H19 methylation imprint is erased and re-established differentially on the parental alleles during male germ cell development. *Hum Mol Genet*. 2000;9(19):2885-2894.
 
 ---
 
@@ -113,9 +113,9 @@ Chen et al. (2016) showed that tRNA-derived small RNA fragments (tsRNAs) in sper
 - Hammoud SS, Nix DA, Zhang H, et al. Distinctive chromatin in human sperm packages genes for embryo development. *Nature*. 2009;460(7254):473-478.
 - Brykczynska U, Hisano M, Erkek S, et al. Repressive and active histone methylation mark distinct promoters in human and mouse spermatozoa. *Nat Struct Mol Biol*. 2010;17(6):679-687.
 - Siklenka K, Erkek S, Godmann M, et al. Disruption of histone methylation in developing sperm impairs offspring health transgenerationally. *Science*. 2015;350(6261):aab2006.
-- Gapp K, Jawaid A, Sarkber P, et al. Implication of sperm RNAs in transgenerational inheritance of the effects of early trauma in mice. *Nat Neurosci*. 2014;17(5):667-669.
+- Gapp K, Jawaid A, Sarkies P, et al. Implication of sperm RNAs in transgenerational inheritance of the effects of early trauma in mice. *Nat Neurosci*. 2014;17(5):667-669.
 - Rodgers AB, Morgan CP, Leu NA, Bale TL. Transgenerational epigenetic programming via sperm microRNA content. *Proc Natl Acad Sci USA*. 2015;112(44):13699-13704.
-- Dias BG, Bhatt DL, Bhatt S, Ressler KJ. Parental olfactory experience influences behavior and neural structure in subsequent generations. *Nat Neurosci*. 2014;17(1):89-96.
+- Dias BG, Ressler KJ. Parental olfactory experience influences behavior and neural structure in subsequent generations. *Nat Neurosci*. 2014;17(1):89-96.
 - Chen Q, Yan M, Cao Z, et al. Sperm tsRNAs contribute to intergenerational inheritance of an acquired metabolic disorder. *Science*. 2016;351(6271):397-400.
 
 ---
@@ -300,7 +300,7 @@ Total: 52 references cited
 1. Seisenberger S, Andrews S, Krueger F, et al. *Mol Cell*. 2012;48(6):849-862.
 2. Gkountela S, Zhang KX, Shafiq TA, et al. *Cell*. 2015;161(6):1425-1436.
 3. Bourc'his D, Xu GL, Lin CS, et al. *Science*. 2001;294(5551):2536-2539.
-4. Davis TL, Yang GJ, McCarrey JR, Bhartlett MH. *Hum Mol Genet*. 2000;9(19):2885-2894.
+4. Davis TL, Yang GJ, McCarrey JR, Bartlett MH. *Hum Mol Genet*. 2000;9(19):2885-2894.
 5. Radford EJ, Ito M, Shi H, et al. *Science*. 2014;345(6198):1255903.
 6. Veenendaal MVE, Painter RC, de Rooij SR, et al. *BJOG*. 2013;120(5):548-553.
 7. Heijmans BT, Tobi EW, Stein AD, et al. *Proc Natl Acad Sci USA*. 2008;105(44):17046-17049.
@@ -314,9 +314,9 @@ Total: 52 references cited
 15. Hammoud SS, Nix DA, Zhang H, et al. *Nature*. 2009;460(7254):473-478.
 16. Brykczynska U, Hisano M, Erkek S, et al. *Nat Struct Mol Biol*. 2010;17(6):679-687.
 17. Siklenka K, Erkek S, Godmann M, et al. *Science*. 2015;350(6261):aab2006.
-18. Gapp K, Jawaid A, Sarkber P, et al. *Nat Neurosci*. 2014;17(5):667-669.
+18. Gapp K, Jawaid A, Sarkies P, et al. *Nat Neurosci*. 2014;17(5):667-669.
 19. Rodgers AB, Morgan CP, Leu NA, Bale TL. *Proc Natl Acad Sci USA*. 2015;112(44):13699-13704.
-20. Dias BG, Bhatt DL, Bhatt S, Ressler KJ. *Nat Neurosci*. 2014;17(1):89-96.
+20. Dias BG, Ressler KJ. *Nat Neurosci*. 2014;17(1):89-96.
 21. Chen Q, Yan M, Cao Z, et al. *Science*. 2016;351(6271):397-400.
 22. Skaletsky H, Kuroda-Kawaguchi T, Minx PJ, et al. *Nature*. 2003;423(6942):825-837.
 23. Hughes JF, Page DC. *Annu Rev Genet*. 2015;49:507-527.

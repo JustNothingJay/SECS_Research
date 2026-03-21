@@ -148,7 +148,7 @@ Carbon monoxide is unique among environmental exposures in that it produces **di
 
 Ritz et al. (2007) found an association between gestational CO exposure and preterm birth in a Los Angeles cohort (n=81,186; HR 1.08, 95% CI 1.00–1.17 per 1 ppm increase in third trimester) [26]. Ha et al. (2001) reported increased low birth weight risk with CO exposure in Seoul (OR 1.08, 95% CI 1.01–1.16 per IQR increase) [27].
 
-Occupational CO exposure studies are informative. Koren et al. (1991) documented that carbon monoxide poisoning during pregnancy was associated with fetal neurological injury, with severity correlating with COHb levels and exposure duration [28]. Even moderate occupational exposures (parking garages, tolbooths, welding) produce sustained COHb levels of 2–5%, compared with a non-smoker baseline of ~1%.
+Occupational CO exposure studies are informative. Koren et al. (1991) documented that carbon monoxide poisoning during pregnancy was associated with fetal neurological injury, with severity correlating with COHb levels and exposure duration [28]. Even moderate occupational exposures (parking garages, tollbooths, welding) produce sustained COHb levels of 2–5%, compared with a non-smoker baseline of ~1%.
 
 Maternal smoking — the most common voluntary CO exposure — produces COHb levels of 5–10%. The smoking-birth weight relationship (mean reduction ~200g) is partially mediated through CO-induced fetal hypoxia [29].
 
@@ -671,7 +671,7 @@ The concept of "effective placental insufficiency" — any exogenous or endogeno
 68. Saulsbury MD, Heyliger SO, Wang K, Johnson DJ. Chlorpyrifos induces oxidative stress in oligodendrocyte progenitor cells. *Toxicology*. 2009;259(1-2):1-9.
 69. Slotkin TA, Seidler FJ. Developmental neurotoxicity of organophosphates targets cell cycle and apoptosis, revealed by transcriptional profiles in vivo and in vitro. *Neurotoxicol Teratol*. 2012;34(2):232-245.
 70. Torres-Sánchez L, Schnaas L, Cebrián ME, et al. Prenatal p,p'-DDE exposure and neurodevelopment among children 3.5–5 years of age. *Environ Health Perspect*. 2013;121(2):263-268.
-71. Mesnage R, Phedonos A, Bisber Tz M, Arno M, Balu S, Corton JC, Ugarte R, Antoniou MN. Evaluation of estrogen receptor alpha activation by glyphosate-based herbicide constituents. *Food Chem Toxicol*. 2017;108(Pt A):30-42.
+71. Mesnage R, Phedonos A, Biserni M, Arno M, Balu S, Corton JC, Ugarte R, Antoniou MN. Evaluation of estrogen receptor alpha activation by glyphosate-based herbicide constituents. *Food Chem Toxicol*. 2017;108(Pt A):30-42.
 72. Parvez S, Gerona RR, Engel LS, et al. Glyphosate exposure in pregnancy and shortened gestational length: a prospective Indiana birth cohort study. *Environ Health*. 2018;17:23.
 73. Mesnage R, Defarge N, Spiroux de Vendômois J, Séralini GE. Potential toxic effects of glyphosate and its commercial formulations below regulatory limits. *Food Chem Toxicol*. 2015;84:133-153.
 74. Kim KH, Jahan SA, Lee JT. Exposure to formaldehyde and its potential human health hazards. *J Environ Sci Health C Environ Carcinog Ecotoxicol Rev*. 2011;29(4):277-299.

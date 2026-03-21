@@ -10,3 +10,8 @@ traffic-logs/
 fix-encoding.js
 xelatex-*.txt
 
+# Watermark build artifacts
+_originals/
+seal.png
+seal_small.png
+

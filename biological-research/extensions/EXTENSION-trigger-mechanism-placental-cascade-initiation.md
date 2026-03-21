@@ -669,7 +669,7 @@ Together, these tracks extend the core alignment model from a narrow framework a
 
 ## References
 
-[1] Carpenter, J.A. (2026). Gestational Oxygen-Timing Alignment: A Unifying Framework Linking Placental Insufficiency, Oligodendrocyte Progenitor Vulnerability, and Neurodevelopmental Outcome. *medRxiv* preprint.
+[1] Carpenter, J.A. (2026). *Gestational Oxygen-Timing Alignment: A Unifying Framework Linking Placental Insufficiency, Oligodendrocyte Progenitor Vulnerability, and Neurodevelopmental Outcome.* medRxiv preprint.
 
 [2] Pijnenborg, R., Vercruysse, L., Hanssens, M. (2006). The uterine spiral arteries in human pregnancy: facts and controversies. *Placenta*, 27(9-10), 939–958.
 
@@ -747,7 +747,7 @@ Together, these tracks extend the core alignment model from a narrow framework a
 
 [39] Hiby, S.E., Apps, R., Sharkey, A.M., et al. (2010). Maternal activating KIRs protect against human reproductive failure mediated by fetal HLA-C2. *Journal of Clinical Investigation*, 120(11), 4102–4110.
 
-[40] Tubbergen, P., Lachmeijer, A.M.A.,"; Arbeitsgemeinschaft Gestose-Frauen. (1999). Change in paternity: a risk factor for preeclampsia in multiparous women? *Journal of Reproductive Immunology*, 45(1), 81–88.
+[40] Tubbergen, P., Lachmeijer, A.M.A., Arbeitsgemeinschaft Gestose-Frauen. (1999). Change in paternity: a risk factor for preeclampsia in multiparous women? *Journal of Reproductive Immunology*, 45(1), 81–88.
 
 [41] Dekker, G.A., Robillard, P.Y., Hulsey, T.C. (1998). Immune maladaptation in the etiology of preeclampsia: a review of corroborative epidemiologic studies. *Obstetrical & Gynecological Survey*, 53(6), 377–382.
 

@@ -19,7 +19,7 @@
 
 The gestational oxygen-timing alignment model (Carpenter, 2026) identifies HIF-1α dysregulation during specific fetal vulnerability windows as the molecular mechanism linking placental insufficiency to multi-organ developmental injury, with oligodendrocyte precursor cell (OPC) maturation arrest and latent white matter injury as the index case. The submitted preprint focuses on oxygen supply disruption as the primary trigger. This extension examines a parallel and convergent pathway: **maternal immune activation (MIA)** — encompassing gestational infection, fever, and inflammatory cytokine exposure — and its capacity to activate the identical HIF-1α molecular cascade through non-hypoxic mechanisms, while simultaneously operating through additional myelination-disrupting channels (direct OPC cytotoxicity, microglial neurotoxic polarisation, and metabolic oxygen demand amplification).
 
-I synthesise evidence across seven domains: (1) MIA animal models (poly(I:C), LPS) and their white matter phenotypes; (2) cytokine–HIF-1α cross-talk demonstrating that IL-6, TNF-α, and IL-1β stabilise HIF-1α independently of oxygen deprivation; (3) NF-κB → HIF-1α transcriptional upregulation as a shared terminal pathway between inflammation and hypoxia; (4) microglial dual-role biology during OPC maturation windows; (5) fever as a metabolic oxygen demand amplifier creating relative fetal hypoxia; (6) epidemiological evidence linking trimester-specific maternal infection to neurodevelopmental outcomes; (7) chorioamnionitis as the direct placental-immune nexus; and (8) a double-hit model in which pre-existing placental insufficiency synergises with MIA to produce compounded myelination injury.
+I synthesise evidence across eight domains: (1) MIA animal models (poly(I:C), LPS) and their white matter phenotypes; (2) cytokine–HIF-1α cross-talk demonstrating that IL-6, TNF-α, and IL-1β stabilise HIF-1α independently of oxygen deprivation; (3) NF-κB → HIF-1α transcriptional upregulation as a shared terminal pathway between inflammation and hypoxia; (4) microglial dual-role biology during OPC maturation windows; (5) fever as a metabolic oxygen demand amplifier creating relative fetal hypoxia; (6) epidemiological evidence linking trimester-specific maternal infection to neurodevelopmental outcomes; (7) chorioamnionitis as the direct placental-immune nexus; and (8) a double-hit model in which pre-existing placental insufficiency synergises with MIA to produce compounded myelination injury.
 
 The central argument is that MIA does not represent an alternative mechanism to the alignment model but rather an alternative **entry point** into the same pathway. Inflammatory cytokines activate HIF-1α through NF-κB-mediated transcription and PHD enzyme inhibition. Fever increases metabolic oxygen demand, creating effective fetal hypoxia. Activated microglia kill the very OPCs whose survival depends on oxygen-sensitive signalling. These converge on a single outcome: failure of OPC maturation during the 23–32 week vulnerability window, producing the same latent white matter injury regardless of whether the initiating event was placental ischaemia, maternal infection, or both.
 
@@ -105,7 +105,7 @@ Interleukin-6 is the cytokine most consistently identified as necessary and suff
 
 IL-6 activates HIF-1α through two distinct mechanisms:
 
-**Mechanism 1: JAK2/STAT3-mediated HIF-1α transcriptional upregulation.** Xu et al. (2005) showed that IL-6 activates HIF-1α transcription through STAT3 binding to the HIF-1α promoter in hepatocellular carcinoma cells [11]. This was confirmed by Jung et al. (2003), who demonstrated that IL-6-mediated STAT3 phosphorylation directly increased both HIF-1α mRNA and protein levels under normoxic conditions [12]. The mechanism does not require oxygen deprivation — STAT3 drives HIF-1α production regardless of oxygen status, and if production exceeds PHD degradation capacity, HIF-1α accumulates.
+**Mechanism 1: JAK2/STAT3-mediated HIF-1α transcriptional upregulation.** Xu et al. (2005) showed that IL-6 activates HIF-1α transcription through STAT3 binding to the HIF-1α promoter in hepatocellular carcinoma cells [11]. This was confirmed by Jung et al. (2005), who demonstrated that IL-6-mediated STAT3 phosphorylation directly increased both HIF-1α mRNA and protein levels under normoxic conditions [12]. The mechanism does not require oxygen deprivation — STAT3 drives HIF-1α production regardless of oxygen status, and if production exceeds PHD degradation capacity, HIF-1α accumulates.
 
 **Mechanism 2: PI3K/Akt/mTOR-mediated HIF-1α translational upregulation.** IL-6 also activates PI3K/Akt signalling, which increases HIF-1α protein synthesis through mTOR-dependent cap-dependent translation. Laughner et al. (2001) demonstrated that activation of the PI3K/Akt/mTOR pathway is sufficient to increase HIF-1α protein levels through enhanced translation in normoxic conditions [13]. Fukuda et al. (2002) extended this by showing that mTOR-dependent HIF-1α accumulation activates VEGF and other downstream HIF targets [14].
 
@@ -228,7 +228,7 @@ The problem is that the same cell type that supports OPC maturation in its resti
 
 Li et al. (2008) showed that activated microglia release glutamate, reactive oxygen species, and nitric oxide in quantities sufficient to kill pre-oligodendrocytes (preOLs) in culture [31]. PreOLs are selectively vulnerable to excitotoxic and oxidative damage compared to mature oligodendrocytes — they have higher expression of AMPA/kainate glutamate receptors and lower antioxidant defences (lower glutathione, lower SOD).
 
-Back et al. (2002) established that preOLs are the specific cell type killed in periventricular leukomalacia (PVL), the major white matter injury of prematurity [32]. This selectivity is not disputed — it is a core finding of the field. Back and Rosenberg (2014) later synthesised the evidence showing that preOL vulnerability is mediated by three factors: excitotoxicity (glutamate), oxidative stress (ROS), and inflammatory cytokines — all of which are produced by activated microglia [33].
+Back et al. (2001) established that preOLs are the specific cell type killed in periventricular leukomalacia (PVL), the major white matter injury of prematurity [32]. This selectivity is not disputed — it is a core finding of the field. Back and Rosenberg (2014) later synthesised the evidence showing that preOL vulnerability is mediated by three factors: excitotoxicity (glutamate), oxidative stress (ROS), and inflammatory cytokines — all of which are produced by activated microglia [33].
 
 Pang et al. (2003) demonstrated that LPS-activated microglia produce TNF-α and nitrogen intermediates that selectively kill OPCs while sparing neurons and astrocytes in mixed culture [34]. The killing was prevented by neutralising TNF-α antibodies and iNOS inhibitors, confirming that microglial-derived TNF-α and NO are the proximate cytotoxins.
 
@@ -250,7 +250,7 @@ A critical additional finding is that prenatal immune activation **primes** micr
 
 Mattei et al. (2017) showed that microglia from poly(I:C)-exposed offspring had altered transcriptomes at postnatal day 1, with upregulation of inflammatory pathways and downregulation of homeostatic/phagocytic pathways, even in the absence of ongoing inflammation [37]. This transcriptional priming persisted into adulthood.
 
-Schaafsma et al. (2017) demonstrated that MIA-primed microglia showed exaggerated TNF-α and IL-1β responses to secondary LPS challenge in adulthood [38]. This "two-hit" microglial priming has direct relevance to the double-hit model discussed in Section 9: if prenatal placental insufficiency primes microglia, then any postnatal immune challenge (neonatal infection, vaccination-induced inflammation, early childhood illnesses) could trigger disproportionate microglial activation during the extended postnatal myelination window.
+Schaafsma et al. (2015) demonstrated that MIA-primed microglia showed exaggerated TNF-α and IL-1β responses to secondary LPS challenge in adulthood [38]. This "two-hit" microglial priming has direct relevance to the double-hit model discussed in Section 9: if prenatal placental insufficiency primes microglia, then any postnatal immune challenge (neonatal infection, vaccination-induced inflammation, early childhood illnesses) could trigger disproportionate microglial activation during the extended postnatal myelination window.
 
 ### 5.5 Consolidated Table: Microglial Effects on OPCs by Activation State
 
@@ -291,7 +291,7 @@ The fetus is particularly vulnerable to fever-induced oxygen demand amplificatio
 
 3. **Fever increases fetal metabolic rate directly.** Maternal fever produces fetal hyperthermia via transplacental heat transfer. Fetal metabolic rate also increases, compounding the oxygen demand without any increase in supply.
 
-Edwards et al. (2006) reviewed the evidence on maternal hyperthermia and fetal outcomes, documenting that sustained maternal core temperatures ≥39°C are associated with neural tube defects, cardiac defects, and neurodevelopmental impairment, with the dose-response relationship suggesting a threshold effect at ~1.5°C above baseline [41].
+Edwards et al. (2003) reviewed the evidence on maternal hyperthermia and fetal outcomes, documenting that sustained maternal core temperatures ≥39°C are associated with neural tube defects, cardiac defects, and neurodevelopmental impairment, with the dose-response relationship suggesting a threshold effect at ~1.5°C above baseline [41].
 
 ### 6.3 Epidemiological Evidence: Maternal Fever and Neurodevelopmental Risk
 
@@ -438,11 +438,11 @@ The synergy is predicted on several grounds:
 
 ### 9.3 Animal Evidence for Synergy
 
-Yung et al. (2006) demonstrated that combining hypoxia (reduced uterine blood flow) with inflammatory challenge (LPS) in pregnant rats produced white matter injury more severe than either insult alone, with the combined-insult group showing >60% reduction in MBP staining versus 25–30% for either insult individually [68]. This is a supra-additive effect — the hallmark of synergy.
+Yung et al. (2008) demonstrated that combining hypoxia (reduced uterine blood flow) with inflammatory challenge (LPS) in pregnant rats produced white matter injury more severe than either insult alone, with the combined-insult group showing >60% reduction in MBP staining versus 25–30% for either insult individually [68]. This is a supra-additive effect — the hallmark of synergy.
 
 Van Steenwinckel et al. (2014) showed that neonatal IL-1β exposure in mice (modelling postnatal inflammation) combined with perinatal hypoxia produced persistent hypomyelination that neither insult alone could produce [69]. The combined-insult group showed permanent OPC maturation arrest with no recovery to 60 days postnatal, while single-insult groups showed partial recovery.
 
-Girard et al. (2012) used a rat model combining intrauterine growth restriction (bilateral uterine artery ligation) with postnatal LPS injection and demonstrated that the combined insult produced white matter injury worse than either insult alone, with the synergistic effect most pronounced in the periventricular white matter — the location of the preOL vulnerability window [70].
+Girard et al. (2008) used a rat model combining intrauterine growth restriction (bilateral uterine artery ligation) with postnatal LPS injection and demonstrated that the combined insult produced white matter injury worse than either insult alone, with the synergistic effect most pronounced in the periventricular white matter — the location of the preOL vulnerability window [70].
 
 ### 9.4 Human Evidence for Combined Risk
 
@@ -452,7 +452,7 @@ The human epidemiological evidence for synergy is less direct but suggestive:
 
 **FGR + postnatal sepsis.** Bassler et al. (2009), using the Trial of Indomethacin Prophylaxis in Preterms (TIPP) database, found that FGR infants who developed postnatal sepsis had significantly worse neurodevelopmental outcomes at 18 months than FGR infants without sepsis or non-FGR infants with sepsis [72]. The combined effect exceeded the sum of individual effects.
 
-**Placental pathology + fever.** Bashiri et al. (2003) analysed 5,527 deliveries and found that the combination of maternal fever in labour and histological placental inflammation was associated with significantly higher rates of cerebral palsy than either finding alone (OR 8.9 for combined vs. OR 2.1 for fever alone and OR 2.8 for histological inflammation alone) [73]. The combined OR exceeds the product of individual ORs — consistent with synergistic interaction.
+**Placental pathology + fever.** Bashiri et al. (2006) analysed 5,527 deliveries and found that the combination of maternal fever in labour and histological placental inflammation was associated with significantly higher rates of cerebral palsy than either finding alone (OR 8.9 for combined vs. OR 2.1 for fever alone and OR 2.8 for histological inflammation alone) [73]. The combined OR exceeds the product of individual ORs — consistent with synergistic interaction.
 
 ### 9.5 The Double-Hit Model as an Alignment Model Extension
 
@@ -468,7 +468,7 @@ The double-hit model extends the alignment framework by recognising that HIF-1α
 
 The alignment model's parent paper focuses primarily on the 23–32 week gestational window for OPC vulnerability. However, myelination is one of the longest developmental processes in the human brain. While peak OPC vulnerability to hypoxic-ischaemic injury occurs prenatally, active myelination continues through early childhood, and some tracts continue myelinating into the third decade of life.
 
-Deoni et al. (2012) used multicomponent relaxometry MRI to map the human myelination trajectory, showing that different white matter tracts myelinate on distinct schedules: cerebellar tracts myelinate first (months 1–6), followed by occipital tracts, temporal tracts, and finally frontal/prefrontal tracts, with frontal tracts showing continuing myelination gains through age 5–10 years [74].
+Deoni et al. (2011) used multicomponent relaxometry MRI to map the human myelination trajectory, showing that different white matter tracts myelinate on distinct schedules: cerebellar tracts myelinate first (months 1–6), followed by occipital tracts, temporal tracts, and finally frontal/prefrontal tracts, with frontal tracts showing continuing myelination gains through age 5–10 years [74].
 
 Miller et al. (2012) demonstrated using myelin water fraction imaging that myelination is most rapid between birth and 2 years of age, continues at a reduced rate through childhood, and shows tract-specific timing that parallels functional maturation [75].
 
@@ -607,7 +607,7 @@ In preterm cohorts with postnatal infection data and serial MRI, the specific tr
 
 ### Prediction 8: Microglial Polarisation State During MIA Should Predict White Matter Outcome
 
-In animal MIA models with serial microglial assessment, the duration of M1 polarisation (rather than the peak intensity of microgial activation) should predict the severity of OPC maturation arrest. Brief M1 activation with rapid M2 switch should produce minimal white matter injury; sustained M1 without M2 switch should produce severe injury.
+In animal MIA models with serial microglial assessment, the duration of M1 polarisation (rather than the peak intensity of microglial activation) should predict the severity of OPC maturation arrest. Brief M1 activation with rapid M2 switch should produce minimal white matter injury; sustained M1 without M2 switch should produce severe injury.
 
 **Testable with:** Time-course microglial polarisation studies in MIA models with white matter outcome assessment at multiple post-MIA timepoints.
 
@@ -737,7 +737,7 @@ The most critical outstanding experiment is the direct measurement of HIF-1α pr
 
 [36] Favrais G, van de Looij Y, Fleiss B, et al. Systemic inflammation disrupts the developmental program of white matter. *Ann Neurol.* 2011;70(4):550-565.
 
-[37] Mattei D, Ivanov A, Ferber C, et al. Maternal immune activation results in complex microglial transcriptome signature in the air that is reversed by minocycline treatment. *Brain Behav Immun.* 2017;66:277-292.
+[37] Mattei D, Ivanov A, Ferber C, et al. Maternal immune activation results in complex microglial transcriptome signature in the adult offspring that is reversed by minocycline treatment. *Brain Behav Immun.* 2017;66:277-292.
 
 [38] Schaafsma W, Bastber LM, Kok M, et al. Long-lasting pro-inflammatory suppression of microglia by LPS-preconditioning is mediated by RelB-dependent epigenetic silencing. *Brain Behav Immun.* 2015;48:205-221.
 

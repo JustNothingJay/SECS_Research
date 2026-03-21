@@ -464,7 +464,7 @@ If validated, the model would change clinical practice in two ways. First, prosp
 18. Contreras NA, Fontana L, Tosti V, Nikolich-Žugich J. Calorie restriction induces reversible lymphopenia and lymphoid organ atrophy due to cell redistribution. *Geroscience*. 2018;40(3):279-291.
 19. Boehmer BH, Limesand SW, Rozance PJ. The impact of IUGR on pancreatic islet development and neonatal β-cell homeostasis. *J Endocrinol*. 2017;235(2):R63-R76.
 20. Saini Y, Harkema JR, LaPres JJ. HIF1α is essential for normal intrauterine differentiation of alveolar epithelium and surfactant production in the newborn lung of mice. *J Biol Chem*. 2008;283(48):33650-33657.
-21. McQuillen PS, DeFreitas MF, Zada G, Bhatt DL, Bhatt SM. Selective vulnerability of subplate neurons after early neonatal hypoxia-ischemia. *J Neurosci*. 2003;23(8):3308-3315.
+21. McQuillen PS, Sheldon RA, Shatz CJ, Ferriero DM. Selective vulnerability of subplate neurons after early neonatal hypoxia-ischemia. *J Neurosci*. 2003;23(8):3308-3315.
 22. McClendon E, Shaver DC, Degener-O'Brien K, et al. Transient hypoxemia chronically disrupts maturation of preterm fetal ovine subplate neuron arborization and activity. *J Neurosci*. 2017;37(49):11912-11929.
 23. Stone J, Chan-Ling T, Pe'er J, et al. Roles of vascular endothelial growth factor and astrocyte degeneration in the genesis of retinopathy of prematurity. *Invest Ophthalmol Vis Sci*. 1996;37(2):290-299.
 24. Herzog EM, Eggink AJ, Reijnierse A, et al. Early- and late-onset preeclampsia and the tissue-specific epigenome of the placenta and newborn. *Placenta*. 2017;58:122-132.

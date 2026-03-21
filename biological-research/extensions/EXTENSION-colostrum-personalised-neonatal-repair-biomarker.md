@@ -170,7 +170,7 @@ A particularly striking finding for the alignment model is the emerging evidence
 
 - Oliveros et al. (2022) demonstrated that dietary 2'-fucosyllactose (2'-FL) improved myelination in a neonatal rat model.
 - Tarr et al. (2015) showed that 3'-sialyllactose (3'-SL) administration to germ-free mice improved anxiety-like behaviour and altered brain gene expression.
-- Wang et al. (2007) demonstrated that sialic acid (the building block of sialylated HMOs) is essential for brain ganglioside synthesis and myelin formation.
+- Wang et al. (2003) demonstrated that sialic acid (the building block of sialylated HMOs) is essential for brain ganglioside synthesis and myelin formation.
 
 **Alignment model connection:** If specific HMOs promote myelination, and HMO profiles vary with gestational pathology, then colostrum from pregnancies complicated by hypoxic injury (where OPC maturation arrest has occurred) could theoretically upregulate sialylated HMOs — delivering myelination-support oligosaccharides to an infant whose myelination programme has been disrupted.
 
@@ -178,7 +178,7 @@ This is a testable prediction.
 
 ### 4.3 Stem Cells in Colostrum: A Direct Repair Pathway?
 
-Hassiotou et al. (2012) demonstrated that human breast milk contains cells with stem cell properties — including markers of pluripotency (SSEA-4, TRA-1-60, OCT4, SOX2, NANOG) — and that these cells survive passage through the neonatal gastrointestinal tract and integrate into multiple tissues in animal models, including the brain [14].
+Hassiotou et al. (2012) demonstrated that human breast milk contains cells with stem cell properties — including markers of pluripotency (SSEA-4, TRA-1-60, OCT4, SOX2, NANOG) — and that these cells survive passage through the neonatal gastrointestinal tract and integrate into multiple tissues in animal models, including the brain [5].
 
 If colostrum stem cells can cross the neonatal gut barrier, survive in the circulation, and reach the developing brain, they represent a potential **direct repair mechanism** for white matter injury. The number and type of stem cells in colostrum could vary with gestational pathology — a hypothesis not yet tested but consistent with the personalised repair framework.
 
@@ -440,7 +440,7 @@ This extension proposes a fundamental reframing of colostrum: from passive immun
 
 [6] Neville MC, Morton J, Umemura S. Lactogenesis: the transition from pregnancy to lactation. *Pediatr Clin North Am*. 2001;48(1):35–52.
 
-[7] Bağcı S, Brosens JJ,"; et al. Colostrum and breast milk of preeclamptic mothers: composition analysis. *J Matern Fetal Neonatal Med*. 2020.
+[7] Bağcı S, Brosens JJ, et al. Colostrum and breast milk of preeclamptic mothers: composition analysis. *J Matern Fetal Neonatal Med*. 2020.
 
 [8] Amaral YNV, Marano D, Silva LML, Guimarães ACLD, Moreira MEL. Are there changes in the fatty acid profile of breast milk with supplementation of omega-3 sources? A systematic review. *Rev Bras Ginecol Obstet*. 2017;39(3):128–141.
 
@@ -462,7 +462,7 @@ This extension proposes a fundamental reframing of colostrum: from passive immun
 
 [17] Bode L. Human milk oligosaccharides: every baby needs a sugar mama. *Glycobiology*. 2012;22(9):1147–1162.
 
-[18] Tarr AJ, Galley JD, Fisher SE, Chichlowski M, Berg BM, Bailey MT. The prebiotics 3'sialyllactose and 6'sialyllactose diminish stressor-induced anxiety-like behavior and colonic microbiota alterations. *Brain Behav Immun*. 2015;50:166–177.
+[18] Tarr AJ, Galley JD, Fisher SE, Chichlowski M, Berg BM, Bailey MT. The prebiotics 3'-sialyllactose and 6'-sialyllactose diminish stressor-induced anxiety-like behavior and colonic microbiota alterations. *Brain Behav Immun*. 2015;50:166–177.
 
 ---
 

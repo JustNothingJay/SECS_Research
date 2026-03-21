@@ -104,7 +104,7 @@ The compatibility model proposes a spectrum of paternal antigen foreignness with
 The primipaternity effect and the seminal fluid exposure data reveal an elegant biological system:
 
 1. **Initial exposure:** Seminal fluid deposits paternal antigens (soluble HLA, TGF-β, prostaglandins) on the cervical mucosa
-2. **Immune education:** Maternal dendritic cells capture paternal antigens and present them to T cells → generation of paternal-antigen-specific regulatory T cells (Tregs) [Robertson, 2005]
+2. **Immune education:** Maternal dendritic cells capture paternal antigens and present them to T cells → generation of paternal-antigen-specific regulatory T cells (Tregs) [11]
 3. **Tolerance building:** Repeated exposure over months to years builds a robust Treg population specific to this partner's HLA antigens
 4. **Pregnancy application:** At implantation, the maternal immune system has pre-existing tolerance for the paternal antigens expressed by the trophoblast → appropriate immune modulation → normal trophoblast invasion
 
@@ -244,7 +244,7 @@ These are speculative but mechanistically coherent with the compatibility model.
 
 ### 7.3 Aspirin Timing and the Compatibility Window
 
-Low-dose aspirin initiated before 16 weeks' gestation reduces PE risk by approximately 60% in high-risk populations [ASPRE trial — Rolnik et al., 2017]. The compatibility model provides a mechanistic explanation: aspirin must be initiated while spiral artery remodelling is still ongoing (before 16 weeks) to mitigate the downstream consequences of the immune restriction. After 16 weeks, the remodelling window has closed, and the restriction is permanent.
+Low-dose aspirin initiated before 16 weeks' gestation reduces PE risk by approximately 60% in high-risk populations [14]. The compatibility model provides a mechanistic explanation: aspirin must be initiated while spiral artery remodelling is still ongoing (before 16 weeks) to mitigate the downstream consequences of the immune restriction. After 16 weeks, the remodelling window has closed, and the restriction is permanent.
 
 **Compatibility model prediction:** Aspirin effectiveness should correlate with the degree of KIR/HLA-C incompatibility. In severe mismatches (KIR-AA + HLA-C2), aspirin may be insufficient — the immunological restriction is too fundamental for a cyclooxygenase inhibitor to overcome. In borderline mismatches, aspirin may be sufficient to tip the balance toward adequate remodelling.
 
@@ -292,7 +292,7 @@ Using the system established in Carpenter (2026a):
 
 | Claim | Evidence Level | Basis |
 |---|---|---|
-| PE risk is partner-pair specific (primipaternity) | **Strong** | ≥3 independent replications; Tubbergen 1999, Dekker 2002, Skjærven 2002 |
+| PE risk is partner-pair specific (primipaternity) | **Strong** | ≥3 independent replications; Tubbergen 1999, Dekker 2002, Skjærven 2005 |
 | KIR/HLA-C interaction determines PE risk | **Strong** | Hiby 2004, 2010; Nakimuli 2015; multiple replications across populations |
 | Seminal fluid exposure builds immune tolerance | **Strong** | Robertson 2005; Dekker & Robillard 2005; consistent epidemiological data |
 | Donor gamete pregnancies have 20–40% PE rate | **Strong** | Multiple IVF cohort studies; consistent across populations |
@@ -373,7 +373,7 @@ This extension proposes a fundamental reframing of preeclampsia: from maternal d
 
 [9] Dekker G. The partner's role in the etiology of preeclampsia. *J Reprod Immunol*. 2002;57(1–2):203–215.
 
-[10] Tubbergen P, Lachmeijer AM,"; et al. Change in paternity: a risk factor for preeclampsia in multiparous women? *J Reprod Immunol*. 1999;45(1):81–88.
+[10] Tubbergen P, Lachmeijer AM, et al. Change in paternity: a risk factor for preeclampsia in multiparous women? *J Reprod Immunol*. 1999;45(1):81–88.
 
 [11] Robertson SA, Bromfield JJ, Tremellen KP. Seminal "priming" for protection from pre-eclampsia — a unifying hypothesis. *J Reprod Immunol*. 2003;59(2):253–265.
 
