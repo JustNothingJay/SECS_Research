@@ -1,6 +1,6 @@
 # Computational Redundancy in α-Dependent Systems
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PENDING.svg)](https://doi.org/10.5281/zenodo.PENDING)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19158617.svg)](https://doi.org/10.5281/zenodo.19158617)
 
 **Computational Redundancy in α-Dependent Systems: What a Strand-Native Constant Eliminates**
 
