@@ -1,6 +1,6 @@
 # SECS Research
 
-Public research outputs from the SECS project. **26 papers** published on [Zenodo](https://zenodo.org) with registered DOIs, plus a **43-document biological research corpus**.
+Public research outputs from the SECS project. **26 DOI-registered papers**, supporting reports, and a **47-document biological research corpus**.
 
 **Author:** Jay Andrew Carpenter — Independent Researcher, Sydney, Australia  
 **Contact:** jay.andrew.carpenter@gmail.com  
@@ -21,7 +21,7 @@ Four papers establishing the core algebra: collapse operator, veto partition, ad
 
 ## II. Fine Structure Constant — From Identity to Measurement
 
-Eight papers. One equation with no empirical inputs yields α⁻¹ = 137.035999177 — 0.3σ from the best measurement. The chain extends from π to G.
+Nine papers. One equation with no empirical inputs yields α⁻¹ = 137.035999177 — 0.3σ from the best measurement. The chain extends from π to G, and from one measured constant to the entire CODATA table.
 
 | Paper | Title | DOI |
 |-------|-------|-----|
@@ -33,6 +33,7 @@ Eight papers. One equation with no empirical inputs yields α⁻¹ = 137.0359991
 | [`metrological-dominoes`](papers/metrological-dominoes/) | Metrological Dominoes: Algebraic α Restructures Time | [10.5281/zenodo.19045442](https://doi.org/10.5281/zenodo.19045442) |
 | [`gravity-chain`](papers/gravity-chain/) | Precision Dominoes: From Algebraic α to G | [10.5281/zenodo.19047229](https://doi.org/10.5281/zenodo.19047229) |
 | [`codata-offset`](papers/codata-offset/) | The 4.4σ Systematic: Cs Outlier Pulls Every CODATA Constant | [10.5281/zenodo.19049285](https://doi.org/10.5281/zenodo.19049285) |
+| [`algebraic-units`](papers/algebraic-units/) | One Measurement Derives Them All: Algebraic Dimensional Structure from the Eigenvalue Tower | Pending |
 
 ## III. Constraint Surface — Topology & Fixed Points
 
@@ -93,7 +94,7 @@ Supporting research papers — no Zenodo DOI.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18896103.svg)](https://doi.org/10.5281/zenodo.18896103)
 
-A **43-document** biological research corpus investigating gestational oxygen-demand timing, HIF-1α counter-regulation, and developmental vulnerability windows. Organised into seven subdirectories:
+A **47-document** biological research corpus investigating gestational oxygen-demand timing, HIF-1α counter-regulation, and developmental vulnerability windows. Organised into seven subdirectories:
 
 | Directory | Content | Count |
 |-----------|---------|-------|
@@ -111,7 +112,7 @@ See [`biological-research/README.md`](biological-research/README.md) for the ful
 
 ## DOI Registry
 
-All 26 papers plus the biological corpus are published on Zenodo under open access. Full registry in [`doi-footer.md`](doi-footer.md).
+The paper series (2026a–z) plus the biological corpus are published on Zenodo under open access. Full registry in [`doi-footer.md`](doi-footer.md).
 
 ---
 
