@@ -2,7 +2,7 @@
 
 ## DOI Registry — Carpenter (2026) {-}
 
-All papers are published as preprints on Zenodo under open access. This table is the canonical reference. Version: 2026-03-18.
+All papers are published as preprints on Zenodo under open access. This table is the canonical reference. Version: 2026-03-25.
 
 | Ref | Title | DOI |
 |-----|-------|-----|
@@ -33,4 +33,6 @@ All papers are published as preprints on Zenodo under open access. This table is
 | 2026x | Samarium Shield: Promethium's Daughter and Nuclear Remediation | [10.5281/zenodo.19079971](https://doi.org/10.5281/zenodo.19079971) |
 | 2026y | Polynomial Descent: Elemental Coupling of the Eigenvalue Tower | [10.5281/zenodo.19080161](https://doi.org/10.5281/zenodo.19080161) |
 | 2026z | The Periodic Table Inside α | [10.5281/zenodo.19080317](https://doi.org/10.5281/zenodo.19080317) |
+| 2026aa | Where You Exist, Inside Yourself: The Obex as Fixed Point | [10.5281/zenodo.19206307](https://doi.org/10.5281/zenodo.19206307) |
+| 2026ab | The Observation Deck: The Zero-Loss Fixed Point of Existence | [10.5281/zenodo.19252934](https://doi.org/10.5281/zenodo.19252934) |
 *Jay Carpenter, 2026. SECS Sovereign.*

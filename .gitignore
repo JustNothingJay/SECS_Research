@@ -1,5 +1,8 @@
 traffic-logs/
 
+# Copilot workspace (agent plans, DOI manager, local tooling)
+.copilot/
+
 # Temp/build artifacts
 *.tex
 !latex-header.tex
