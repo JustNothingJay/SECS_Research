@@ -118,7 +118,7 @@ Supporting research papers — no Zenodo DOI.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18896027.svg)](https://doi.org/10.5281/zenodo.18896027)
 
-A **43-document** biological research corpus investigating gestational oxygen-demand timing, HIF-1α counter-regulation, and developmental vulnerability windows. Organised into seven subdirectories:
+A **46-document** biological research corpus investigating gestational oxygen-demand timing, HIF-1α counter-regulation, and developmental vulnerability windows. Organised into seven subdirectories:
 
 | Directory | Content | Count |
 |-----------|---------|-------|
