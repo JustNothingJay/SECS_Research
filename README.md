@@ -1,6 +1,6 @@
 # SECS Research
 
-Public research outputs from the SECS project. **26 papers** published on [Zenodo](https://zenodo.org) with registered DOIs, plus a **43-document biological research corpus**.
+Public research outputs from the SECS project. **34 papers** published on [Zenodo](https://zenodo.org) with registered DOIs, plus a **43-document biological research corpus** and **3 software packages**.
 
 **Author:** Jay Andrew Carpenter — Independent Researcher, Sydney, Australia  
 **Contact:** jay.andrew.carpenter@gmail.com  
@@ -21,7 +21,7 @@ Four papers establishing the core algebra: collapse operator, veto partition, ad
 
 ## II. Fine Structure Constant — From Identity to Measurement
 
-Eight papers. One equation with no empirical inputs yields α⁻¹ = 137.035999177 — 0.3σ from the best measurement. The chain extends from π to G.
+Eight papers. One equation with no empirical inputs yields α⁻¹ = 137.035999177 — 0.3σ from the best measurement. The chain extends from π to G, closing the gravitational constant with zero free parameters.
 
 | Paper | Title | DOI |
 |-------|-------|-----|
@@ -33,6 +33,7 @@ Eight papers. One equation with no empirical inputs yields α⁻¹ = 137.0359991
 | [`metrological-dominoes`](papers/metrological-dominoes/) | Metrological Dominoes: Algebraic α Restructures Time | [10.5281/zenodo.19045442](https://doi.org/10.5281/zenodo.19045442) |
 | [`gravity-chain`](papers/gravity-chain/) | Precision Dominoes: From Algebraic α to G | [10.5281/zenodo.19047229](https://doi.org/10.5281/zenodo.19047229) |
 | [`codata-offset`](papers/codata-offset/) | The 4.4σ Systematic: Cs Outlier Pulls Every CODATA Constant | [10.5281/zenodo.19049285](https://doi.org/10.5281/zenodo.19049285) |
+| [`fifth-link`](papers/fifth-link/) | The Fifth Link: Deriving G from the Tower Equation | [10.5281/zenodo.19382068](https://doi.org/10.5281/zenodo.19382068) |
 
 ## III. Constraint Surface — Topology & Fixed Points
 
@@ -61,6 +62,30 @@ Four papers bridging the collapse algebra into placental biology and development
 | [`le-chatelier-banach`](papers/le-chatelier-banach/) | Le Chatelier, Banach, and the Oxygen Fixed Point | [10.5281/zenodo.19030188](https://doi.org/10.5281/zenodo.19030188) |
 | [`lyapunov-stability`](papers/lyapunov-stability/) | Lyapunov Stability Windows in Gestational Development | [10.5281/zenodo.19079903](https://doi.org/10.5281/zenodo.19079903) |
 | [`umbilical-channel`](papers/umbilical-channel/) | Umbilical Channel: Information-Theoretic Constraints | [10.5281/zenodo.19029054](https://doi.org/10.5281/zenodo.19029054) |
+
+## V. Substrate & Intelligence
+
+Six papers on consciousness, AI architecture, computational redundancy, and software verification.
+
+| Paper | Title | DOI |
+|-------|-------|-----|
+| [`where-you-exist-inside-yourself`](papers/where-you-exist-inside-yourself/) | Where You Exist, Inside Yourself: The Obex as Fixed Point | [10.5281/zenodo.19206307](https://doi.org/10.5281/zenodo.19206307) |
+| [`observation-deck`](papers/observation-deck/) | The Observation Deck: The Zero-Loss Fixed Point of Existence | [10.5281/zenodo.19252934](https://doi.org/10.5281/zenodo.19252934) |
+| [`token-economics`](papers/token-economics/) | Token Economics: Three Modes of Intelligence Spend | [10.5281/zenodo.19267641](https://doi.org/10.5281/zenodo.19267641) |
+| [`turing-inverted`](papers/turing-inverted/) | Turing Inverted: What Survives When You Remove the Human | [10.5281/zenodo.19310727](https://doi.org/10.5281/zenodo.19310727) |
+| [`computational-redundancy`](papers/computational-redundancy/) | Computational Redundancy: What a Strand-Native Constant Eliminates | [10.5281/zenodo.19158617](https://doi.org/10.5281/zenodo.19158617) |
+| [`structural-age-regression`](papers/__ai-substrate-reports__structural-age-regression/) | Structural Age Regression: 10,000 Repositories, Zero AI Breakpoints | [10.5281/zenodo.19180674](https://doi.org/10.5281/zenodo.19180674) |
+
+## VI. Software & Algebraic Units
+
+One paper and three software packages — the Möbius family: dual-strand arithmetic that eliminates IEEE 754 representational error.
+
+| Paper / Package | Title | DOI |
+|-----------------|-------|-----|
+| [`algebraic-units`](papers/algebraic-units/) | One Measurement Derives Them All: Algebraic Dimensional Structure | [10.5281/zenodo.19186394](https://doi.org/10.5281/zenodo.19186394) |
+| [MöbiusConstant](https://github.com/JustNothingJay/mobius-constant) | Exact irrational constants (Python) | [10.5281/zenodo.19157585](https://doi.org/10.5281/zenodo.19157585) |
+| [MöbiusNumber](https://github.com/JustNothingJay/mobius-number) | Complementary residue arithmetic (Python) | [10.5281/zenodo.19154816](https://doi.org/10.5281/zenodo.19154816) |
+| [MöbiusInteger](https://github.com/JustNothingJay/mobius-integer) | Dual-strand overflow-safe integer (Rust) | [10.5281/zenodo.19154835](https://doi.org/10.5281/zenodo.19154835) |
 
 ---
 
@@ -91,7 +116,7 @@ Supporting research papers — no Zenodo DOI.
 
 ## Biological Research Corpus
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18896103.svg)](https://doi.org/10.5281/zenodo.18896103)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18896027.svg)](https://doi.org/10.5281/zenodo.18896027)
 
 A **43-document** biological research corpus investigating gestational oxygen-demand timing, HIF-1α counter-regulation, and developmental vulnerability windows. Organised into seven subdirectories:
 
@@ -111,7 +136,7 @@ See [`biological-research/README.md`](biological-research/README.md) for the ful
 
 ## DOI Registry
 
-All 26 papers plus the biological corpus are published on Zenodo under open access. Full registry in [`doi-footer.md`](doi-footer.md).
+All 34 papers, 3 software packages, and the biological corpus are published on Zenodo under open access. Full registry in [`doi-footer.md`](doi-footer.md).
 
 ---
 
