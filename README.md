@@ -1,6 +1,6 @@
 # SECS Research
 
-Public research outputs from the SECS project. **34 papers** published on [Zenodo](https://zenodo.org) with registered DOIs, plus a **43-document biological research corpus** and **3 software packages**.
+Public research outputs from the SECS project. **34 papers** published on [Zenodo](https://zenodo.org) with registered DOIs, plus a **46-document biological research corpus** and **3 software packages**.
 
 **Author:** Jay Andrew Carpenter — Independent Researcher, Sydney, Australia  
 **Contact:** jay.andrew.carpenter@gmail.com  
